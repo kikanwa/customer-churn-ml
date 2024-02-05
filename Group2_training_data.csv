@@ -1,0 +1,2683 @@
+Customer ID,Gender,Age,Married,Number of Dependents,Number of Referrals,Tenure in Months,Offer,Avg Monthly Long Distance Charges,Contract,Monthly Charge,Customer Status
+5433-KYGHE,1,53,0,1,0,14,Offer D,47.72,Month-to-Month,86.0,0
+0829-DDVLK,1,58,0,0,0,15,None,9.74,One Year,20.1,0
+2521-NPUZR,0,26,1,0,9,70,Offer A,41.05,Two Year,101.0,0
+5119-NZPTV,0,70,1,0,9,2,Offer E,34.99,Month-to-Month,70.1,0
+2546-KZAAT,0,28,1,0,9,52,None,10.4,One Year,75.4,0
+9314-IJWSQ,1,46,1,3,1,14,Offer D,26.58,Month-to-Month,84.8,0
+8815-LMFLX,0,61,1,4,8,25,Offer C,19.56,Month-to-Month,-8.0,0
+7945-HLKEA,1,29,0,0,0,60,None,37.95,One Year,64.75,0
+0727-IWKVK,0,35,1,0,0,9,Offer E,19.18,Month-to-Month,79.9,1
+2027-CWDNU,0,45,1,3,1,18,None,28.04,Month-to-Month,85.6,0
+0082-LDZUE,0,54,0,0,0,1,Offer E,42.95,Month-to-Month,44.3,0
+6305-YLBMM,0,50,0,0,0,69,None,2.52,One Year,104.05,1
+8191-XWSZG,1,57,0,0,0,52,Offer B,22.55,One Year,20.65,0
+4992-LTJNE,0,40,1,0,5,72,Offer A,24.24,Two Year,55.3,0
+5780-INQIK,1,52,0,0,0,8,None,20.9,Month-to-Month,49.4,0
+5730-DBDSI,0,50,0,0,0,66,Offer A,45.54,Two Year,19.7,0
+7234-KMNRQ,0,21,0,0,0,4,None,8.38,Month-to-Month,19.0,0
+9917-KWRBE,1,28,1,0,8,41,Offer B,18.84,One Year,78.35,0
+9402-ROUMJ,1,52,1,3,10,67,Offer A,3.04,One Year,100.25,0
+9518-IMLHK,0,48,0,0,0,31,None,41.23,Month-to-Month,72.45,0
+1576-PFZIW,0,70,1,0,2,70,Offer A,14.48,Two Year,105.35,0
+2720-FVBQP,1,28,1,1,1,6,Offer E,24.83,Month-to-Month,48.95,0
+7278-CKDNC,0,76,0,0,0,24,None,46.13,Two Year,80.5,0
+4323-OHFOW,1,72,1,0,1,70,None,33.74,One Year,105.55,0
+7480-QNVZJ,0,65,0,0,0,50,None,18.92,Month-to-Month,95.7,1
+8049-WJCLQ,0,50,1,2,5,10,Offer D,19.77,Month-to-Month,60.2,0
+6032-KRXXO,0,33,0,0,0,30,None,30.06,Month-to-Month,90.25,1
+9473-CBZOP,1,35,0,0,0,28,None,33.05,One Year,59.0,0
+3823-KYNQY,0,61,0,0,0,12,Offer D,25.57,One Year,24.95,0
+6651-AZVTJ,0,27,1,0,1,49,None,46.94,Month-to-Month,99.8,1
+0164-APGRB,1,56,0,0,0,72,Offer A,48.37,Two Year,114.9,0
+9027-YFHQJ,0,26,0,0,0,7,Offer E,45.13,Month-to-Month,25.05,0
+4855-SNKMY,1,31,0,0,0,1,Offer E,4.41,Month-to-Month,44.1,1
+8640-SDGKB,0,39,0,0,0,4,None,28.89,Month-to-Month,74.4,1
+1845-CSBRZ,1,71,1,1,7,22,Offer D,40.19,Two Year,85.35,0
+7813-ZGGAW,0,68,0,0,0,31,Offer C,15.35,Two Year,96.6,0
+9158-VCTQB,1,41,1,0,1,41,None,5.01,Month-to-Month,113.6,1
+5980-NOPLP,1,19,1,0,4,44,None,11.24,Month-to-Month,96.1,1
+4980-URKXC,0,26,1,0,1,36,None,12.61,One Year,20.85,0
+3551-HUAZH,0,68,0,0,0,1,Offer E,11.08,Month-to-Month,74.4,1
+6432-TWQLB,0,51,1,0,1,5,Offer E,42.29,Month-to-Month,85.4,1
+7394-FKDNK,1,62,1,0,3,9,Offer E,26.51,Month-to-Month,89.45,1
+0428-IKYCP,0,56,1,0,9,22,None,48.68,Month-to-Month,87.0,0
+3164-AALRN,0,39,0,0,0,5,None,45.25,One Year,70.0,1
+1399-UBQIU,0,35,0,0,0,11,None,16.14,Month-to-Month,-3.0,0
+1697-LYYYX,1,21,1,1,8,61,None,42.11,One Year,19.1,0
+9251-WNSOD,1,23,1,0,10,67,Offer A,4.71,One Year,75.1,0
+3391-JSQEW,0,32,1,0,7,40,None,24.3,Month-to-Month,50.15,0
+5708-EVONK,1,37,1,0,1,58,None,3.65,Month-to-Month,93.4,1
+4710-FDUIZ,0,50,1,0,2,56,None,26.15,One Year,100.3,1
+8050-DVOJX,0,67,0,0,0,49,Offer B,43.19,Two Year,81.35,0
+7740-BTPUX,0,72,1,0,7,55,Offer B,12.91,Two Year,113.6,0
+8267-KFGYD,0,53,0,1,0,1,None,10.14,Month-to-Month,21.05,0
+7036-TYDEC,1,44,0,0,0,69,None,1.85,Two Year,104.0,0
+4373-MAVJG,1,64,1,0,1,14,Offer D,13.64,Month-to-Month,90.9,1
+5115-SQAAU,1,55,1,1,5,69,None,20.98,Two Year,25.6,0
+4929-XIHVW,0,79,1,0,10,2,Offer E,33.1,One Year,95.5,0
+7817-BOQPW,1,32,0,0,0,2,None,41.37,Month-to-Month,75.55,1
+0608-JDVEC,0,55,1,0,5,50,Offer B,1.87,Two Year,19.8,0
+9637-CDTKZ,0,64,1,0,6,72,None,23.27,Two Year,114.1,0
+5193-QLVZB,0,52,0,0,0,63,Offer B,48.75,Two Year,104.75,0
+9667-TKTVZ,1,38,0,0,0,2,None,25.81,Month-to-Month,54.35,0
+3810-PJUHR,0,63,1,1,6,70,Offer A,10.46,Two Year,25.35,0
+2682-KEVRP,1,65,0,0,0,22,None,34.39,One Year,20.05,0
+1579-KLYDT,0,31,0,0,0,7,Offer E,35.91,Month-to-Month,90.45,1
+2074-GUHPQ,1,37,0,2,0,17,None,49.78,Month-to-Month,92.7,0
+3190-ITQXP,1,42,1,1,7,46,None,27.65,Two Year,20.25,0
+0327-WFZSY,0,62,1,3,9,39,Offer C,17.29,One Year,100.0,0
+0657-DOGUM,1,35,1,0,1,48,Offer B,44.72,One Year,60.6,0
+2135-RXIHG,0,63,0,0,0,1,Offer E,14.12,Month-to-Month,45.65,1
+6630-UJZMY,1,73,1,0,10,4,None,14.34,One Year,83.25,0
+3801-HMYNL,0,44,1,0,1,1,None,32.35,Month-to-Month,89.15,1
+3473-XIIIT,1,61,1,0,1,16,None,37.83,Month-to-Month,100.0,1
+4659-NZRUF,1,64,0,0,0,19,Offer D,32.87,Month-to-Month,95.15,1
+3638-WEABW,1,25,1,0,1,58,Offer B,48.98,Two Year,59.9,0
+6188-UXBBR,1,47,1,0,1,38,Offer C,10.54,One Year,20.25,0
+0674-GCDXG,0,20,0,0,0,63,Offer B,42.59,Two Year,71.9,0
+6369-MCAKO,1,50,1,1,4,68,Offer A,47.91,Two Year,89.05,0
+0939-YAPAF,1,44,0,0,0,35,Offer C,10.49,Month-to-Month,100.25,1
+1985-MBRYP,1,44,0,0,0,43,Offer B,6.71,Two Year,19.65,0
+6586-MYGKD,0,46,1,0,1,70,Offer A,18.26,Two Year,76.95,0
+5168-MQQCA,1,50,1,0,2,72,Offer A,38.44,One Year,108.5,0
+3162-KKZXO,1,75,0,0,0,55,None,29.6,One Year,-2.0,0
+7354-OIJLX,0,52,0,0,0,9,Offer E,7.32,Month-to-Month,75.85,0
+2226-ICFDO,1,39,1,0,9,72,None,10.87,Two Year,85.9,0
+2223-KAGMX,1,47,0,0,0,15,Offer D,33.14,Month-to-Month,19.4,1
+7878-RTCZG,1,55,0,0,0,1,None,2.38,Month-to-Month,19.9,0
+9661-JALZV,1,23,0,0,0,58,Offer B,47.9,Two Year,24.7,0
+4897-QSUYC,1,42,0,0,0,1,Offer E,21.59,Month-to-Month,20.15,1
+9399-APLBT,1,52,1,0,0,1,None,21.91,Month-to-Month,74.7,1
+6982-SSHFK,0,45,0,0,0,1,Offer E,32.44,Month-to-Month,44.4,1
+9944-AEXBM,0,51,0,0,0,32,None,37.04,Month-to-Month,85.65,0
+4289-DTDKW,0,54,1,0,1,40,Offer B,22.56,Month-to-Month,101.3,1
+3422-GALYP,0,20,0,0,0,2,Offer E,28.61,Month-to-Month,79.45,0
+5598-IKHQQ,1,39,0,0,0,72,Offer A,6.75,Two Year,25.45,0
+7753-USQYQ,0,47,0,0,0,55,Offer B,27.65,One Year,64.2,0
+9603-OAIHC,0,72,0,0,0,1,Offer E,2.97,Two Year,70.05,0
+9717-IOAAF,0,54,0,1,0,27,None,2.65,Two Year,25.85,0
+3808-HFKDE,1,35,0,0,0,20,Offer D,4.15,Month-to-Month,44.35,0
+9822-BIIGN,0,61,1,3,0,53,Offer B,27.56,Month-to-Month,71.85,0
+0318-QUUOB,0,25,1,0,1,1,None,43.67,Month-to-Month,80.55,1
+1963-VAUKV,1,31,0,0,0,1,Offer E,22.12,Month-to-Month,20.4,1
+2669-QVCRG,1,32,0,0,0,41,None,7.83,Month-to-Month,81.3,0
+2809-ZMYOQ,1,33,0,0,0,32,None,41.53,Month-to-Month,101.35,0
+5696-QURRL,0,31,0,0,0,1,None,13.84,Month-to-Month,-5.0,1
+0134-XWXCE,1,76,0,0,0,44,None,7.72,One Year,74.85,0
+9725-SCPZG,0,47,0,0,0,1,Offer E,1.13,Month-to-Month,90.85,1
+2888-ADFAO,1,47,1,3,5,47,None,3.95,Two Year,21.3,0
+5356-KZCKT,0,42,0,0,0,58,Offer B,2.38,Two Year,24.45,0
+2040-LDIWQ,0,51,1,0,8,65,Offer B,41.57,Two Year,84.2,0
+5650-YLIBA,0,60,0,0,0,31,None,42.05,Month-to-Month,81.15,0
+4430-YHXGG,1,20,0,3,0,4,Offer E,38.97,Month-to-Month,25.45,0
+5320-BRKGK,1,28,1,2,1,58,Offer B,2.87,Two Year,75.8,0
+6185-TASNN,0,71,0,0,0,1,Offer E,11.51,Two Year,46.3,0
+3807-XHCJH,1,21,1,3,4,1,None,6.86,Month-to-Month,20.0,0
+2720-WGKHP,0,65,0,0,0,2,Offer E,20.99,Month-to-Month,94.0,1
+0215-BQKGS,0,52,0,0,0,30,Offer C,24.73,Month-to-Month,84.3,0
+6892-EZDTG,1,55,1,0,1,4,Offer E,21.81,Month-to-Month,91.65,1
+0362-ZBZWJ,0,46,0,0,0,36,None,24.66,Month-to-Month,84.9,1
+3348-CFRNX,1,47,1,0,1,28,None,37.66,Month-to-Month,92.35,1
+4724-WXVWF,0,28,0,0,0,48,None,4.15,Month-to-Month,95.4,0
+3070-FNFZQ,1,48,1,1,1,23,Offer D,39.59,Two Year,20.4,0
+7552-KEYGT,0,53,1,0,1,27,Offer C,44.19,Two Year,-9.0,0
+4176-RELJR,0,73,0,0,0,67,None,14.69,Two Year,25.1,0
+8739-XNIKG,1,29,0,0,0,5,None,48.49,Month-to-Month,84.0,0
+9885-AIBVB,0,62,1,0,4,29,None,39.5,Month-to-Month,85.8,0
+7780-OTDSO,0,51,1,0,1,18,None,11.3,Month-to-Month,99.4,1
+6048-QBXKL,1,68,0,0,0,2,Offer E,31.74,Month-to-Month,56.55,0
+7517-SAWMO,1,31,1,0,1,19,Offer D,25.75,Month-to-Month,73.2,1
+4706-AXVKM,1,78,0,0,0,11,None,4.1,Month-to-Month,84.8,1
+1431-CYWMH,1,35,1,1,0,22,Offer D,46.45,Month-to-Month,19.05,0
+8849-GYOKR,1,59,1,0,2,54,None,8.83,One Year,106.55,1
+8042-JVNFH,0,23,0,0,0,1,None,35.28,Month-to-Month,71.35,1
+2880-FPNAE,0,69,1,0,1,2,Offer E,7.29,Two Year,74.2,0
+1271-UODNO,0,60,0,0,0,39,None,5.4,Two Year,53.85,0
+4376-KFVRS,0,52,1,0,5,72,Offer A,30.75,Two Year,114.05,0
+6627-CFOSN,1,54,0,0,0,59,Offer B,39.42,Month-to-Month,99.45,0
+4250-ZBWLV,0,24,0,0,0,68,Offer A,21.74,One Year,108.45,1
+2931-FSOHN,0,76,0,0,0,13,None,49.9,Month-to-Month,59.9,0
+1084-MNSMJ,1,63,1,0,10,51,Offer B,33.93,Two Year,85.5,0
+3219-JQRSL,1,70,1,0,1,72,None,24.44,Two Year,89.1,0
+6016-NXBNJ,0,53,0,0,0,35,None,7.74,One Year,19.15,0
+9442-JTWDL,1,52,0,0,0,11,None,26.85,One Year,20.05,0
+1023-BQXZE,0,30,0,0,0,57,None,24.67,Two Year,74.35,0
+4749-VFKVB,1,47,0,0,0,1,None,46.49,Month-to-Month,50.1,1
+9947-OTFQU,0,65,0,0,0,15,Offer D,29.11,Month-to-Month,74.4,1
+0697-ZMSWS,0,19,0,0,0,4,None,6.91,Month-to-Month,85.65,1
+9544-PYPSJ,1,67,1,2,1,62,None,45.76,Two Year,96.1,0
+5168-MSWXT,0,26,1,3,4,8,None,22.14,Month-to-Month,94.75,0
+6972-SNKKW,1,60,0,0,0,6,None,47.46,Month-to-Month,20.0,0
+7978-DKUQH,1,26,1,0,7,25,None,37.1,Month-to-Month,74.6,0
+3556-BVQGL,1,21,1,0,2,20,Offer D,19.15,One Year,20.0,0
+7779-LGOVN,0,74,1,0,2,10,None,46.5,Month-to-Month,86.65,1
+4587-NUKOX,1,60,0,0,0,3,Offer E,32.43,Month-to-Month,79.1,1
+9057-SIHCH,1,48,0,0,0,3,Offer E,9.95,Month-to-Month,96.6,1
+0487-RPVUM,0,49,1,0,1,61,None,15.15,Month-to-Month,99.4,0
+9451-WLYRI,1,50,1,0,5,53,Offer B,46.24,One Year,19.05,0
+5562-YJQGT,1,57,0,0,0,2,None,2.46,Month-to-Month,20.35,0
+3199-NPKCN,1,39,1,0,1,67,None,35.03,One Year,111.25,0
+5405-ZMYXQ,1,21,0,0,0,8,Offer E,1.28,Month-to-Month,74.6,0
+4868-AADLV,0,77,1,2,0,66,None,3.27,One Year,116.25,0
+2451-YMUXS,0,79,0,0,0,67,Offer A,28.88,Two Year,64.55,0
+9069-LGEUL,0,25,1,0,5,23,None,3.67,Month-to-Month,59.95,0
+4993-JCRGJ,0,62,0,0,0,26,None,37.69,Month-to-Month,84.3,0
+8058-DMYRU,0,69,0,0,0,54,None,18.58,Two Year,-8.0,0
+2530-FMFXO,0,38,1,1,3,56,Offer B,42.16,Two Year,103.2,0
+5960-WPXQM,0,24,0,0,0,1,None,31.34,Month-to-Month,79.05,1
+3125-RAHBV,0,24,0,0,0,22,Offer D,23.03,One Year,20.3,0
+8155-IBNHG,1,55,1,0,1,24,None,17.73,Month-to-Month,75.4,1
+2560-PPCHE,1,22,0,0,0,65,None,26.83,One Year,105.05,0
+9776-CLUJA,1,69,1,0,1,51,None,17.87,Month-to-Month,77.5,1
+1231-YNDEK,0,49,0,0,0,58,None,29.31,Two Year,19.15,0
+8429-XIBUM,0,44,0,0,0,22,Offer D,10.33,Month-to-Month,101.35,1
+7088-FBAWU,1,22,1,2,8,17,Offer D,44.9,Month-to-Month,74.55,0
+2372-HWUHI,0,45,0,0,0,2,Offer E,46.84,Month-to-Month,44.35,1
+8496-DMZUK,0,62,0,0,0,30,Offer C,7.19,One Year,90.4,0
+4079-ULGFR,0,22,0,0,0,16,Offer D,4.13,Month-to-Month,20.0,0
+4910-AQFFX,0,30,1,0,1,9,None,31.67,Month-to-Month,79.35,1
+1208-DNHLN,0,60,1,0,1,23,None,5.8,One Year,48.35,1
+6723-WSNTY,1,73,1,0,3,66,None,6.94,One Year,108.1,0
+7683-CBDKJ,0,42,1,1,1,14,None,45.6,Month-to-Month,65.45,1
+6614-YWYSC,0,68,1,0,5,61,None,19.14,Two Year,25.0,0
+7874-ECPQJ,1,57,0,2,0,4,None,27.37,Month-to-Month,20.05,0
+3174-AKMAS,1,61,1,0,1,46,None,37.02,Two Year,64.2,0
+1017-FBQMM,1,47,1,2,8,62,Offer B,15.05,One Year,106.05,0
+4290-BSXUX,0,33,1,0,1,3,None,43.27,Month-to-Month,79.65,1
+4753-PADAS,1,23,1,0,2,67,Offer A,25.46,One Year,105.7,0
+3319-DWOEP,0,69,1,0,0,6,Offer E,47.9,Month-to-Month,95.75,1
+5321-NTRKC,0,25,1,1,8,66,Offer A,35.01,Two Year,79.85,0
+0004-TLHLJ,0,50,0,0,0,4,Offer E,33.65,Month-to-Month,73.9,1
+9633-XQABV,1,33,0,0,0,3,Offer E,25.4,Month-to-Month,70.25,0
+3227-WLKLI,1,52,1,3,1,65,None,10.11,Two Year,91.55,0
+0621-TWIEM,0,28,0,0,0,10,Offer D,34.44,Month-to-Month,45.55,1
+2379-ENZGV,0,61,0,0,0,6,Offer E,39.32,Month-to-Month,84.85,1
+2558-BUOZZ,0,51,0,0,0,47,Offer B,40.25,One Year,94.8,0
+2001-EWBQU,1,23,0,0,0,60,None,35.47,Two Year,104.7,0
+8603-IJWDN,0,41,0,0,0,1,Offer E,5.43,Month-to-Month,86.6,1
+9090-SGQXL,0,70,1,0,1,68,None,47.17,Month-to-Month,105.3,1
+2150-UWTFY,1,21,1,3,1,22,Offer D,42.98,Month-to-Month,61.15,1
+3482-ABPKK,1,19,0,0,0,28,Offer C,28.42,One Year,54.3,0
+5296-BFCYD,0,35,1,2,4,46,None,14.91,Two Year,20.1,0
+7666-WKRON,1,39,0,0,0,39,None,24.45,Two Year,80.45,1
+9481-IEBZY,0,69,1,0,6,72,Offer A,30.3,Two Year,112.9,0
+6651-RLGGM,0,54,1,2,2,67,Offer A,14.54,Two Year,26.3,0
+6082-GLJIX,0,50,0,0,0,18,Offer D,31.33,Month-to-Month,19.25,0
+6754-LZUKA,0,29,1,0,1,61,None,23.31,Two Year,80.9,0
+5922-ABDVO,1,20,1,0,1,19,Offer D,21.71,Month-to-Month,89.65,1
+7893-IXHRQ,0,53,0,0,0,1,None,15.91,Month-to-Month,20.55,1
+7359-SSBJK,1,80,0,0,0,64,Offer B,29.12,Two Year,70.2,1
+7296-PIXQY,1,60,1,2,0,14,Offer D,23.0,Month-to-Month,70.2,0
+9110-HSGTV,1,46,0,0,0,69,Offer A,25.73,Two Year,82.45,0
+7593-JNWRU,0,61,1,1,5,6,Offer E,49.2,Month-to-Month,44.6,1
+1087-UDSIH,1,38,0,0,0,3,Offer E,13.28,Month-to-Month,19.6,1
+3096-YXENJ,1,25,1,0,1,65,None,27.69,Two Year,107.65,0
+8495-PRWFH,1,66,0,0,0,42,None,27.0,Month-to-Month,55.65,0
+0036-IHMOT,1,37,1,3,10,55,None,35.04,One Year,103.7,0
+7813-TKCVO,1,23,1,0,1,20,None,27.96,One Year,20.35,0
+7898-PDWQE,0,22,1,0,2,71,Offer A,18.04,Two Year,80.4,0
+4877-EVATK,0,30,0,0,0,1,None,46.77,Month-to-Month,20.0,1
+6051-PTVNS,1,31,1,1,0,55,Offer B,27.7,One Year,19.15,0
+3727-JEZTU,1,29,0,0,0,1,None,45.91,Month-to-Month,20.4,0
+8617-ENBDS,0,29,0,0,0,3,None,27.34,Month-to-Month,73.6,0
+7641-TQFHN,0,21,0,1,0,39,Offer C,14.72,Two Year,100.55,0
+1053-MXTTK,1,63,1,1,1,72,None,14.46,Two Year,108.65,0
+6179-GJPSO,1,67,0,0,0,43,None,31.83,Month-to-Month,108.15,1
+7285-KLOTR,1,46,1,0,3,12,None,25.09,One Year,78.85,0
+5913-INRQV,0,71,1,0,7,34,None,26.49,One Year,90.15,0
+6923-EFPNL,0,39,0,0,0,4,None,9.98,Month-to-Month,51.75,1
+7694-VLBWQ,0,61,1,0,4,67,Offer A,8.18,One Year,104.1,1
+5439-WIKXB,0,65,1,0,8,41,Offer B,46.46,Month-to-Month,94.55,0
+7113-HIPFI,0,59,1,2,10,66,Offer A,26.91,Two Year,65.85,0
+7140-ADSMJ,0,23,0,0,0,8,Offer E,35.21,Month-to-Month,20.45,0
+0390-DCFDQ,1,76,1,2,1,1,Offer E,15.28,Month-to-Month,70.45,1
+7269-JISCY,1,48,0,0,0,55,None,33.6,One Year,45.05,0
+2266-FUBDZ,0,19,1,3,2,15,None,46.47,Two Year,19.35,0
+5144-TVGLP,0,68,0,0,0,38,None,46.96,Two Year,94.75,0
+0297-RBCSG,0,61,0,0,0,19,None,41.79,One Year,65.35,0
+4878-BUNFV,0,59,1,1,10,42,Offer B,32.02,Two Year,20.7,0
+8988-ECPJR,1,79,1,0,1,34,Offer C,25.84,Month-to-Month,79.6,1
+3061-BCKYI,0,27,0,0,0,14,Offer D,43.5,Month-to-Month,19.9,0
+9564-KCLHR,0,58,0,0,0,1,None,6.44,Month-to-Month,51.25,1
+6923-JHPMP,1,35,0,0,0,2,None,35.41,Month-to-Month,80.45,0
+5135-RDDQL,1,37,1,1,6,63,Offer B,25.32,Two Year,50.65,0
+1527-SXDPN,0,63,1,0,1,52,None,46.59,Two Year,96.25,1
+6726-WEXXK,0,72,1,0,7,27,None,41.11,One Year,85.9,0
+5208-HFSBT,1,47,0,0,0,2,Offer E,42.55,Month-to-Month,55.05,1
+4512-ZUIYL,1,31,0,0,0,2,Offer E,37.76,Month-to-Month,70.0,1
+5928-QLDHB,0,48,0,0,0,9,None,34.75,Month-to-Month,76.25,0
+0057-QBUQH,1,31,0,3,0,43,None,30.64,Two Year,25.1,0
+2587-YNLES,1,52,1,1,4,6,Offer E,25.05,Two Year,20.1,0
+4785-NKHCX,0,65,0,0,0,5,Offer E,30.14,One Year,20.05,0
+7850-VWJUU,1,37,0,0,0,23,None,24.04,Month-to-Month,75.0,0
+7925-PNRGI,1,51,1,2,9,45,Offer B,10.21,Month-to-Month,81.3,0
+1480-BKXGA,0,75,1,0,5,72,Offer A,21.37,Two Year,116.05,0
+3030-ZKIWL,0,23,0,0,0,1,None,18.15,Month-to-Month,20.05,0
+9418-RUKPH,1,26,1,3,7,38,Offer C,49.9,Two Year,19.95,0
+5406-KGRMX,1,30,0,0,0,71,None,2.66,Two Year,24.55,0
+4983-CCWMC,0,43,0,0,0,3,None,28.97,Month-to-Month,69.6,0
+2896-TBNBE,0,46,1,0,5,40,Offer B,12.97,One Year,80.8,0
+2853-CWQFQ,0,20,0,1,0,1,None,41.39,Month-to-Month,59.55,0
+2055-BFOCC,0,65,1,0,1,63,None,40.65,One Year,84.0,0
+8659-IOOPU,1,25,1,2,4,71,Offer A,32.16,Two Year,100.45,0
+3259-QMXUN,0,38,1,0,3,58,Offer B,22.14,Two Year,86.1,0
+2075-PUEPR,0,46,1,2,2,55,None,24.7,Two Year,19.35,0
+4614-NUVZD,1,53,0,0,0,1,None,22.86,Month-to-Month,81.1,1
+6854-EXGSF,1,37,0,0,0,8,Offer E,8.73,Month-to-Month,65.5,0
+5286-YHCVC,0,58,1,0,4,72,None,40.49,Two Year,104.8,0
+9802-CAQUT,1,27,1,3,9,72,None,33.39,Two Year,109.55,0
+1866-OBPNR,0,28,1,1,5,1,None,42.99,Month-to-Month,74.6,0
+2873-ZLIWT,1,64,1,0,1,40,Offer B,2.03,Month-to-Month,84.85,1
+0236-HFWSV,0,49,0,0,0,15,None,48.93,Month-to-Month,93.35,1
+2038-LLMLM,1,35,0,0,0,48,None,10.5,Month-to-Month,-4.0,0
+9609-BENEA,0,50,1,0,6,35,Offer C,45.97,One Year,69.0,0
+0228-MAUWC,0,40,0,0,0,19,Offer D,11.85,Month-to-Month,59.55,0
+7621-VPNET,1,60,1,0,8,42,None,20.58,Month-to-Month,85.9,0
+1015-JPFYW,0,47,0,2,0,7,None,49.16,One Year,19.45,0
+5161-UBZXI,0,38,1,2,1,69,None,42.9,Two Year,106.35,0
+4526-RMTLL,0,32,1,1,0,8,Offer E,37.28,Two Year,76.15,0
+0512-FLFDW,1,74,1,0,3,60,None,27.68,One Year,100.5,0
+2984-AFWNC,1,52,0,0,0,3,None,17.01,Month-to-Month,95.4,0
+7515-LODFU,0,67,0,0,0,69,None,20.62,Two Year,-7.0,0
+3165-HDOEW,0,47,1,0,1,1,None,14.9,Month-to-Month,45.85,1
+3420-ZDBMA,0,78,0,0,0,5,Offer E,17.13,Two Year,71.45,0
+7661-CPURM,0,49,0,0,0,19,Offer D,43.11,One Year,87.7,0
+2775-SEFEE,0,56,0,1,0,10,None,29.95,Two Year,61.9,0
+6654-QGBZZ,1,21,0,0,0,1,None,1.5,Month-to-Month,19.9,0
+5364-EVNIB,0,61,0,0,0,13,None,30.88,Month-to-Month,79.8,1
+1091-SOZGA,1,27,1,0,1,56,None,42.37,One Year,99.8,0
+0489-WMEMG,1,61,0,3,0,23,Offer D,25.85,One Year,49.45,0
+2371-KFUOG,0,54,0,0,0,58,Offer B,32.67,One Year,99.15,0
+5176-OLSKT,1,49,1,0,5,66,Offer A,44.4,Two Year,66.9,0
+3707-GNWHM,0,28,0,0,0,1,None,21.8,Month-to-Month,74.25,1
+9462-MJUAW,0,60,0,0,0,4,None,30.44,Month-to-Month,50.4,1
+4522-XRWWI,0,30,1,0,1,42,Offer B,17.31,One Year,80.45,0
+7463-IFMQU,1,44,1,0,1,72,None,47.24,Two Year,20.05,0
+1849-RJYIG,1,43,0,0,0,8,None,46.78,Month-to-Month,60.0,0
+9079-LWTFD,0,50,0,0,0,47,None,47.73,Month-to-Month,100.75,0
+0089-IIQKO,1,35,1,3,1,39,None,24.38,Month-to-Month,99.95,0
+4318-RAJVY,1,57,0,0,0,10,None,2.84,One Year,19.8,0
+1501-SGHBW,0,34,0,0,0,2,None,19.52,Month-to-Month,45.85,1
+5117-IFGPS,0,73,1,0,7,29,Offer C,36.75,Two Year,84.3,0
+5371-VYLSX,1,65,0,0,0,50,None,47.99,Month-to-Month,83.4,0
+9445-ZUEQE,0,33,1,1,1,27,Offer C,48.17,Month-to-Month,85.2,0
+7587-RZNME,0,23,0,0,0,3,Offer E,48.84,Month-to-Month,43.3,1
+6897-RWMUB,0,23,1,2,2,61,None,42.31,Two Year,-6.0,0
+6285-FTQBF,0,53,1,3,4,72,Offer A,36.82,Two Year,25.55,0
+2474-LCNUE,1,20,1,0,5,23,Offer D,14.53,Month-to-Month,73.65,0
+5619-XZZKR,0,47,0,0,0,4,None,6.86,One Year,19.95,0
+1587-FKLZB,0,79,1,0,1,66,Offer A,28.86,Month-to-Month,99.5,1
+6075-QMNRR,1,33,0,0,0,52,Offer B,38.93,Month-to-Month,49.75,0
+9019-QVLZD,1,58,0,0,0,1,None,32.13,Month-to-Month,79.55,1
+0887-HJGAR,0,57,0,0,0,1,Offer E,5.55,Month-to-Month,45.7,1
+1833-VGRUM,1,70,0,0,0,1,Offer E,48.95,Month-to-Month,74.2,1
+8309-IEYJD,1,73,0,0,0,1,Offer E,32.61,Two Year,70.6,0
+5014-WUQMG,0,23,1,2,1,47,Offer B,15.59,One Year,96.1,0
+3099-OONVS,0,34,1,1,6,25,Offer C,37.97,Month-to-Month,54.3,0
+6633-MPWBS,0,47,0,0,0,5,Offer E,7.31,Month-to-Month,49.2,1
+7267-FRMJW,1,25,1,3,1,25,Offer C,4.57,Two Year,20.1,0
+6323-AYBRX,0,51,0,0,0,59,None,26.63,Two Year,19.35,1
+8404-VLQFB,1,21,1,1,1,15,None,29.55,Month-to-Month,25.25,0
+5067-WJEUN,0,42,1,2,1,67,Offer A,10.9,Two Year,54.2,0
+2637-FKFSY,1,61,1,0,2,3,None,2.66,Month-to-Month,46.1,0
+8229-MYEJZ,1,44,0,0,0,10,Offer D,45.56,Month-to-Month,51.2,0
+9819-FBNSV,0,75,1,0,8,37,None,23.54,Two Year,72.25,0
+4381-MHQDC,1,38,0,0,0,47,Offer B,35.75,Two Year,65.0,0
+8067-NIOYM,1,51,1,3,9,24,Offer C,20.6,Two Year,21.1,0
+0684-AOSIH,0,42,1,0,1,1,None,12.04,Month-to-Month,95.0,1
+2812-REYAT,1,56,1,0,3,49,None,22.1,One Year,20.05,0
+6874-SGLHU,0,44,0,0,0,30,None,12.17,One Year,97.0,0
+3486-KHMLI,0,53,0,1,0,21,Offer D,31.26,Month-to-Month,24.7,0
+5774-XZTQC,1,30,1,1,3,7,Offer E,5.84,Month-to-Month,20.45,0
+2111-DWYHN,0,31,0,0,0,1,None,18.81,Month-to-Month,21.1,0
+4184-VODJZ,0,62,1,2,4,63,Offer B,48.62,One Year,91.35,0
+9143-CANJF,1,29,1,3,7,24,None,27.37,Month-to-Month,55.15,0
+7017-VFULY,1,38,1,0,9,2,None,32.86,Month-to-Month,20.1,0
+1088-AUUZZ,0,33,1,1,6,56,Offer B,37.58,Two Year,75.85,0
+2180-DXNEG,1,46,0,0,0,12,None,25.54,Month-to-Month,96.0,1
+1028-FFNJK,0,79,1,0,1,30,Offer C,48.02,Month-to-Month,101.5,0
+4456-RHSNB,1,43,1,1,3,19,None,7.42,Month-to-Month,49.6,0
+0481-SUMCB,1,74,0,0,0,45,Offer B,34.12,One Year,102.15,0
+8709-KRDVL,1,44,0,0,0,33,None,16.57,Month-to-Month,100.0,0
+3824-RHKVR,1,27,0,0,0,17,Offer D,22.26,Month-to-Month,19.7,0
+2114-MGINA,1,57,0,0,0,14,Offer D,10.3,Month-to-Month,89.8,1
+2791-SFVEW,1,63,0,0,0,9,Offer E,34.79,Month-to-Month,20.15,0
+9091-WTUUY,0,30,1,0,4,64,None,25.74,Two Year,69.25,0
+5346-BZCHP,1,19,1,2,0,69,Offer A,25.18,Two Year,19.4,0
+7175-NTIXE,1,26,0,0,0,25,None,21.67,Month-to-Month,76.15,0
+0815-MFZGM,1,54,1,0,9,42,None,1.31,Two Year,99.0,0
+5240-CAOYT,1,30,0,0,0,57,None,28.27,Month-to-Month,87.55,0
+1325-USMEC,0,58,1,0,10,70,Offer A,48.0,Two Year,99.35,0
+4083-EUGRJ,0,37,0,0,0,9,None,8.91,Month-to-Month,20.25,1
+0074-HDKDG,0,46,1,0,5,25,None,6.45,One Year,61.6,0
+7789-CRUVC,1,77,1,0,1,61,None,33.75,Month-to-Month,94.2,0
+8402-EIVQS,0,40,1,0,8,67,Offer A,31.41,One Year,100.9,0
+6933-FHBZC,1,30,0,0,0,26,Offer C,35.75,One Year,56.05,0
+2668-TZSPS,0,32,0,0,0,1,None,39.61,Month-to-Month,20.45,0
+7382-DFJTU,0,63,0,0,0,18,Offer D,47.72,Month-to-Month,-2.0,0
+1333-PBMXB,1,40,1,2,1,54,None,28.87,One Year,24.75,0
+5307-DZCVC,1,78,1,0,0,32,Offer C,48.95,Month-to-Month,85.95,1
+9685-WKZGT,0,67,0,0,0,14,Offer D,16.32,Month-to-Month,74.95,1
+8375-KVTHK,0,43,1,0,1,68,None,49.51,One Year,100.3,0
+2188-SXWVT,1,31,0,0,0,34,Offer C,43.17,One Year,55.0,0
+3900-AQPHZ,1,45,0,0,0,1,None,49.51,Month-to-Month,19.9,1
+8720-RQSBJ,0,69,0,0,0,1,Offer E,28.67,Two Year,44.0,0
+8414-OOEEL,0,48,0,2,0,66,Offer A,12.48,Two Year,79.5,0
+4682-BLBUC,0,19,1,0,1,44,None,29.61,One Year,70.95,0
+0859-YGKFW,0,56,1,3,1,18,Offer D,28.06,One Year,20.05,0
+1555-HAPSU,1,25,1,2,1,71,Offer A,29.41,Two Year,23.9,0
+9067-YGSCA,1,35,0,0,0,70,None,31.33,One Year,26.05,0
+2758-RNWXS,0,60,0,0,0,35,Offer C,49.61,One Year,89.2,0
+3197-ARFOY,1,67,0,0,0,19,None,7.95,One Year,105.0,0
+3451-VAWLI,1,62,1,2,5,35,None,15.41,Two Year,19.7,0
+9894-QMIMJ,1,55,0,0,0,23,Offer D,9.04,One Year,55.8,0
+7717-BICXI,0,37,1,3,4,60,Offer B,15.65,Two Year,20.55,0
+6388-TABGU,0,48,0,0,0,62,Offer B,7.96,One Year,56.15,0
+9274-UARKJ,1,60,0,0,0,15,None,10.43,Month-to-Month,83.2,0
+9611-CTWIH,1,56,0,0,0,3,None,16.15,Month-to-Month,89.45,1
+7129-AZJDE,0,59,1,1,1,34,Offer C,3.54,One Year,78.95,0
+4795-UXVCJ,0,63,0,0,0,26,Offer C,45.7,One Year,19.8,0
+0042-JVWOJ,0,64,0,0,0,26,Offer C,37.7,One Year,19.6,0
+2105-PHWON,1,41,1,0,1,33,None,10.34,Month-to-Month,95.0,0
+9031-ZVQPT,0,21,1,0,10,72,None,14.19,Two Year,108.2,0
+2077-MPJQO,0,80,1,0,2,7,None,21.37,Month-to-Month,-10.0,0
+9103-CXVOK,0,31,1,2,8,1,None,30.38,Month-to-Month,19.75,0
+3067-SVMTC,1,49,1,0,9,68,None,44.79,One Year,55.9,0
+2220-IAHLS,1,49,0,0,0,1,None,2.85,Month-to-Month,19.4,0
+5502-RLUYV,1,42,1,0,1,69,None,37.2,Month-to-Month,103.95,1
+0508-OOLTO,1,33,1,1,5,2,None,29.03,Month-to-Month,71.65,0
+3908-BLSYF,1,40,0,0,0,6,None,25.93,Month-to-Month,83.9,1
+6349-JDHQP,1,62,0,0,0,53,None,18.81,Two Year,19.85,0
+3523-QRQLL,1,22,1,0,1,22,None,35.04,One Year,69.5,1
+7629-WFGLW,1,80,1,0,10,56,Offer B,11.55,One Year,95.65,0
+6360-SVNWV,1,72,0,0,0,31,None,47.48,Two Year,73.55,0
+9600-UDOPK,0,33,1,0,1,30,Offer C,10.5,Month-to-Month,94.05,1
+4821-SJHJV,1,25,1,3,6,32,None,48.49,Month-to-Month,89.6,0
+9351-HXDMR,0,37,1,0,6,72,Offer A,46.16,Two Year,110.9,0
+8388-DMKAE,1,41,0,0,0,8,Offer E,15.86,Two Year,20.25,0
+1450-SKCVI,1,22,0,0,0,56,None,35.59,Month-to-Month,73.85,1
+3932-CMDTD,1,29,0,0,0,4,None,43.45,One Year,105.65,1
+1894-IGFSG,1,38,0,0,0,22,None,18.01,Month-to-Month,89.25,1
+4234-XTNEA,0,25,0,0,0,2,None,37.7,Month-to-Month,79.95,0
+7856-GANIL,0,71,1,0,1,45,Offer B,2.38,One Year,98.7,0
+4342-HFXWS,1,19,1,1,6,48,Offer B,44.66,One Year,69.7,0
+7009-PCARS,0,53,0,2,0,55,Offer B,39.29,One Year,19.1,0
+7009-LGECI,1,24,0,0,0,4,None,22.07,Month-to-Month,50.55,0
+9692-TUSXH,1,23,0,0,0,18,Offer D,35.7,Month-to-Month,96.05,1
+3580-GICBM,1,56,1,1,7,61,None,34.84,Two Year,24.2,0
+5567-GZKQY,0,58,0,0,0,58,Offer B,29.25,Two Year,20.3,0
+7272-QDCKA,0,31,0,0,0,28,Offer C,12.36,One Year,100.2,0
+3785-KTYSH,0,24,0,0,0,53,None,34.16,Two Year,24.6,0
+3254-YRILK,0,74,0,0,0,19,Offer D,39.97,Month-to-Month,88.2,1
+3030-YDNRM,0,64,0,0,0,8,Offer E,11.58,Month-to-Month,74.85,0
+7410-KTVFV,0,53,1,0,1,18,None,19.05,Month-to-Month,49.55,1
+0115-TFERT,0,24,1,0,1,21,None,36.26,Month-to-Month,111.2,1
+9490-DFPMD,1,79,0,0,0,42,None,9.53,Month-to-Month,84.65,1
+0071-NDAFP,0,31,1,3,1,25,None,23.69,Two Year,25.5,0
+4670-TABXH,0,53,1,0,6,72,None,22.95,Two Year,109.75,0
+8383-SGHJU,1,41,0,0,0,33,None,10.28,One Year,59.4,0
+6778-EICRF,0,57,1,1,9,24,None,8.67,One Year,74.8,0
+9574-BOSMD,0,50,1,2,10,68,None,19.09,Two Year,25.4,0
+6685-XSHHU,0,45,1,2,9,60,None,32.12,Two Year,20.95,0
+3378-AJRAO,0,44,1,0,7,44,None,32.22,One Year,24.85,0
+7554-AKDQF,1,27,1,0,9,6,Offer E,5.69,Month-to-Month,45.65,0
+8561-NMTBD,1,20,1,3,3,67,None,20.41,One Year,112.35,0
+3049-SOLAY,1,21,1,0,5,3,None,23.26,Month-to-Month,95.2,1
+8062-YBDOE,0,70,0,0,0,1,None,7.23,Month-to-Month,69.65,1
+6509-TSGWN,1,42,1,2,1,37,None,31.83,Month-to-Month,26.45,0
+3550-SAHFP,1,51,0,0,0,33,None,20.29,Month-to-Month,83.35,1
+3966-HRMZA,1,74,0,0,0,3,Offer E,41.44,One Year,75.05,0
+1790-NESIO,1,23,0,0,0,13,None,6.56,Two Year,20.4,0
+5334-AFQJB,0,66,0,0,0,72,Offer A,2.37,Two Year,25.1,0
+8083-YTZES,0,52,0,0,0,4,None,47.82,Month-to-Month,74.35,1
+1867-TJHTS,1,47,0,0,0,58,None,22.71,Month-to-Month,79.8,0
+6996-KNSML,1,26,0,0,0,1,None,35.25,Month-to-Month,74.9,1
+4441-NIHPT,1,73,0,0,0,13,None,40.37,Month-to-Month,74.3,1
+3936-QQFLL,0,58,0,0,0,2,None,1.97,Month-to-Month,19.75,0
+9500-LTVBP,1,63,0,0,0,35,Offer C,13.14,Month-to-Month,80.05,0
+5975-BAICR,0,36,1,2,8,36,None,47.45,One Year,63.7,0
+7964-ZRKKG,0,44,1,0,1,67,None,37.6,One Year,88.4,0
+7293-LSCDV,1,32,1,3,2,60,None,23.68,Two Year,19.25,0
+2167-FQSTQ,1,20,1,0,8,72,None,37.45,Two Year,92.4,0
+0887-WBJVH,1,29,1,0,1,53,Offer B,38.35,One Year,93.45,0
+9190-MFJLN,0,65,0,0,0,19,Offer D,32.77,Month-to-Month,95.9,1
+4955-VCWBI,1,51,1,2,5,43,None,35.2,One Year,20.0,0
+5886-VLQVU,0,30,1,0,0,35,None,24.83,Month-to-Month,89.85,0
+5514-YQENT,0,29,0,3,0,41,None,30.58,Two Year,111.15,0
+6400-BWQKW,1,51,0,0,0,6,None,19.74,Month-to-Month,79.05,1
+1323-OOEPC,1,45,1,0,1,53,None,41.74,Month-to-Month,98.4,1
+4010-YLMVT,1,25,0,0,0,56,Offer B,24.77,Month-to-Month,106.6,0
+6806-YDEUL,1,67,0,0,0,6,Offer E,2.03,Two Year,19.5,0
+3446-QDSZF,1,57,0,0,0,4,Offer E,38.96,Month-to-Month,55.5,0
+4950-HKQTE,1,47,0,0,0,22,Offer D,5.28,Two Year,26.25,0
+1356-MKYSK,0,44,0,0,0,6,Offer E,46.59,Month-to-Month,78.65,0
+6172-FECYY,0,55,1,0,1,49,Offer B,39.6,Month-to-Month,84.5,1
+6134-KWTBV,0,43,0,0,0,62,None,48.93,Two Year,23.4,0
+5016-IBERQ,0,28,1,0,1,23,None,18.05,Month-to-Month,84.25,0
+7245-NIIWQ,1,53,0,0,0,3,Offer E,34.76,Month-to-Month,69.85,0
+7181-OQCUT,0,60,0,0,0,21,Offer D,15.89,Month-to-Month,103.85,0
+1104-TNLZA,0,67,1,0,8,28,Offer C,24.35,Month-to-Month,105.8,0
+4119-ZYPZY,0,67,0,0,0,71,None,34.8,Two Year,106.8,0
+0495-ZBNGW,0,78,1,0,1,5,None,6.66,Month-to-Month,-1.0,1
+4298-OYIFC,0,59,1,0,1,15,None,18.6,Month-to-Month,103.45,0
+0619-OLYUR,0,32,1,0,1,72,None,47.83,Two Year,111.9,0
+9711-FJTBX,0,60,1,1,4,56,None,11.48,One Year,85.85,0
+4817-QRJSX,1,46,0,0,0,10,Offer D,49.5,Month-to-Month,81.0,1
+0564-MUUQK,1,28,1,2,5,20,None,38.71,Month-to-Month,95.5,0
+3633-CDBUW,0,25,0,1,0,17,None,45.92,One Year,80.85,0
+1447-PJGGA,1,39,0,0,0,57,None,17.55,Two Year,95.25,1
+5035-PGZXH,1,49,0,0,0,56,None,32.43,One Year,106.8,0
+8229-BUJHX,1,60,1,1,8,71,None,11.13,Two Year,20.5,0
+6693-DJWTY,1,46,0,3,0,35,None,12.56,One Year,-4.0,0
+7094-MSZAO,0,55,1,3,7,10,None,13.83,Month-to-Month,20.05,0
+8562-GHPPI,1,50,0,0,0,1,None,11.96,Month-to-Month,19.8,0
+4716-MRVEN,1,30,0,0,0,29,Offer C,32.43,One Year,20.0,0
+7554-NEWDD,0,44,0,0,0,10,None,32.1,Two Year,25.7,0
+3709-OIJEA,0,51,0,0,0,26,None,29.72,One Year,-2.0,0
+1568-BEKZM,0,65,1,0,7,70,None,12.07,Two Year,90.05,0
+5788-YPOEG,1,41,1,2,9,34,Offer C,9.09,Two Year,84.75,0
+3716-LRGXK,0,27,1,0,0,60,None,10.05,Two Year,101.15,0
+9668-PUGNU,0,20,1,0,9,71,None,32.18,Two Year,24.5,0
+5274-XHAKY,1,19,1,2,10,41,Offer B,1.6,Month-to-Month,94.3,0
+0529-ONKER,0,70,0,0,0,15,Offer D,46.38,Month-to-Month,75.65,1
+5294-DMSFH,1,32,1,2,1,29,None,33.62,Month-to-Month,87.8,0
+7993-PYKOF,0,20,1,0,1,8,None,5.34,Month-to-Month,75.0,1
+1452-KIOVK,0,42,0,3,0,22,Offer D,29.54,Month-to-Month,89.1,0
+3902-FOIGH,0,66,1,0,1,12,None,48.5,Month-to-Month,101.35,1
+4770-UEZOX,0,19,0,0,0,2,Offer E,43.56,Month-to-Month,74.75,0
+0621-HJWXJ,1,54,1,0,1,63,Offer B,21.15,Month-to-Month,81.55,0
+1170-SASML,1,33,1,0,6,69,Offer A,34.49,Month-to-Month,85.4,0
+1699-TLDLZ,1,44,1,2,10,16,Offer D,7.14,Two Year,19.7,0
+5271-DBYSJ,0,80,0,0,0,11,Offer D,26.84,Month-to-Month,79.15,0
+2985-JUUBZ,0,32,1,3,5,40,Offer B,13.86,Month-to-Month,74.55,0
+8212-CRQXP,1,20,1,0,1,22,None,45.1,Month-to-Month,80.0,0
+4178-EGMON,0,30,1,0,9,70,None,9.28,Two Year,88.0,0
+8879-ZKJOF,1,57,0,0,0,41,None,38.21,One Year,79.85,0
+5099-BAILX,0,77,1,0,1,43,Offer B,14.52,Month-to-Month,110.75,1
+7852-LECYP,0,79,1,0,8,13,Offer D,48.15,Two Year,93.8,0
+9025-ZRPVR,0,59,0,0,0,9,Offer E,49.74,Month-to-Month,18.95,1
+0484-JPBRU,0,23,0,0,0,41,None,41.21,Month-to-Month,25.25,0
+2348-KCJLT,1,60,1,0,8,44,Offer B,44.87,One Year,61.5,0
+1169-SAOCL,0,45,0,0,0,49,None,22.52,One Year,106.65,0
+5649-RXQTV,0,34,0,0,0,51,Offer B,42.33,Month-to-Month,99.0,0
+6023-YEBUP,0,32,0,0,0,3,Offer E,11.94,Month-to-Month,100.95,1
+0661-KBKPA,0,43,1,3,7,53,None,31.86,One Year,78.75,0
+0956-ACVZC,1,23,0,0,0,54,None,48.97,One Year,94.1,0
+6177-PEVRA,1,58,0,0,0,48,None,13.03,Two Year,55.5,0
+7014-ZZXAW,1,30,1,0,1,71,None,8.21,Two Year,24.25,0
+3466-WAESX,0,46,0,2,0,16,Offer D,13.99,Month-to-Month,69.1,0
+4616-ULAOA,1,33,1,2,1,65,Offer B,45.21,Two Year,110.8,0
+3144-AUDBS,1,59,1,0,1,6,Offer E,6.94,Month-to-Month,49.15,1
+5090-EMGTC,1,32,1,0,10,59,Offer B,45.75,Two Year,100.05,0
+3889-VWBID,0,52,1,1,1,68,None,27.59,Two Year,82.85,0
+8580-QVLOC,1,78,1,0,0,72,None,25.77,Two Year,92.45,1
+9249-FXSCK,1,20,0,0,0,52,Offer B,33.69,One Year,111.25,1
+7572-KPVKK,0,44,0,1,0,62,Offer B,17.67,Two Year,104.05,0
+4822-LPTYJ,0,38,1,0,8,72,None,16.5,Two Year,103.75,0
+3996-ZNWYK,0,77,1,1,5,71,None,32.12,Two Year,19.8,0
+4667-QONEA,1,72,1,0,9,60,Offer B,48.9,One Year,74.85,0
+8433-WXGNA,0,55,0,0,0,2,None,42.16,Month-to-Month,75.7,1
+7860-KSUGX,0,25,1,0,1,72,Offer A,32.67,Two Year,64.45,0
+8017-UVSZU,1,62,1,0,5,40,None,48.29,Month-to-Month,56.6,0
+7349-ALMUX,0,35,0,0,0,37,None,38.43,Two Year,65.6,0
+3197-NNYNB,0,47,0,0,0,65,Offer B,27.75,Two Year,-3.0,0
+0376-OIWME,0,24,1,0,3,36,Offer C,41.33,Month-to-Month,93.6,0
+7995-ZHHNZ,0,56,1,0,1,42,Offer B,20.65,One Year,-7.0,0
+0696-UKTOX,0,64,0,1,0,23,None,8.4,Month-to-Month,54.15,0
+2530-ENDWQ,1,55,1,0,2,71,Offer A,40.52,Two Year,93.7,1
+2680-XKKNJ,1,60,0,0,0,8,None,17.52,One Year,58.2,0
+9720-JJJOR,0,20,1,0,8,41,None,2.43,One Year,60.3,0
+6993-OHLXR,1,26,0,0,0,2,None,30.73,Month-to-Month,68.95,1
+0565-IYCGT,0,51,0,0,0,69,Offer A,29.38,One Year,78.6,1
+5201-CBWYG,0,60,1,1,1,62,None,16.48,One Year,24.8,0
+3761-FLYZI,1,69,1,0,4,65,None,48.53,Two Year,108.8,0
+8625-AZYZY,0,51,1,0,2,24,Offer C,3.0,Month-to-Month,104.65,1
+5614-DNZCE,1,56,0,0,0,58,None,29.47,Two Year,64.9,0
+3230-IUALN,1,41,1,0,10,45,None,26.01,Two Year,81.0,0
+6625-IUTTT,0,29,0,0,0,67,Offer A,49.74,Two Year,65.55,0
+3842-IYKUE,1,28,0,0,0,35,Offer C,45.14,Month-to-Month,85.3,1
+4355-CVPVS,1,49,1,1,4,56,None,12.97,One Year,88.9,0
+4510-HIMLV,0,50,0,0,0,1,None,22.86,Month-to-Month,69.8,1
+5688-KZTSN,0,59,1,3,1,15,None,31.14,Month-to-Month,20.0,1
+1169-WCVAK,0,42,1,0,1,19,Offer D,34.05,Month-to-Month,88.8,0
+1796-JANOW,1,33,0,0,0,2,Offer E,34.57,Month-to-Month,19.95,0
+2096-XOTMO,1,40,1,3,10,16,None,12.82,Month-to-Month,19.35,0
+5376-DEQCP,1,48,0,0,0,1,None,27.12,Month-to-Month,70.6,1
+8059-UDZFY,1,73,0,2,0,33,Offer C,12.75,Two Year,105.35,0
+9695-IDRZR,1,26,0,3,0,34,None,27.47,Two Year,116.15,0
+2725-TTRIQ,1,45,1,3,10,72,Offer A,37.84,Two Year,84.2,0
+9318-NKNFC,0,53,0,0,0,1,None,40.49,Month-to-Month,18.85,1
+8132-YPVBX,1,28,0,0,0,6,None,40.64,Month-to-Month,85.95,0
+5726-CVNYA,1,44,1,0,8,8,Offer E,17.09,Two Year,19.85,0
+3733-ZEECP,0,29,1,2,3,22,None,27.91,Month-to-Month,51.1,0
+1016-DJTSV,0,66,0,0,0,8,Offer E,41.85,Two Year,69.7,0
+7797-EJMDP,1,34,0,0,0,8,Offer E,33.54,Month-to-Month,66.05,0
+9962-BFPDU,1,61,1,3,3,1,None,16.02,Month-to-Month,20.05,0
+3678-MNGZX,0,45,1,3,1,68,Offer A,35.89,Two Year,19.95,0
+8593-WHYHV,0,46,0,0,0,3,Offer E,14.28,Month-to-Month,85.3,1
+9866-QEVEE,0,58,0,0,0,19,Offer D,20.41,Month-to-Month,86.0,1
+2100-BDNSN,1,39,1,0,1,5,None,14.9,Month-to-Month,67.95,1
+2789-HQBOU,0,60,0,0,0,3,Offer E,49.63,Month-to-Month,80.35,0
+9386-LDCZR,0,19,0,0,0,43,Offer B,36.78,One Year,90.65,0
+7571-YXDAD,1,37,0,0,0,2,None,38.28,Month-to-Month,74.9,1
+8043-PNYSD,0,48,1,2,4,63,Offer B,10.67,Two Year,19.55,0
+4567-AKPIA,1,28,1,2,3,41,None,20.41,One Year,109.1,0
+2057-ZBLPD,1,50,1,0,3,21,Offer D,42.22,Month-to-Month,86.5,1
+9975-SKRNR,0,24,0,0,0,1,Offer E,49.51,Month-to-Month,18.9,0
+9378-FXTIZ,1,50,1,0,1,54,None,42.1,One Year,70.15,1
+6131-JLWZM,1,27,0,0,0,13,Offer D,22.01,Month-to-Month,20.3,0
+4578-PHJYZ,0,45,1,2,9,52,None,5.51,One Year,68.75,0
+3795-GWTRD,1,58,1,0,7,63,None,6.33,Two Year,75.55,0
+4854-CIDCF,1,74,0,0,0,3,None,46.65,Two Year,73.85,0
+0524-IAVZO,1,25,1,0,1,30,Offer C,4.82,Month-to-Month,85.0,1
+0813-TAXXS,0,48,0,0,0,55,None,26.3,Two Year,77.8,0
+1156-ZFYDO,1,57,0,0,0,1,None,37.62,Month-to-Month,19.75,0
+1174-FGIFN,1,44,1,1,7,28,Offer C,26.28,One Year,90.45,0
+4140-WJAWW,1,57,0,0,0,5,None,6.17,Month-to-Month,19.85,1
+0193-ESZXP,1,73,1,0,1,58,None,16.94,One Year,105.5,1
+1038-RQOST,0,43,1,2,6,19,Offer D,4.7,Month-to-Month,20.6,0
+5480-XTFFL,1,60,1,3,3,31,Offer C,9.8,Two Year,21.0,0
+1237-WIYYZ,1,49,0,0,0,18,Offer D,10.67,Month-to-Month,19.55,0
+1866-NXPSP,1,48,0,0,0,36,None,32.0,One Year,75.55,0
+0487-CRLZF,1,58,0,0,0,49,Offer B,7.51,Two Year,74.45,0
+6374-AFWOX,0,23,1,0,3,46,None,46.71,Two Year,65.65,0
+1241-EZFMJ,0,48,1,0,2,61,Offer B,11.53,Two Year,25.45,0
+2924-KHUVI,0,28,1,0,7,56,None,46.9,One Year,100.55,0
+5295-PCJOO,0,44,0,2,0,4,None,9.77,Month-to-Month,49.4,1
+6859-RKMZJ,0,38,1,0,6,11,None,44.2,Month-to-Month,-10.0,0
+2202-CUYXZ,0,25,0,0,0,1,None,36.07,Month-to-Month,84.85,1
+2003-CKLOR,0,62,0,0,0,66,Offer A,25.82,Month-to-Month,99.5,1
+1328-EUZHC,1,59,1,0,4,18,None,25.54,Two Year,20.1,0
+9081-WWXKP,1,64,1,1,8,47,None,37.35,Two Year,20.25,0
+7952-OBOYL,0,24,0,0,0,3,None,25.1,Month-to-Month,89.85,0
+9339-FIIJL,0,57,1,0,2,72,Offer A,10.97,Two Year,85.95,0
+6917-FIJHC,1,60,1,0,8,72,Offer A,26.98,Two Year,26.0,0
+5329-KRDTM,0,73,1,0,4,72,Offer A,33.68,Two Year,77.35,0
+4813-HQMGZ,1,54,1,0,4,8,Offer E,9.88,Month-to-Month,90.25,0
+6435-VWCCY,0,71,1,0,3,65,Offer B,27.14,Two Year,92.7,0
+7716-YTYHG,1,41,1,0,1,48,Offer B,23.95,One Year,82.05,1
+3606-TWKGI,0,68,0,0,0,13,Offer D,32.68,Month-to-Month,106.9,1
+8943-URTMR,1,56,0,0,0,2,Offer E,29.04,Month-to-Month,79.65,1
+1080-BWSYE,0,76,1,0,0,64,None,29.43,Two Year,25.65,0
+8670-ERCJH,0,33,0,0,0,72,Offer A,2.56,Two Year,113.4,0
+0687-ZVTHB,0,24,1,0,1,65,Offer B,26.75,One Year,72.45,1
+0365-TRTPY,1,52,0,0,0,37,None,11.73,Month-to-Month,91.2,0
+6124-ACRHJ,1,59,0,0,0,1,None,41.28,Month-to-Month,19.75,0
+6584-VQMYT,0,19,0,2,0,27,Offer C,2.63,One Year,56.2,0
+8060-HIWJJ,0,35,0,0,0,64,Offer B,14.39,Two Year,86.55,0
+0238-WHBIQ,0,25,1,1,10,72,Offer A,33.75,Two Year,89.7,0
+4981-FLTMF,1,35,1,1,3,57,None,1.54,Month-to-Month,65.2,0
+4947-DSMXK,0,28,1,2,9,34,None,42.74,Month-to-Month,97.7,0
+5644-PDMZC,1,69,0,0,0,2,None,47.47,Month-to-Month,89.5,1
+7055-VKGDA,0,31,0,0,0,54,Offer B,49.98,One Year,105.4,1
+5906-DVAPM,1,27,1,2,7,55,None,33.5,One Year,75.0,0
+0872-NXJYS,1,40,0,0,0,9,None,45.41,Month-to-Month,79.55,1
+1345-GKDZZ,0,20,0,1,0,6,None,17.53,Month-to-Month,19.55,0
+0231-LXVAP,0,23,0,0,0,1,None,44.56,Month-to-Month,75.9,1
+3873-WOSBC,0,58,1,0,1,67,Offer A,11.74,Two Year,25.6,0
+8262-COGGB,0,53,0,0,0,1,None,11.61,Month-to-Month,20.45,0
+0679-IDSTG,1,73,1,0,1,1,None,37.3,Month-to-Month,69.25,1
+3351-NGXYI,1,70,0,0,0,16,Offer D,9.72,One Year,54.1,0
+9777-WJJPR,0,46,1,0,9,31,None,29.77,Month-to-Month,88.65,0
+8963-JLGJT,0,20,0,1,0,3,Offer E,33.28,Month-to-Month,55.9,0
+5327-XOKKY,0,79,1,0,7,72,Offer A,11.26,Two Year,73.45,0
+2429-AYKKO,0,52,0,0,0,72,Offer A,3.43,Two Year,19.85,0
+0691-NIKRI,1,41,0,0,0,40,Offer B,16.73,One Year,105.95,0
+7159-NOKYQ,0,42,1,0,5,67,Offer A,17.4,Two Year,93.15,0
+4116-IQRFR,0,55,1,2,1,4,Offer E,16.68,One Year,24.1,0
+6924-TDGMT,0,34,1,0,6,11,None,26.11,One Year,20.55,0
+0130-SXOUN,0,55,0,0,0,66,Offer A,48.78,Month-to-Month,89.4,0
+6848-HJTXY,1,41,1,0,8,64,Offer B,19.98,Two Year,19.45,0
+5919-VCZYM,0,19,0,0,0,2,None,40.28,Month-to-Month,20.05,0
+1548-FEHVL,0,40,1,0,6,61,None,27.66,Month-to-Month,106.2,0
+6050-FFXES,1,51,1,0,3,69,None,14.69,Two Year,105.35,0
+1394-SUIUH,1,70,1,0,4,44,None,44.44,Two Year,85.15,0
+5172-RKOCB,0,28,1,0,0,72,None,21.26,Two Year,108.95,0
+7471-WNSUF,0,23,1,0,1,60,Offer B,16.42,One Year,24.15,0
+3280-NMUVX,0,53,1,0,7,34,None,26.03,One Year,19.6,0
+2265-CYWIV,1,68,1,0,1,4,None,18.91,Month-to-Month,99.6,1
+8775-CEBBJ,1,40,0,0,0,9,None,41.92,Month-to-Month,44.2,1
+3389-YGYAI,1,79,0,0,0,8,None,45.16,Month-to-Month,105.5,1
+8048-DSDFQ,0,63,0,0,0,1,None,13.08,Month-to-Month,20.2,0
+2988-GBIVW,1,68,1,0,10,70,None,38.5,Two Year,90.85,0
+0142-GVYSN,0,57,0,0,0,26,Offer C,13.34,Month-to-Month,20.3,0
+0506-LVNGN,1,78,0,0,0,5,None,42.33,Month-to-Month,75.55,1
+6786-OBWQR,1,20,1,2,8,5,None,47.91,Month-to-Month,80.85,0
+1200-TUZHR,1,70,0,0,0,8,Offer E,44.63,Two Year,85.2,0
+7064-FRRSW,0,71,0,0,0,48,None,5.87,One Year,99.0,0
+3720-DBRWL,0,20,1,0,5,51,Offer B,6.89,Two Year,83.85,0
+7776-QGYJC,1,64,1,5,7,39,Offer C,40.68,Month-to-Month,81.5,0
+3746-EUBYR,0,63,1,0,1,1,Offer E,44.73,Month-to-Month,74.6,1
+3374-LXDEV,1,42,0,0,0,13,Offer D,8.59,Month-to-Month,89.4,1
+1657-DYMBM,0,35,1,0,8,53,Offer B,34.46,Two Year,19.9,0
+7838-LAZFO,0,38,1,0,6,45,Offer B,9.91,One Year,78.8,0
+1304-NECVQ,1,69,0,0,0,2,Offer E,43.96,Month-to-Month,78.55,1
+8974-OVACP,1,40,0,0,0,1,None,27.59,Month-to-Month,20.15,0
+2632-TACXW,1,49,1,0,4,62,None,8.91,Two Year,23.65,0
+5148-HKFIR,1,49,0,0,0,20,None,15.87,Two Year,19.7,0
+6728-CZFEI,1,28,0,0,0,15,None,6.56,One Year,56.15,0
+0880-FVFWF,0,32,0,0,0,56,Offer B,37.15,Month-to-Month,86.4,0
+0330-IVZHA,1,55,1,0,1,5,Offer E,17.08,Month-to-Month,69.95,1
+6161-ERDGD,0,57,1,3,0,71,Offer A,23.41,One Year,85.45,0
+2754-XBHTB,1,40,0,0,0,9,None,22.88,Month-to-Month,77.65,1
+0486-HECZI,0,37,1,1,0,55,None,49.06,Month-to-Month,96.75,1
+1400-WIVLL,0,31,1,0,2,57,None,16.78,Two Year,107.95,0
+7055-JCGNI,1,60,0,0,0,70,Offer A,44.57,Two Year,111.95,0
+4163-KIUHY,0,21,0,0,0,35,None,39.84,Month-to-Month,25.6,0
+5117-ZSMHQ,1,22,1,1,9,71,Offer A,37.57,Two Year,89.9,0
+3413-CSSTH,0,40,0,0,0,41,None,6.6,Month-to-Month,55.7,0
+3404-JNXAX,1,40,1,2,9,51,Offer B,29.56,Month-to-Month,80.75,0
+9540-JYROE,0,30,0,0,0,8,None,13.04,Month-to-Month,70.1,1
+6689-KXGBO,1,36,0,0,0,1,None,30.96,Month-to-Month,50.55,1
+9681-OXGVC,1,54,0,0,0,5,None,28.2,Month-to-Month,100.5,1
+8984-EYLLL,0,29,1,0,5,64,None,40.18,Two Year,105.25,0
+9576-ANLXO,1,30,0,0,0,3,None,26.26,Month-to-Month,69.55,1
+0064-SUDOG,1,48,1,3,3,12,None,19.28,Two Year,20.3,0
+7255-SSFBC,0,42,1,3,2,72,Offer A,11.66,Two Year,112.25,0
+8182-BJDSI,1,56,0,0,0,28,Offer C,30.28,Month-to-Month,89.95,1
+2458-EOMRE,1,19,0,0,0,11,Offer D,40.96,Month-to-Month,64.05,0
+4884-TVUQF,1,80,0,0,0,57,Offer B,36.89,Two Year,101.3,0
+0334-GDDSO,0,77,0,0,0,3,Offer E,9.22,Month-to-Month,81.35,1
+8221-HVAYI,0,60,1,0,0,35,Offer C,5.06,Two Year,69.15,0
+5564-NEMQO,1,80,0,0,0,1,Offer E,35.09,Month-to-Month,75.3,1
+4702-IOQDC,1,58,0,0,0,1,Offer E,46.17,Month-to-Month,70.1,1
+3422-WJOYD,0,27,1,0,1,28,None,33.63,One Year,54.35,0
+6549-YMFAW,0,70,1,0,1,9,None,1.66,One Year,21.25,0
+5816-SCGFC,1,73,0,0,0,7,None,11.01,Two Year,51.3,0
+6000-UKLWI,0,46,0,0,0,41,None,36.76,Two Year,20.15,0
+8695-ARGXZ,0,66,1,0,1,34,None,2.07,Month-to-Month,75.55,0
+5982-XMDEX,1,42,0,0,0,65,Offer B,33.71,Two Year,26.5,0
+9405-GPBBG,1,42,0,0,0,64,None,5.68,Two Year,110.5,0
+3814-MLAXC,1,58,0,0,0,31,None,16.63,Month-to-Month,79.85,1
+2208-NQBCT,1,23,1,3,10,26,None,42.95,Month-to-Month,81.95,0
+5565-FILXA,1,76,0,0,0,16,None,38.75,Month-to-Month,96.15,1
+5889-LFOLL,1,27,0,0,0,13,Offer D,35.96,Month-to-Month,84.6,1
+0991-BRRFB,0,31,0,0,0,18,None,20.86,Month-to-Month,49.4,1
+8769-KKTPH,1,44,1,0,2,63,Offer B,1.43,One Year,99.65,0
+8630-QSGXK,0,39,1,0,10,51,Offer B,9.99,Two Year,75.2,0
+3389-KTRXV,1,61,1,3,0,23,None,7.11,Two Year,23.85,0
+4186-ZBUEW,1,55,0,0,0,36,Offer C,29.27,One Year,70.7,0
+7601-DHFWZ,1,54,0,0,0,48,Offer B,30.82,Two Year,24.0,0
+8033-ATFAS,1,32,1,2,4,39,Offer C,48.14,Month-to-Month,59.85,0
+6518-KZXCB,0,61,0,0,0,22,Offer D,4.79,Two Year,25.25,0
+3771-PZOBW,0,38,0,0,0,20,Offer D,25.41,Month-to-Month,90.7,0
+7251-XFOIL,1,60,0,0,0,61,Offer B,14.52,Month-to-Month,89.2,0
+3494-JCHRQ,0,38,0,0,0,1,None,27.89,Month-to-Month,70.05,1
+8909-BOLNL,0,40,0,0,0,3,None,12.05,One Year,21.2,0
+0027-KWYKW,1,30,1,2,1,23,Offer D,34.91,Month-to-Month,83.75,0
+7241-AJHFS,0,53,0,0,0,32,None,6.2,Month-to-Month,87.65,0
+9261-WDCAF,0,64,0,0,0,3,None,33.53,Month-to-Month,-5.0,0
+2484-DGXPZ,1,45,1,0,1,31,None,30.07,Month-to-Month,19.55,1
+0426-TIRNE,1,54,0,0,0,1,Offer E,15.51,Month-to-Month,20.9,1
+0495-RVCBF,1,39,0,0,0,1,None,33.88,Month-to-Month,79.7,1
+0440-MOGPM,1,51,0,0,0,41,None,6.16,One Year,80.55,0
+2718-GAXQD,1,68,1,3,1,4,Offer E,42.13,Month-to-Month,46.0,1
+8710-YGLWG,0,44,0,0,0,1,Offer E,15.76,Month-to-Month,44.9,0
+7284-ZZLOH,0,37,1,0,10,45,None,43.27,Two Year,53.3,0
+3462-BJQQA,1,23,0,0,0,6,None,34.42,Month-to-Month,89.75,0
+5003-XZWWO,0,32,1,0,4,71,None,15.12,Two Year,-8.0,0
+9798-OPFEM,1,42,0,0,0,46,Offer B,32.78,Two Year,21.1,0
+3508-VLHCZ,1,43,1,3,10,71,Offer A,41.71,Two Year,90.55,0
+5349-IECLD,0,61,0,0,0,2,None,26.05,Month-to-Month,94.95,1
+0872-JCPIB,0,47,0,0,0,17,Offer D,47.45,Month-to-Month,65.75,0
+5729-KLZAR,1,22,1,0,1,4,Offer E,44.28,Month-to-Month,80.85,1
+8705-DWKTI,0,58,0,0,0,52,None,5.92,Month-to-Month,83.8,0
+9504-DSHWM,0,53,0,0,0,20,None,33.14,Month-to-Month,59.2,0
+1624-WOIWJ,1,40,0,0,0,10,None,45.69,Month-to-Month,84.7,1
+0786-IVLAW,1,72,0,0,0,66,None,3.57,One Year,108.1,0
+8903-WMRNW,1,55,1,0,8,15,None,24.12,Month-to-Month,101.75,0
+5553-AOINX,1,67,1,1,6,66,None,39.38,One Year,104.9,0
+5954-BDFSG,1,40,0,0,0,72,None,9.47,Two Year,107.5,0
+6614-VBEGU,1,23,1,0,8,24,Offer C,44.06,Month-to-Month,69.45,0
+4844-JJWUY,1,65,0,0,0,1,Offer E,28.82,Month-to-Month,86.0,1
+2533-QVMSK,0,46,1,0,9,61,Offer B,26.94,Two Year,94.1,1
+6559-PDZLR,0,26,0,0,0,26,None,37.0,Month-to-Month,98.65,0
+4188-FRABG,0,36,1,0,4,57,None,31.79,Month-to-Month,103.05,0
+6729-GDNGC,1,71,0,0,0,20,None,21.49,One Year,80.7,0
+4097-YODCF,0,35,0,1,0,34,Offer C,4.28,One Year,103.8,0
+1396-QWFBJ,1,32,1,0,1,21,None,5.07,Month-to-Month,74.05,1
+6618-RYATB,1,56,0,0,0,1,Offer E,5.1,Month-to-Month,79.55,1
+5449-FIBXJ,0,34,1,0,1,19,Offer D,28.04,Month-to-Month,103.3,1
+7446-KQISO,0,62,1,3,2,45,None,7.48,Two Year,109.75,0
+1843-TLSGD,1,56,1,3,6,13,None,27.62,Two Year,20.85,0
+0872-CASZJ,0,30,1,0,1,59,Offer B,20.5,One Year,69.1,0
+6741-QRLUP,1,50,0,0,0,63,None,31.34,Two Year,80.3,0
+1709-EJDOX,1,33,1,3,10,47,Offer B,41.54,Two Year,19.75,0
+0807-ZABDG,1,43,0,2,0,3,Offer E,26.04,Month-to-Month,55.1,1
+6586-PSJOX,0,62,0,2,0,15,Offer D,1.63,One Year,55.2,0
+7817-OMJNA,0,23,0,0,0,14,Offer D,36.42,One Year,20.4,0
+1494-EJZDW,1,51,1,3,1,10,None,18.62,Two Year,20.15,0
+3779-OSWCF,1,38,1,0,8,71,None,12.12,Two Year,93.2,0
+5955-EPOAZ,1,40,0,0,0,6,None,43.19,Month-to-Month,20.95,0
+7426-WEIJX,0,71,1,1,10,60,None,18.23,Two Year,80.95,0
+9101-NTIXF,0,32,0,0,0,2,Offer E,15.16,Month-to-Month,19.4,0
+1744-JHKYS,1,49,1,0,5,34,Offer C,11.52,Month-to-Month,24.7,0
+4423-YLHDV,1,22,1,0,1,21,Offer D,38.52,Month-to-Month,104.4,1
+0931-MHTEM,1,36,0,0,0,54,None,34.27,One Year,100.05,0
+7137-NAXML,0,63,0,0,0,23,Offer D,26.37,One Year,-9.0,0
+6502-KUGLL,1,29,1,2,4,14,Offer D,42.64,Month-to-Month,59.45,0
+4816-OKWNX,0,38,1,1,2,50,None,36.21,One Year,103.4,0
+2672-OJQZP,1,35,0,0,0,1,None,40.87,Month-to-Month,44.75,0
+3097-PYWXL,1,30,1,2,1,4,None,28.55,Month-to-Month,19.95,0
+8590-YFFQO,0,24,1,0,1,70,Offer A,1.63,Two Year,64.95,0
+0174-QRVVY,0,21,1,2,2,71,None,9.2,Two Year,25.35,0
+5820-PTRYM,1,75,1,0,1,56,None,26.82,One Year,68.45,0
+6173-GOLSU,0,79,1,0,4,67,Offer A,7.2,Two Year,94.65,0
+2810-FTLEM,1,21,0,0,0,16,None,14.26,Month-to-Month,50.15,1
+4700-UBQMV,0,42,1,3,6,21,None,31.55,One Year,75.9,0
+8945-GRKHX,1,41,0,0,0,1,Offer E,46.09,Month-to-Month,78.65,1
+8224-DWCKX,0,78,0,0,0,12,None,43.4,Two Year,73.3,0
+7787-BNTZM,0,56,0,0,0,6,None,6.93,Month-to-Month,20.15,0
+8387-MOJJT,1,53,1,0,1,42,None,34.02,Month-to-Month,77.95,1
+4647-XXZAM,1,41,1,1,1,6,None,29.41,Month-to-Month,45.5,0
+0420-HLGXF,1,72,0,0,0,39,None,10.03,Two Year,99.75,0
+9793-WECQC,0,53,0,0,0,23,None,48.21,Month-to-Month,-1.0,0
+5226-NOZFC,0,48,0,0,0,26,None,40.35,Month-to-Month,85.75,0
+3887-PBQAO,1,48,1,0,4,45,Offer B,22.49,One Year,25.9,0
+8564-LDKFL,0,37,1,0,1,40,Offer B,29.46,One Year,106.0,0
+1074-AMIOH,1,38,1,2,1,53,None,43.39,Month-to-Month,108.25,0
+7402-EYFXX,0,65,0,0,0,26,Offer C,25.04,Two Year,93.6,0
+0795-GMVQO,0,36,1,0,1,67,None,23.13,One Year,109.9,0
+9127-FHJBZ,0,60,1,3,1,72,None,32.47,Two Year,114.0,0
+9498-FIMXL,1,31,0,0,0,8,Offer E,31.02,One Year,19.2,0
+7330-WZLNC,1,25,0,0,0,5,Offer E,1.49,Month-to-Month,90.8,1
+3253-HKOKL,1,31,1,2,7,52,None,7.99,One Year,100.3,0
+0264-CNITK,1,45,1,2,1,71,None,31.03,Two Year,20.1,0
+0365-GXEZS,0,55,1,0,6,18,Offer D,31.79,Month-to-Month,78.2,0
+9297-EONCV,1,47,0,0,0,72,Offer A,44.21,Two Year,91.35,0
+7268-IGMFD,0,75,0,0,0,18,Offer D,1.92,Two Year,93.9,0
+1042-HFUCW,1,37,0,1,0,25,Offer C,39.9,One Year,54.75,0
+7134-HBPBS,1,65,0,0,0,72,Offer A,26.87,Two Year,108.1,0
+9659-QEQSY,1,26,0,0,0,45,None,33.73,Month-to-Month,115.65,0
+0771-CHWSK,0,56,0,0,0,66,Offer A,45.57,Two Year,74.6,0
+0928-XUTSN,1,22,0,0,0,13,None,44.99,Month-to-Month,80.5,0
+2228-BZDEE,1,45,0,0,0,54,Offer B,26.25,Two Year,20.1,0
+8128-YVJRG,1,61,0,0,0,7,None,40.32,Month-to-Month,79.65,1
+5577-OTWWW,1,54,0,0,0,15,Offer D,39.84,Month-to-Month,19.75,1
+1024-VRZHF,0,39,1,0,1,11,Offer D,21.58,Month-to-Month,-7.0,1
+8972-HJWNV,1,75,1,0,1,7,Offer E,21.43,Month-to-Month,84.55,1
+7814-LEEVE,1,60,1,0,7,1,None,6.64,Month-to-Month,20.3,0
+9058-MJLZC,1,37,0,0,0,24,None,35.56,Month-to-Month,94.6,0
+5364-XYIRR,0,44,1,0,1,51,None,21.08,Month-to-Month,94.65,1
+4896-CPRPF,0,38,1,3,1,35,None,13.67,Two Year,-9.0,0
+2024-BASKD,1,23,0,0,0,1,Offer E,22.16,Month-to-Month,74.6,1
+9167-APMXZ,1,23,0,0,0,22,None,19.2,Month-to-Month,84.15,0
+5248-RPYWW,1,78,1,1,2,72,None,9.88,Two Year,90.15,0
+9507-HSMMZ,0,48,0,0,0,54,Offer B,27.3,Two Year,20.0,0
+4785-FCIFB,1,20,1,0,10,61,Offer B,20.09,Two Year,24.4,0
+6839-ITVZJ,1,35,1,0,1,26,None,22.33,Month-to-Month,60.05,1
+7410-YTJIK,1,35,0,0,0,7,None,18.1,Month-to-Month,75.45,1
+3540-RZJYU,1,21,0,0,0,15,None,20.03,Month-to-Month,86.2,1
+7100-FQPRV,0,24,1,0,5,43,Offer B,48.1,One Year,71.9,0
+8932-CZHRQ,0,40,0,0,0,68,Offer A,20.29,One Year,76.75,0
+0281-CNTZX,0,56,1,0,2,63,Offer B,38.36,Two Year,19.95,0
+0744-BIKKF,0,39,0,0,0,72,Offer A,11.41,Two Year,86.65,0
+7297-DVYGA,1,61,0,0,0,51,Offer B,29.87,One Year,19.85,0
+5304-EFJLP,0,72,1,0,4,72,None,16.92,Two Year,111.65,0
+7693-QPEFS,0,75,0,0,0,52,Offer B,42.19,Two Year,72.95,0
+8722-PRFDV,1,21,1,3,10,71,Offer A,48.76,Two Year,77.55,0
+9248-OJYKK,0,74,0,0,0,1,None,3.84,Month-to-Month,76.45,1
+4945-RVMTE,1,57,0,0,0,28,None,38.97,Month-to-Month,59.55,0
+2786-GCDPI,1,75,0,0,0,50,Offer B,17.65,Month-to-Month,104.95,0
+6339-TBELP,0,53,0,0,0,71,None,6.75,Two Year,86.4,0
+0839-JTCUD,1,31,1,0,9,66,None,36.36,Two Year,89.9,0
+8859-DZTGQ,0,21,0,0,0,33,None,14.48,Two Year,20.35,0
+6384-VMJHP,1,23,0,0,0,72,Offer A,23.02,Two Year,73.0,0
+6614-FHDBO,0,49,0,0,0,72,None,35.11,Two Year,109.2,0
+7459-RRWQZ,1,51,0,0,0,15,Offer D,47.57,Month-to-Month,64.65,1
+3721-WKIIL,1,62,0,0,0,27,None,15.41,Two Year,19.6,0
+2091-GPPIQ,1,56,1,0,10,72,Offer A,26.04,Two Year,78.95,0
+9281-OFDMF,0,76,0,0,0,39,None,20.06,Two Year,90.7,0
+1855-AGAWH,0,27,1,0,2,31,None,36.69,One Year,93.8,0
+5014-GSOUQ,0,59,0,0,0,13,Offer D,18.73,Two Year,19.95,0
+5981-ZVXOT,1,72,0,0,0,35,Offer C,10.73,One Year,108.35,0
+1696-HXOWK,1,53,1,0,6,71,Offer A,5.22,One Year,95.65,0
+1725-MIMXW,0,42,0,0,0,1,Offer E,48.96,Month-to-Month,19.45,1
+4465-VDKIQ,1,61,0,0,0,18,None,19.93,Month-to-Month,77.8,0
+8752-IMQOS,0,28,1,0,1,5,None,5.2,One Year,20.1,0
+9878-TNQGW,0,51,0,0,0,2,Offer E,17.33,Month-to-Month,80.95,1
+7579-OOPEC,1,75,1,0,1,2,Offer E,6.86,Month-to-Month,50.15,1
+2408-PSJVE,0,41,1,3,1,44,None,37.68,Month-to-Month,-7.0,0
+3525-DVKFN,1,58,0,0,0,17,Offer D,30.07,Two Year,19.4,0
+5208-FVQKB,0,41,1,0,7,70,Offer A,24.93,Two Year,67.95,0
+2023-VQFDL,0,42,0,0,0,18,Offer D,33.16,Month-to-Month,19.0,0
+6888-SBYAI,0,56,0,0,0,1,Offer E,38.05,Month-to-Month,50.7,0
+1395-WSWXR,0,40,0,0,0,24,None,47.51,Two Year,20.75,0
+2669-OIDSD,1,58,1,0,3,48,Offer B,1.02,Month-to-Month,100.05,0
+4484-CGXFK,1,45,0,0,0,3,None,25.96,Month-to-Month,55.3,1
+9867-NNXLC,1,43,0,0,0,22,Offer D,33.92,Month-to-Month,20.05,0
+2207-QPJED,1,66,1,0,8,37,None,15.6,Two Year,90.0,0
+4468-KAZHE,1,70,1,0,1,20,None,8.98,One Year,60.0,0
+8204-TIFGJ,1,38,0,0,0,23,None,16.26,Month-to-Month,20.3,0
+1754-GKYPY,0,65,1,0,8,22,None,22.38,Month-to-Month,89.75,0
+5875-YPQFJ,0,51,0,0,0,1,Offer E,45.66,Month-to-Month,69.9,1
+4526-EXKKN,0,27,0,0,0,40,None,27.47,Two Year,24.6,0
+6686-YPGHK,0,65,0,0,0,47,None,36.58,Month-to-Month,85.5,1
+4647-MUZON,1,56,1,0,9,18,Offer D,29.6,Month-to-Month,95.95,0
+3870-SPZSI,1,56,1,2,4,70,Offer A,33.25,Two Year,113.05,0
+6857-VWJDT,1,45,0,0,0,1,Offer E,32.33,Month-to-Month,95.65,1
+1089-XZWHH,1,43,1,3,5,24,None,46.3,Two Year,19.7,0
+0277-BKSQP,0,49,1,3,10,8,Offer E,1.56,Month-to-Month,54.4,0
+2560-WBWXF,0,45,0,0,0,68,None,37.79,Two Year,24.15,0
+4075-JFPGR,1,27,1,0,2,51,Offer B,21.07,One Year,93.5,0
+7707-PYBBH,0,49,0,0,0,40,None,36.98,Month-to-Month,61.9,0
+2270-CHBFN,1,46,1,0,10,44,Offer B,32.72,Month-to-Month,95.1,0
+6689-TCZHQ,1,70,0,0,0,5,Offer E,12.27,Month-to-Month,78.95,1
+8097-OMULG,0,63,1,2,1,59,None,15.94,One Year,76.75,0
+0265-EDXBD,0,76,1,0,2,32,Offer C,47.34,Month-to-Month,74.9,1
+6390-DSAZX,1,21,0,0,0,1,None,6.19,Month-to-Month,73.6,1
+3950-VPYJB,0,37,1,3,7,57,None,14.55,One Year,59.6,0
+9548-ZMVTX,0,31,1,3,7,72,Offer A,8.51,Two Year,90.45,0
+4559-UWIHT,0,37,1,0,8,14,Offer D,45.57,Month-to-Month,82.65,0
+4765-OXPPD,1,20,1,0,1,9,Offer E,6.35,Month-to-Month,65.0,1
+8197-BFWVU,1,62,1,0,2,72,Offer A,1.72,Two Year,93.25,0
+4811-JBUVU,0,62,0,0,0,30,None,31.97,Month-to-Month,89.9,0
+5095-AESKG,1,33,1,0,1,3,None,31.61,Month-to-Month,91.5,1
+8226-BXGES,0,30,1,0,5,64,Offer B,13.8,One Year,89.45,0
+4554-YGZIH,0,75,1,0,3,49,Offer B,22.92,Month-to-Month,90.05,1
+2790-XUYMV,0,19,0,1,0,71,None,31.89,One Year,85.45,0
+2208-NKVVH,0,60,1,2,4,43,None,2.81,Two Year,24.25,0
+6861-OKBCE,1,62,0,3,0,11,Offer D,33.06,Month-to-Month,20.1,1
+4335-UPJSI,1,57,0,1,0,24,None,34.24,Two Year,19.75,0
+8587-XYZSF,0,60,0,0,0,67,Offer A,32.58,Two Year,50.55,0
+5131-PONJI,0,62,1,3,10,49,Offer B,11.74,Month-to-Month,90.4,0
+5018-LXQQG,1,47,1,2,1,30,Offer C,16.48,Month-to-Month,66.3,0
+7691-KGKGP,0,31,1,1,9,53,Offer B,2.11,Month-to-Month,65.0,0
+7442-YGZFK,0,31,0,0,0,1,None,3.97,Month-to-Month,49.8,0
+9447-YPTBX,1,30,1,0,1,50,None,28.1,One Year,19.85,0
+5144-PQCDZ,0,55,0,0,0,4,None,34.86,Month-to-Month,19.95,0
+0795-LAFGP,0,25,1,0,1,71,None,3.57,Two Year,90.4,0
+8469-SNFFH,0,40,1,0,0,70,None,43.46,One Year,79.4,0
+4635-EJYPD,0,39,1,1,2,32,None,35.39,Two Year,18.95,0
+8757-TFHHJ,0,55,0,0,0,1,None,38.21,Month-to-Month,49.8,0
+7217-JYHOQ,0,30,1,2,6,24,None,44.57,Month-to-Month,70.3,0
+2495-TTHBQ,1,52,0,1,0,4,None,32.15,One Year,20.4,0
+7690-KPNCU,0,20,1,0,5,64,Offer B,26.64,One Year,73.05,0
+3001-UNBTL,0,69,1,1,1,29,Offer C,49.36,Month-to-Month,103.95,0
+3413-BMNZE,0,71,0,0,0,1,Offer E,11.89,One Year,45.25,0
+3452-GWUIN,1,78,1,0,10,19,None,19.57,Two Year,94.95,0
+0839-QNXME,1,35,0,0,0,30,None,9.27,Two Year,19.4,0
+3097-NNSPB,1,42,0,0,0,2,Offer E,14.7,Month-to-Month,49.05,1
+0654-HMSHN,0,45,1,0,1,21,Offer D,42.65,Month-to-Month,104.4,1
+8979-CAMGB,0,67,0,0,0,64,None,10.07,One Year,102.1,0
+1977-STDKI,1,72,0,0,0,1,None,20.55,Month-to-Month,73.0,1
+2692-AQCPF,1,32,1,0,6,65,Offer B,41.34,One Year,108.05,0
+2019-HDCZY,0,35,1,0,4,63,None,2.72,Two Year,102.6,0
+2087-QAREY,1,60,1,0,1,22,Offer D,39.83,Month-to-Month,54.7,0
+3523-BRGUW,0,65,0,0,0,26,Offer C,29.88,One Year,19.3,0
+3679-XASPY,1,38,1,2,1,1,Offer E,16.44,Month-to-Month,19.45,0
+8148-BPLZQ,0,34,0,0,0,34,None,4.89,Month-to-Month,49.8,0
+2138-VFAPZ,1,40,1,1,8,14,Offer D,15.33,Two Year,19.7,0
+7623-HKYRK,0,46,0,1,0,6,None,27.78,Month-to-Month,19.7,0
+6139-ZZRBQ,0,79,0,0,0,64,None,4.99,Two Year,20.05,0
+7601-WFVZV,0,35,0,0,0,1,Offer E,17.94,Month-to-Month,19.55,0
+5315-CKEQK,0,73,1,2,1,28,None,4.71,One Year,51.0,0
+9600-NAXZN,0,39,0,0,0,43,None,49.64,Month-to-Month,101.4,1
+2061-VVFST,1,57,1,0,1,37,None,45.19,Month-to-Month,19.5,0
+6733-LRIZX,0,42,0,0,0,35,None,20.07,Two Year,108.95,0
+3594-BDSOA,1,44,1,0,6,24,None,35.86,One Year,20.4,0
+1104-FEJAM,0,52,1,2,2,28,None,9.31,Month-to-Month,64.4,0
+5939-SXWHM,0,59,1,3,1,48,Offer B,20.73,Two Year,26.3,0
+7503-EPSZW,1,45,1,3,5,64,Offer B,17.93,Two Year,24.05,0
+6952-OMNWB,0,75,1,0,7,68,Offer A,34.31,One Year,80.35,0
+1421-HCERK,0,75,1,0,6,30,None,33.48,Month-to-Month,105.7,0
+5071-FBJFS,1,61,1,1,8,4,None,44.64,Month-to-Month,50.3,0
+8584-KMVXD,1,64,0,0,0,8,Offer E,11.2,Month-to-Month,75.6,0
+7993-NQLJE,0,39,1,1,7,15,None,32.73,Month-to-Month,75.1,0
+1400-MMYXY,0,71,1,0,1,3,None,41.3,Month-to-Month,105.9,1
+7625-XCQRH,1,48,0,0,0,11,None,15.6,Month-to-Month,76.5,1
+0220-EBGCE,0,58,0,0,0,2,Offer E,14.14,Month-to-Month,85.85,1
+6695-FRVEC,0,60,1,0,1,67,None,21.17,Two Year,60.4,0
+5572-ZDXHY,1,25,0,0,0,22,None,29.07,Month-to-Month,84.3,1
+1116-DXXDF,0,38,0,0,0,39,None,37.94,Two Year,100.45,0
+2284-VFLKH,0,23,1,0,4,49,Offer B,33.93,One Year,99.25,0
+1791-PQHBB,1,28,0,2,0,2,Offer E,32.06,Month-to-Month,61.2,0
+4504-YOULA,1,42,1,3,0,35,Offer C,39.11,Month-to-Month,59.45,0
+7868-BGSZA,0,30,1,0,7,43,None,33.97,One Year,80.2,0
+0771-WLCLA,1,49,1,1,8,16,Offer D,46.45,Month-to-Month,112.95,0
+3635-QQRQD,0,19,0,0,0,62,None,33.68,Two Year,20.05,0
+0018-NYROU,1,58,1,0,0,5,None,18.65,Month-to-Month,68.95,0
+5396-IZEPB,0,37,0,0,0,9,Offer E,24.89,Month-to-Month,19.7,0
+6023-GSSXW,1,27,1,0,1,69,None,2.73,Two Year,61.45,0
+4931-TRZWN,1,54,0,0,0,13,Offer D,10.66,Month-to-Month,71.95,0
+5792-JALQC,1,78,0,0,0,52,Offer B,34.0,Two Year,59.85,0
+9974-JFBHQ,0,31,0,1,0,64,Offer B,22.41,Month-to-Month,99.15,0
+1621-YNCJH,1,54,1,0,4,36,None,19.24,Two Year,106.05,0
+9943-VSZUV,0,75,0,0,0,67,Offer A,39.89,Month-to-Month,75.7,0
+7124-UGSUR,1,77,1,0,1,61,None,35.11,One Year,104.4,1
+6941-PMGEP,1,26,0,0,0,5,Offer E,43.99,Month-to-Month,80.0,1
+4816-JBHOV,0,72,0,0,0,2,Offer E,41.43,Month-to-Month,44.7,1
+6869-FGJJC,0,50,0,0,0,68,None,18.53,One Year,79.6,0
+2821-WARNZ,1,25,0,1,0,49,None,45.64,One Year,19.45,0
+8779-YIQQA,0,38,1,1,10,21,None,18.0,One Year,19.8,0
+3115-JPJDD,1,43,1,0,1,59,None,29.6,One Year,81.25,0
+9701-CDXHR,1,63,1,0,1,51,Offer B,45.76,Month-to-Month,69.15,0
+2154-KVJFF,1,42,0,0,0,15,Offer D,42.83,Month-to-Month,79.75,1
+1891-UAWWU,1,79,1,0,1,20,None,4.77,Month-to-Month,90.8,1
+5171-EPLKN,0,27,0,0,0,27,None,47.65,Two Year,19.85,0
+5951-AOFIH,0,19,0,0,0,33,None,45.72,Month-to-Month,66.4,0
+7065-YUNRY,1,28,0,0,0,1,None,39.94,Month-to-Month,45.3,1
+4385-GZQXV,1,68,0,0,0,16,Offer D,9.43,Month-to-Month,94.45,1
+1730-ZMAME,1,74,0,0,0,32,None,48.62,Two Year,79.5,0
+0867-MKZVY,1,26,1,1,5,20,None,36.6,Month-to-Month,82.4,1
+7302-ZHMHP,1,35,0,0,0,1,None,22.37,Month-to-Month,19.15,0
+6817-WTYHE,0,56,0,0,0,2,None,5.08,Month-to-Month,44.9,0
+6050-IJRHS,1,47,1,1,2,70,Offer A,5.93,One Year,106.5,0
+9053-JZFKV,0,25,0,0,0,67,Offer A,33.88,Two Year,116.2,1
+2126-GSEGL,1,53,1,0,7,70,None,9.28,Two Year,84.8,0
+1582-RAFML,0,26,0,0,0,1,Offer E,23.63,Month-to-Month,60.1,1
+6736-DHUQI,1,64,1,3,5,67,None,3.47,One Year,84.8,0
+8185-UPYBR,0,33,1,0,4,6,None,21.23,Month-to-Month,75.5,1
+3973-SKMLN,0,49,0,0,0,71,None,22.22,Two Year,19.9,0
+6407-GSJNL,1,56,0,0,0,51,Offer B,44.35,Two Year,24.95,0
+1415-YFWLT,1,68,0,0,0,1,Offer E,30.23,Month-to-Month,89.3,1
+2322-VCZHZ,0,70,1,0,3,23,Offer D,31.53,Month-to-Month,90.0,0
+4919-MOAVT,0,53,0,0,0,3,Offer E,39.38,Month-to-Month,69.65,1
+9554-DFKIC,0,50,1,2,6,30,None,12.49,Month-to-Month,54.45,0
+1699-HPSBG,0,44,0,0,0,12,Offer D,9.6,One Year,59.8,1
+5075-JSDKI,1,64,0,0,0,59,Offer B,41.23,Two Year,24.45,0
+5399-ZIMKF,0,58,0,0,0,5,None,32.81,Month-to-Month,74.65,0
+8761-NSOBC,0,41,0,0,0,44,None,42.92,Month-to-Month,100.55,1
+4877-TSOFF,1,41,1,3,7,55,Offer B,16.16,One Year,75.75,0
+5153-RTHKF,1,26,0,0,0,34,None,23.54,Month-to-Month,85.35,0
+0516-VRYBW,1,39,0,0,0,18,Offer D,8.95,One Year,20.15,1
+8020-BWHYL,1,70,0,0,0,15,None,7.99,Month-to-Month,75.3,1
+4132-KALRO,1,31,0,0,0,4,Offer E,7.94,Month-to-Month,100.85,0
+5229-DTFYB,1,64,0,0,0,41,None,10.26,Two Year,98.8,0
+6465-GSRCL,1,19,0,2,0,67,Offer A,18.74,One Year,106.6,0
+4365-MSDYN,0,38,1,0,7,8,None,22.34,Month-to-Month,19.55,0
+4929-ROART,0,47,0,0,0,18,None,33.8,Month-to-Month,56.25,0
+2636-ALXXZ,1,68,0,0,0,1,Offer E,45.8,Month-to-Month,69.6,1
+8922-NPKBJ,0,63,1,2,10,42,None,34.33,Two Year,19.35,0
+0866-QLSIR,1,53,0,0,0,34,Offer C,34.41,One Year,64.4,1
+5404-GGUKR,0,39,0,0,0,5,Offer E,17.16,Month-to-Month,51.35,0
+9805-FILKB,0,44,1,0,6,46,None,4.72,One Year,20.2,0
+2815-CPTUL,0,68,0,0,0,5,None,2.27,Month-to-Month,70.25,1
+4853-OITSN,0,33,1,0,8,5,Offer E,15.74,Month-to-Month,89.15,0
+0323-XWWTN,0,44,0,1,0,3,None,33.87,Two Year,26.4,0
+4622-YNKIJ,0,59,0,0,0,33,Offer C,47.64,Two Year,88.95,0
+9272-LSVYH,0,23,0,0,0,10,None,4.29,Month-to-Month,70.15,0
+0679-TDGAK,0,29,1,1,1,50,None,31.83,One Year,75.5,0
+7377-DMMRI,0,35,0,0,0,2,Offer E,13.73,Month-to-Month,47.8,1
+7801-CEDNV,0,33,1,0,10,27,None,9.01,One Year,48.7,0
+1376-HHBDV,1,37,0,0,0,30,Offer C,10.74,Month-to-Month,48.8,0
+9534-NSXEM,0,28,0,0,0,26,Offer C,31.53,One Year,20.65,0
+4803-LBYPN,0,44,1,1,1,34,Offer C,44.54,Month-to-Month,20.8,0
+3537-RYBHH,1,78,1,0,1,47,None,46.77,Two Year,67.45,0
+2560-QTSBS,1,26,1,2,6,72,None,18.14,One Year,23.3,0
+5445-UTODQ,1,35,1,0,1,7,None,11.58,Month-to-Month,81.1,1
+4695-WJZUE,1,68,0,0,0,2,None,21.57,Month-to-Month,88.55,1
+2237-ZFSMY,1,29,0,0,0,39,Offer C,4.48,One Year,95.55,1
+2661-GKBTK,0,39,1,3,7,60,None,27.2,Two Year,76.95,0
+2361-UPSND,1,45,1,0,6,46,None,44.75,One Year,70.6,0
+9220-ZNKJI,1,67,1,0,5,55,None,33.21,Two Year,88.8,0
+9093-FPDLG,1,54,0,0,0,11,None,9.52,Month-to-Month,94.2,0
+2595-KIWPV,0,48,0,1,0,27,Offer C,32.28,Two Year,19.7,0
+2498-XLDZR,1,26,1,1,1,32,None,19.76,Two Year,73.6,0
+4013-UBXWQ,1,33,0,0,0,7,Offer E,48.82,Month-to-Month,74.65,1
+7000-WCEVQ,1,67,0,0,0,20,None,27.11,Month-to-Month,61.6,1
+9625-QSTYE,1,37,0,0,0,13,None,3.84,Month-to-Month,81.15,1
+2277-AXSDC,1,46,0,0,0,32,None,43.8,One Year,19.75,0
+6732-FZUGP,1,30,0,0,0,47,Offer B,40.25,One Year,94.9,0
+7839-QRKXN,1,62,0,0,0,1,Offer E,48.25,Month-to-Month,20.2,1
+7005-CYUIL,1,78,1,0,2,71,Offer A,12.26,Two Year,99.4,0
+0883-EIBTI,1,23,0,0,0,2,None,28.02,Month-to-Month,19.5,1
+0147-ESWWR,1,73,1,0,9,39,None,20.15,Month-to-Month,101.25,0
+4707-MAXGU,0,36,1,0,1,72,None,36.03,Two Year,25.85,0
+7593-XFKDI,0,39,0,0,0,1,None,48.22,Month-to-Month,-4.0,1
+2190-BCXEC,1,61,1,0,10,40,None,39.97,Month-to-Month,78.85,0
+0471-ARVMX,1,70,1,0,8,62,Offer B,22.74,One Year,104.85,0
+7762-URZQH,0,30,1,0,0,66,None,23.51,Two Year,106.05,1
+8690-ZVLCL,1,49,1,1,10,68,None,43.51,Two Year,88.0,0
+1266-NZYUI,1,56,1,0,6,72,Offer A,14.65,Two Year,66.85,0
+5627-TVBPP,1,44,0,1,0,35,None,25.52,One Year,20.1,0
+8807-OPMBM,1,36,1,3,1,55,Offer B,1.44,Two Year,25.65,0
+6905-NIQIN,0,26,0,0,0,1,Offer E,14.78,Month-to-Month,50.65,1
+8184-WMOFI,0,47,1,0,0,62,None,14.05,One Year,71.4,0
+1583-IHQZE,0,60,0,0,0,12,None,16.45,Month-to-Month,112.95,1
+6476-EPYZR,0,57,1,1,6,12,None,46.06,Month-to-Month,20.5,0
+1355-KUSBG,1,56,1,2,1,7,Offer E,9.1,Month-to-Month,48.8,0
+5701-ZIKJE,0,28,0,0,0,13,Offer D,33.95,Month-to-Month,50.55,0
+2027-FECZV,0,44,0,0,0,12,None,25.19,Month-to-Month,106.7,1
+8388-FYNPZ,0,26,0,0,0,4,Offer E,34.69,Month-to-Month,56.75,0
+3301-LSLWQ,1,32,0,0,0,29,None,17.87,Month-to-Month,66.1,0
+5934-RMPOV,1,32,0,2,0,22,Offer D,33.73,Month-to-Month,84.75,0
+2990-HWIML,1,58,0,0,0,6,Offer E,47.92,Month-to-Month,89.5,1
+5141-ZUVBH,1,46,0,1,0,9,None,42.1,Month-to-Month,93.0,0
+4827-USJHP,0,45,0,0,0,20,Offer D,3.94,Month-to-Month,51.8,0
+7134-MJPDY,1,69,0,0,0,66,Offer A,11.63,One Year,102.85,0
+3195-TQDZX,0,19,0,0,0,3,None,1.57,Month-to-Month,20.25,0
+6698-OXETB,0,60,0,0,0,11,Offer D,49.8,Two Year,20.4,0
+8486-AYEQH,1,30,0,0,0,31,None,38.78,Month-to-Month,76.05,0
+7610-TVOPG,0,48,0,0,0,15,None,7.96,Month-to-Month,26.35,0
+1751-NCDLI,0,74,1,0,6,46,None,4.2,One Year,98.85,0
+2378-YIZKA,1,61,1,1,7,68,None,6.28,Two Year,85.0,0
+3985-HOYPM,0,29,0,0,0,26,None,6.38,One Year,19.4,0
+1270-XKUCC,1,24,1,1,1,30,None,12.85,Two Year,19.7,0
+0233-FTHAV,1,24,0,0,0,60,None,15.29,One Year,79.2,0
+7968-QUXNS,0,24,0,0,0,6,None,27.54,Month-to-Month,18.95,0
+6331-LWDTQ,0,49,0,0,0,10,None,33.75,Month-to-Month,72.15,1
+3282-ZISZV,0,56,0,0,0,32,None,37.48,One Year,83.7,0
+0060-FUALY,1,60,1,0,4,59,Offer B,16.39,Month-to-Month,94.75,0
+5893-PYOLZ,0,55,0,0,0,56,Offer B,49.36,Two Year,81.8,0
+4013-TLDHQ,0,59,0,0,0,19,Offer D,20.26,Month-to-Month,78.25,1
+6950-TWMYB,0,31,1,8,2,54,Offer B,46.7,Two Year,79.95,0
+0967-BMLBD,1,37,1,1,8,11,Offer D,49.19,One Year,20.0,0
+1809-DMJHQ,1,56,0,1,0,5,None,23.89,Month-to-Month,46.0,1
+3995-WFCSM,1,28,0,0,0,2,None,15.25,Month-to-Month,60.85,0
+3278-FSIXX,1,34,0,0,0,2,Offer E,39.5,Month-to-Month,45.25,0
+2961-VNFKL,1,42,1,0,2,71,Offer A,24.71,Two Year,25.95,0
+3082-WQRVY,0,73,1,0,8,14,None,45.76,One Year,19.65,0
+7452-FOLON,0,45,0,2,0,39,None,46.57,One Year,25.45,0
+2038-OEQZH,0,63,0,0,0,4,None,44.36,Month-to-Month,86.05,0
+5206-XZZQI,0,56,0,0,0,53,Offer B,49.21,Month-to-Month,80.6,0
+8714-CTZJW,1,24,0,0,0,4,Offer E,19.84,Month-to-Month,82.85,0
+7139-JZFVG,0,37,1,2,7,60,None,43.24,Two Year,60.5,0
+3144-KMTWZ,0,40,1,0,8,71,Offer A,26.56,Month-to-Month,93.25,0
+3569-VLDHH,0,59,1,3,0,66,Offer A,29.5,One Year,75.1,0
+2384-OVPSA,1,65,0,0,0,38,None,4.09,Two Year,20.2,0
+1658-BYGOY,0,71,0,3,0,18,Offer D,11.33,Month-to-Month,95.45,1
+3508-CFVZL,1,55,0,0,0,71,Offer A,49.52,Two Year,111.3,0
+4686-UXDML,1,24,0,0,0,21,None,24.86,Month-to-Month,99.85,0
+6485-QXWWE,1,51,0,3,0,62,Offer B,2.83,Two Year,26.0,0
+1730-VFMWO,1,33,1,0,6,34,None,40.67,Month-to-Month,50.2,0
+7056-IMHCC,0,69,1,0,1,53,Offer B,7.94,Month-to-Month,101.9,1
+9837-FWLCH,0,39,1,1,2,12,None,25.33,Month-to-Month,19.2,0
+3059-NGMXB,0,52,1,3,8,14,Offer D,2.96,Month-to-Month,69.2,0
+0248-PGHBZ,1,69,0,0,0,67,Offer A,2.57,Two Year,92.45,0
+0419-YAAPX,0,44,1,0,1,49,Offer B,14.21,Month-to-Month,85.3,0
+9286-DOJGF,1,66,1,0,5,38,None,15.78,Month-to-Month,74.95,1
+3186-BAXNB,1,20,0,0,0,1,Offer E,17.23,Month-to-Month,91.7,1
+8133-ANHHJ,1,77,0,0,0,49,Offer B,36.47,One Year,103.0,0
+5414-OFQCB,0,34,0,0,0,57,None,30.77,Two Year,90.45,0
+1020-JPQOW,1,63,1,0,1,56,None,2.8,Month-to-Month,90.55,0
+7018-WBJNK,0,55,0,3,0,13,Offer D,31.93,Month-to-Month,78.3,0
+9647-ERGBE,1,64,1,0,1,30,None,39.74,Month-to-Month,100.05,1
+4002-BQWPQ,0,59,0,0,0,25,None,25.2,Month-to-Month,81.75,0
+1135-HIORI,1,48,1,3,3,64,Offer B,39.37,One Year,111.45,0
+0369-ZGOVK,1,56,1,2,6,28,Offer C,12.94,One Year,70.4,0
+5756-OZRIO,0,73,1,0,9,61,None,34.24,One Year,64.05,0
+6227-HWPWX,1,40,0,0,0,15,Offer D,4.67,Month-to-Month,69.0,1
+7277-OZCGZ,1,40,0,0,0,22,None,6.0,Month-to-Month,89.05,0
+6463-MVYRY,1,67,0,0,0,57,Offer B,11.23,Two Year,69.85,0
+6479-VDGRK,1,46,1,1,0,72,None,36.13,Two Year,85.3,0
+1763-KUAAW,1,77,0,0,0,18,Offer D,37.53,One Year,20.35,0
+7517-LDMPS,1,31,0,0,0,12,None,2.57,Month-to-Month,84.6,0
+1481-ZUWZA,0,52,0,0,0,28,None,35.52,Month-to-Month,94.5,1
+1998-VHJHK,1,36,0,0,0,27,None,20.18,One Year,19.15,0
+4471-KXAUH,1,58,1,0,1,42,None,10.73,Month-to-Month,84.3,1
+6120-RJKLU,1,69,1,0,9,62,Offer B,24.62,Two Year,79.95,0
+0040-HALCW,0,42,1,3,3,54,None,19.7,Two Year,20.4,0
+1544-JJMYL,0,19,0,0,0,27,None,36.39,One Year,69.35,0
+3509-GWQGF,0,74,0,0,0,24,Offer C,31.73,One Year,70.0,0
+5519-NPHVG,1,53,0,0,0,12,None,12.75,Month-to-Month,94.2,1
+2480-SQIOB,0,40,1,2,1,4,Offer E,25.9,Month-to-Month,44.8,0
+2324-EFHVG,0,37,0,0,0,64,None,45.82,Two Year,104.4,0
+4404-HIBDJ,1,48,0,0,0,25,None,1.37,One Year,74.3,1
+2569-WGERO,1,30,0,0,0,72,None,22.77,Two Year,21.15,0
+7416-CKTEP,1,54,1,0,10,57,Offer B,23.28,Two Year,19.6,0
+1194-SPVSP,0,20,0,0,0,1,None,27.88,Month-to-Month,19.65,0
+9871-ELEYA,1,22,0,0,0,34,None,20.75,Two Year,67.65,0
+8468-EHYJA,1,32,1,0,0,57,Offer B,12.19,Month-to-Month,-3.0,0
+0112-QWPNC,0,61,1,0,1,49,Offer B,39.55,One Year,84.35,1
+0637-KVDLV,0,30,0,0,0,2,Offer E,17.22,Month-to-Month,76.5,1
+8042-RNLKO,0,40,0,0,0,66,Offer A,32.22,One Year,25.45,0
+2657-VPXTA,1,45,1,3,8,10,None,32.76,Month-to-Month,88.85,0
+8232-UTFOZ,0,24,0,0,0,69,None,7.18,Two Year,19.95,0
+7314-OXENN,0,42,0,0,0,2,None,41.18,Month-to-Month,82.0,1
+2101-RANCD,1,50,0,0,0,55,None,8.93,Month-to-Month,73.1,0
+4397-FRLTA,1,35,0,0,0,4,Offer E,32.54,Month-to-Month,20.15,0
+8337-MSSXB,1,64,0,0,0,14,None,29.3,Month-to-Month,86.3,1
+3486-HOOGQ,1,44,1,1,3,70,Offer A,8.36,Two Year,79.7,0
+9705-IOVQQ,0,80,1,2,10,61,None,4.51,One Year,99.0,0
+7055-HNEOJ,0,34,1,0,2,3,Offer E,4.19,Month-to-Month,55.8,0
+3223-DWFIO,0,77,0,0,0,4,None,30.11,Two Year,69.35,0
+0345-HKJVM,1,43,0,0,0,6,None,2.6,Month-to-Month,89.3,1
+9950-MTGYX,0,30,1,2,8,28,None,19.18,Two Year,20.3,0
+1257-SXUXQ,0,20,1,1,10,5,None,8.04,Month-to-Month,19.45,0
+4115-NZRKS,1,72,0,0,0,7,None,16.36,One Year,89.15,0
+7176-WRTNX,0,51,0,0,0,70,Offer A,14.63,Two Year,114.95,0
+4130-MZLCC,1,24,0,0,0,5,None,43.02,Month-to-Month,50.55,0
+4658-HCOHW,1,52,1,0,1,21,None,16.67,Month-to-Month,102.8,1
+9938-ZREHM,1,41,1,0,4,37,None,42.45,One Year,72.1,0
+4538-WNTMJ,1,39,1,0,0,46,Offer B,4.6,One Year,24.95,0
+3440-JPSCL,1,26,0,0,0,6,None,5.16,Month-to-Month,99.95,1
+8443-ZRDBZ,0,62,0,0,0,4,None,42.44,Month-to-Month,76.05,1
+4145-UQXUQ,1,71,0,0,0,8,Offer E,42.93,Month-to-Month,92.1,1
+8344-WFMFH,0,34,0,2,0,9,Offer E,27.64,Month-to-Month,50.1,0
+6340-DACFT,1,37,1,3,10,50,None,10.13,Two Year,20.55,0
+4482-EWFMI,1,54,0,0,0,2,None,15.67,Month-to-Month,69.7,0
+6838-YAUVY,1,26,0,0,0,54,None,11.76,Two Year,95.1,0
+4566-GOLUK,0,43,1,0,1,47,None,37.74,Month-to-Month,107.35,1
+1767-CJKBA,0,39,0,0,0,66,Offer A,49.13,Two Year,25.1,0
+8152-UOBNY,1,66,0,0,0,50,Offer B,10.6,One Year,106.8,0
+5339-TJFEK,0,22,1,1,8,62,Offer B,14.75,Month-to-Month,105.5,0
+3323-CPBWR,0,61,0,0,0,23,Offer D,8.5,Month-to-Month,96.9,0
+0596-BQCEQ,1,32,1,0,1,62,None,48.58,Month-to-Month,100.15,1
+1303-SRDOK,1,52,1,2,3,55,Offer B,27.87,Two Year,69.05,0
+0754-UKWQP,0,63,0,0,0,2,None,37.43,Month-to-Month,95.85,1
+1502-XFCVR,1,57,0,0,0,58,Offer B,14.99,One Year,106.45,1
+8034-RYTVV,1,19,0,0,0,55,None,44.85,One Year,84.25,0
+4873-ILOLJ,0,64,0,0,0,24,None,32.49,Month-to-Month,90.35,1
+4067-HLYQI,1,43,0,0,0,33,None,49.45,Month-to-Month,70.4,0
+5803-NQJZO,0,46,1,0,1,72,None,15.52,Two Year,67.8,0
+9537-JALFH,0,49,1,2,10,69,Offer A,28.19,Two Year,19.9,0
+3156-QLHBO,0,58,0,1,0,2,None,21.18,Month-to-Month,19.25,0
+5498-TXHLF,1,39,1,0,1,34,None,40.78,Month-to-Month,87.45,1
+2581-VKIRT,1,57,1,0,6,59,None,14.49,One Year,65.5,0
+7271-AJDTL,1,64,1,0,1,55,None,34.61,Month-to-Month,94.45,0
+9129-UXERG,1,65,0,0,0,18,None,1.27,Month-to-Month,103.6,0
+9691-HKOVS,1,20,1,0,8,55,Offer B,47.46,One Year,90.15,0
+2911-WDXMV,0,29,0,3,0,18,Offer D,41.08,Month-to-Month,80.55,0
+5832-TRLPB,0,30,0,0,0,29,None,3.69,One Year,75.35,0
+8606-CIQUL,0,77,1,1,1,72,Offer A,30.78,Two Year,115.75,0
+3244-DCJWY,1,27,0,0,0,1,Offer E,23.0,Month-to-Month,70.25,1
+4727-MCYZG,0,23,0,0,0,1,Offer E,33.32,Month-to-Month,55.55,0
+7037-MTYVW,0,26,1,2,6,38,Offer C,17.52,Two Year,85.4,0
+0530-IJVDB,0,36,0,2,0,70,Offer A,26.67,Two Year,114.6,0
+9114-AAFQH,1,27,1,0,6,48,Offer B,49.88,One Year,65.65,0
+8780-RSYYU,1,42,0,0,0,25,Offer C,6.0,Month-to-Month,19.2,0
+6598-RFFVI,0,56,0,0,0,2,None,15.79,One Year,19.3,1
+6655-LHBYW,0,46,0,0,0,50,Offer B,19.8,One Year,114.35,0
+8532-UEFWH,0,61,1,2,6,52,Offer B,49.51,Two Year,25.75,0
+1563-IWQEX,1,43,0,0,0,12,None,18.71,Month-to-Month,19.7,0
+8738-JOKAR,1,55,0,0,0,42,None,39.32,One Year,67.7,0
+7130-CTCUS,0,79,1,0,5,16,None,35.53,Two Year,54.55,0
+3705-RHRFR,1,52,1,0,6,69,None,45.35,Two Year,99.15,0
+1135-LMECX,1,47,0,0,0,1,None,16.47,Month-to-Month,19.85,0
+7688-AWMDX,0,21,1,0,5,71,None,48.32,Two Year,54.5,0
+0310-SUCIN,1,50,1,0,2,71,None,23.06,One Year,84.8,0
+6821-BUXUX,1,28,0,0,0,13,Offer D,17.02,Month-to-Month,96.65,1
+5198-HQAEN,0,50,1,3,5,35,Offer C,1.53,One Year,89.7,0
+9699-UBQFS,1,76,1,0,4,43,None,3.66,Month-to-Month,94.5,0
+0625-AFOHS,1,40,1,1,5,29,Offer C,34.44,Two Year,20.2,0
+6328-ZPBGN,1,67,0,0,0,11,None,3.62,Month-to-Month,95.15,1
+3629-ZNKXA,0,77,0,0,0,17,None,17.26,Two Year,101.8,0
+2951-QOQTK,0,28,0,0,0,4,None,42.33,Month-to-Month,80.8,1
+7623-TRNQN,0,34,0,1,0,1,None,39.6,Month-to-Month,49.9,1
+3472-QPRCH,0,43,1,1,9,40,None,27.95,Two Year,25.25,0
+2868-LLSKM,1,50,1,2,1,68,Offer A,15.94,One Year,83.65,0
+2037-SGXHH,0,25,1,0,1,38,None,49.7,Month-to-Month,94.65,1
+9844-FELAJ,1,65,1,2,2,70,None,9.4,One Year,107.9,0
+4946-EDSEW,1,35,1,3,1,11,Offer D,29.01,Month-to-Month,19.25,1
+0804-YGEQV,1,59,1,1,9,43,Offer B,28.03,One Year,24.45,0
+3258-SANFR,0,69,0,0,0,6,Offer E,19.74,Month-to-Month,44.7,0
+8647-SDTWQ,0,59,1,2,4,57,Offer B,49.95,Month-to-Month,74.3,0
+1482-OXZSY,0,45,0,0,0,30,Offer C,17.26,Month-to-Month,100.4,0
+2927-QRRQV,0,44,1,0,1,46,Offer B,10.13,One Year,94.65,0
+5844-QVTAT,1,24,1,0,8,33,Offer C,8.79,One Year,58.45,0
+9866-OCCKE,1,73,1,0,1,72,Offer A,35.04,Two Year,109.75,0
+0531-XBKMM,0,37,0,2,0,66,None,32.12,Two Year,65.7,0
+0725-CXOTM,1,29,0,0,0,36,None,44.7,One Year,89.65,0
+1875-QIVME,1,26,1,3,1,2,Offer E,11.51,Month-to-Month,104.4,1
+8338-QIUNR,0,23,1,0,8,72,None,6.09,Two Year,66.5,0
+3308-MHOOC,0,37,0,3,0,1,None,17.89,Month-to-Month,19.2,0
+8313-KTIHG,0,54,0,0,0,4,None,37.7,Month-to-Month,61.3,0
+1987-AUELQ,1,46,1,0,0,71,None,44.84,Two Year,25.05,0
+1179-INLAT,0,33,0,0,0,3,None,2.78,One Year,19.45,0
+8946-BFWSG,0,19,1,3,8,63,Offer B,24.5,Two Year,25.25,0
+4255-DDUOU,1,47,1,3,0,1,None,34.57,Month-to-Month,20.5,1
+6502-MJQAE,0,27,0,0,0,1,None,46.21,Month-to-Month,69.6,1
+5136-RGMZO,0,39,0,0,0,31,None,6.4,Month-to-Month,71.05,0
+1061-PNTHC,1,36,1,2,5,56,Offer B,13.94,Month-to-Month,109.6,0
+1596-BBVTG,0,53,0,0,0,35,Offer C,25.04,Month-to-Month,75.35,1
+5204-HMGYF,1,32,1,2,4,49,None,33.07,One Year,87.2,0
+4328-VUFWD,1,62,0,0,0,39,None,6.77,One Year,59.3,0
+2282-YGNOR,1,42,0,0,0,29,None,14.46,One Year,58.0,0
+0096-BXERS,1,30,1,0,10,6,Offer E,42.66,Month-to-Month,50.35,0
+6993-YGFJV,0,29,1,0,9,69,Offer A,3.41,Two Year,112.55,0
+5787-KXGIY,0,54,1,0,3,72,None,2.61,Two Year,19.3,0
+2144-BFDSO,1,70,1,0,1,50,Offer B,9.18,Month-to-Month,108.75,0
+5921-NGYRH,0,40,1,0,0,64,Offer B,48.41,Month-to-Month,73.55,0
+0253-ZTEOB,1,44,1,1,5,48,None,8.94,Two Year,79.65,0
+5074-FBGHB,0,47,0,0,0,64,None,25.95,One Year,104.65,0
+0106-UGRDO,1,55,1,0,3,69,Offer A,38.52,Two Year,116.0,0
+9824-BEMCV,0,58,1,0,1,17,Offer D,44.97,Month-to-Month,69.0,1
+0723-DRCLG,1,73,1,0,1,1,None,31.27,Month-to-Month,74.45,1
+8455-HIRAQ,1,56,0,0,0,8,None,10.91,Month-to-Month,44.45,0
+9524-EGPJC,1,33,0,0,0,18,None,34.21,Month-to-Month,90.1,1
+7577-SWIFR,0,49,0,0,0,1,None,16.64,Month-to-Month,89.25,0
+2522-AHJXR,0,36,1,0,6,60,None,4.59,Month-to-Month,109.45,0
+4537-CIBHB,1,59,1,3,10,9,None,12.55,One Year,20.25,0
+6857-TKDJV,0,60,1,2,6,67,None,14.41,Two Year,24.65,0
+1641-RQDAY,1,77,1,2,1,32,Offer C,49.21,One Year,100.4,0
+2072-ZVJJX,0,47,1,0,5,68,Offer A,22.83,Two Year,25.25,0
+9530-EHPOH,0,60,0,0,0,11,Offer D,15.03,Month-to-Month,53.75,1
+3096-JRDSO,1,73,1,0,5,27,Offer C,10.19,Month-to-Month,104.3,1
+1208-NBVFH,0,63,1,1,5,20,None,13.18,Month-to-Month,49.6,0
+0325-XBFAC,0,44,0,0,0,8,None,19.49,Month-to-Month,94.7,1
+7246-ZGQDF,1,63,0,3,0,1,None,33.21,Month-to-Month,54.5,0
+6752-APNJL,0,30,1,1,7,42,None,18.93,Month-to-Month,54.5,0
+2599-CIPQE,0,36,1,3,4,71,None,28.47,Two Year,109.3,0
+9163-GHAYE,1,34,0,0,0,15,None,31.68,Month-to-Month,48.85,0
+9040-KZVWO,0,59,0,0,0,26,Offer C,39.63,One Year,75.5,0
+9592-ERDKV,0,43,1,0,6,37,None,9.26,One Year,79.25,0
+6481-ESCNL,1,33,0,0,0,29,None,10.67,Month-to-Month,100.55,0
+2824-DXNKN,1,26,1,1,8,72,Offer A,38.99,Two Year,71.45,0
+3744-ZRRDZ,0,25,0,0,0,21,Offer D,12.76,Month-to-Month,82.35,1
+7703-ZEKEF,0,47,0,0,0,23,Offer D,18.7,Month-to-Month,81.0,1
+9620-QJREV,0,62,0,0,0,47,Offer B,42.25,One Year,20.55,0
+7977-HXJKU,0,45,0,2,0,21,Offer D,27.6,Two Year,19.6,0
+4800-VHZKI,1,59,0,0,0,1,Offer E,36.63,Month-to-Month,19.9,1
+6772-KSATR,0,31,0,0,0,1,Offer E,9.81,Month-to-Month,81.7,1
+8231-BSWXX,0,44,0,0,0,71,Offer A,41.34,One Year,79.05,0
+2386-LAHRK,0,22,0,0,0,1,None,14.58,Month-to-Month,53.5,1
+4065-JJAVA,1,56,0,0,0,1,None,16.99,Month-to-Month,49.5,0
+1784-BXEFA,1,63,0,0,0,10,None,4.76,Month-to-Month,20.55,0
+1113-IUJYX,1,59,1,0,3,14,None,5.63,One Year,105.95,1
+1205-WNWPJ,1,54,0,0,0,7,Offer E,2.24,Month-to-Month,59.5,1
+9752-ZNQUT,1,51,0,0,0,1,Offer E,7.99,Month-to-Month,48.6,0
+4423-JWZJN,0,57,1,2,9,64,Offer B,45.35,One Year,90.25,0
+0810-BDHAW,1,54,1,0,4,24,None,31.62,One Year,78.4,0
+8624-GIOUT,1,40,0,0,0,49,Offer B,35.87,Month-to-Month,59.75,1
+8213-TAZPM,1,45,1,1,5,69,Offer A,46.45,One Year,108.75,0
+7005-CCBKV,0,53,0,0,0,6,None,21.97,Month-to-Month,84.4,1
+1934-SJVJK,0,35,0,0,0,1,Offer E,40.51,Month-to-Month,20.15,1
+2811-POVEX,1,74,1,3,4,23,None,2.03,Two Year,88.45,0
+2884-GBPFB,1,61,1,0,4,35,Offer C,10.43,Month-to-Month,70.3,1
+2828-SLQPF,0,53,0,0,0,19,None,29.52,Month-to-Month,45.0,0
+2057-BOYKM,1,70,1,0,10,72,None,28.09,Two Year,96.6,0
+5309-TAIKL,1,42,0,0,0,7,None,8.29,Month-to-Month,62.8,0
+8413-YNHNV,0,42,0,0,0,69,None,47.43,Two Year,90.65,0
+4316-XCSLJ,0,35,0,3,0,17,None,45.61,Month-to-Month,50.3,0
+3090-QFUVD,1,48,0,0,0,1,None,4.09,Month-to-Month,20.3,0
+9541-PWTWO,1,32,0,0,0,52,Offer B,38.71,Two Year,80.95,0
+5542-DHSXL,1,36,1,0,2,4,None,6.77,Month-to-Month,54.7,0
+6284-AHOOQ,0,71,0,0,0,22,None,46.11,Month-to-Month,90.5,1
+6583-KQJLK,1,66,1,0,5,15,Offer D,37.84,Two Year,94.65,0
+8199-ZLLSA,0,53,0,0,0,67,None,22.66,One Year,118.35,1
+9964-WBQDJ,1,19,1,0,1,71,Offer A,24.72,Two Year,24.4,0
+4274-OWWYO,0,56,0,0,0,1,None,4.8,Month-to-Month,74.35,1
+4092-OFQZS,0,27,1,0,8,20,Offer D,46.47,One Year,20.65,0
+9985-MWVIX,1,53,0,0,0,1,Offer E,42.09,Month-to-Month,70.15,1
+6504-VBLFL,0,38,1,0,9,55,Offer B,6.63,Two Year,58.6,0
+4210-QFJMF,1,41,0,0,0,4,Offer E,36.91,Month-to-Month,79.15,1
+8080-POTJR,1,59,0,0,0,30,Offer C,6.74,One Year,79.3,0
+5478-JJVZK,1,38,0,0,0,33,None,15.69,Month-to-Month,60.9,0
+6961-VCPMC,0,71,1,0,1,46,Offer B,48.62,Month-to-Month,80.4,1
+0772-GYEQQ,0,33,0,0,0,3,Offer E,49.4,Month-to-Month,88.35,1
+4369-HTUIF,0,73,0,0,0,6,Offer E,29.41,Month-to-Month,85.15,1
+0536-BGFMZ,1,27,1,0,3,28,None,42.33,Month-to-Month,20.5,0
+3229-USWAR,1,40,0,0,0,34,Offer C,5.32,One Year,79.95,0
+8285-ABVLB,1,34,1,0,0,70,None,40.91,Two Year,19.85,0
+6261-LHRTG,1,27,0,0,0,26,None,39.84,Month-to-Month,54.75,0
+8676-TRMJS,0,27,0,0,0,3,None,34.49,Month-to-Month,75.0,1
+6837-BJYDQ,0,42,0,0,0,3,None,35.65,One Year,19.6,0
+4074-SJFFA,1,44,0,0,0,1,None,13.01,Month-to-Month,54.75,1
+4807-IZYOZ,1,25,0,0,0,51,Offer B,19.23,Two Year,20.65,0
+5732-IKGQH,0,79,1,0,5,52,None,39.0,One Year,104.45,0
+4094-NSEDU,1,79,0,0,0,21,None,21.15,Month-to-Month,94.25,1
+5207-PLSTK,0,32,1,2,10,1,None,26.26,Month-to-Month,48.75,0
+3324-OIRTO,0,23,1,3,1,71,Offer A,14.14,One Year,104.65,0
+3398-GCPMU,1,74,1,0,4,72,Offer A,5.77,Two Year,89.55,0
+3858-XHYJO,1,24,1,0,5,40,Offer B,22.2,One Year,105.75,0
+5884-GCYMI,0,62,0,0,0,1,Offer E,38.53,Month-to-Month,69.4,1
+8748-HFWBO,0,49,1,3,2,19,Offer D,32.47,One Year,19.9,0
+4568-TTZRT,0,36,0,0,0,9,Offer E,13.72,Month-to-Month,20.4,0
+2338-BQEZT,1,38,0,0,0,55,Offer B,3.62,Month-to-Month,50.55,0
+9979-RGMZT,1,20,0,0,0,7,Offer E,36.49,One Year,94.05,0
+1535-VTJOQ,1,19,0,0,0,24,None,26.64,Two Year,25.15,0
+4806-HIPDW,1,64,1,0,1,1,Offer E,21.65,Month-to-Month,68.95,1
+7841-FCRQD,1,27,1,0,1,33,None,15.45,One Year,53.75,0
+2933-XEUJM,1,56,0,0,0,46,Offer B,46.83,Two Year,79.2,0
+5995-WWKKG,1,62,0,0,0,37,Offer C,30.17,One Year,19.8,0
+0254-WWRKD,1,44,1,3,1,67,Offer A,46.9,One Year,50.55,0
+7765-LWVVH,1,39,1,2,8,72,None,18.74,Two Year,95.1,0
+6953-PBDIN,0,50,1,0,4,70,Offer A,38.58,Two Year,72.95,0
+5919-TMRGD,1,32,0,3,0,1,None,13.13,Month-to-Month,79.35,1
+1470-PSXNM,0,27,1,2,7,49,None,36.08,One Year,93.65,0
+2511-ALLCS,1,38,1,3,5,35,None,18.86,Two Year,24.3,0
+2012-NWRPA,1,78,1,0,1,11,Offer D,1.28,Month-to-Month,99.55,1
+7294-TMAOP,1,30,0,0,0,1,Offer E,15.44,Month-to-Month,90.55,1
+2897-DOVND,0,31,0,0,0,2,None,11.19,Month-to-Month,69.8,0
+3192-LNKRK,0,63,1,1,10,34,None,5.65,Month-to-Month,84.05,0
+9474-PHLYD,1,25,0,0,0,15,Offer D,36.34,Month-to-Month,59.45,1
+1403-LKLIK,1,23,1,3,3,33,None,28.4,One Year,20.1,0
+4695-VADHF,0,53,1,0,1,18,None,2.86,Month-to-Month,57.45,1
+1956-YIFGE,0,36,1,3,10,22,None,9.05,One Year,100.05,0
+7538-GWHML,1,52,0,0,0,2,Offer E,7.64,Month-to-Month,69.65,1
+4952-YSOGZ,1,48,1,0,1,4,None,4.14,Month-to-Month,85.95,1
+7426-RHZGU,0,41,0,0,0,9,None,30.8,Month-to-Month,95.9,0
+7668-XCFYV,1,77,1,0,9,17,None,3.83,Month-to-Month,-4.0,0
+2774-LVQUS,1,65,1,0,2,15,None,44.13,Month-to-Month,83.05,1
+9342-VNIMQ,0,62,0,0,0,33,Offer C,5.91,Month-to-Month,54.65,0
+5281-BUZGT,0,69,0,0,0,36,Offer C,23.33,Month-to-Month,90.85,1
+4749-OJKQU,1,36,0,0,0,4,None,23.5,Month-to-Month,75.65,0
+4671-LXRDQ,0,44,0,0,0,2,None,17.25,Month-to-Month,45.0,1
+5149-CUZUJ,0,35,1,0,1,28,None,27.34,One Year,92.9,0
+2466-FCCPT,1,50,1,3,7,20,None,7.31,One Year,-4.0,0
+5002-GCQFH,0,30,1,0,1,49,Offer B,47.17,Month-to-Month,93.85,0
+3727-OWVYD,0,24,0,0,0,35,None,38.38,One Year,61.2,0
+6904-JLBGY,1,78,0,0,0,72,Offer A,14.94,Two Year,117.35,0
+3583-KRKMD,0,51,0,0,0,18,None,26.84,Month-to-Month,-1.0,0
+7562-GSUHK,1,40,0,0,0,16,None,40.76,Month-to-Month,93.2,1
+4936-YPJNK,1,56,0,0,0,10,None,23.84,Month-to-Month,19.9,0
+2393-DIVAI,1,40,0,0,0,3,Offer E,15.37,Month-to-Month,20.0,0
+6365-MTGZX,0,44,0,0,0,24,None,24.76,Month-to-Month,96.0,1
+5647-FXOTP,1,71,1,0,1,60,Offer B,36.71,Month-to-Month,105.9,0
+3009-JWMPU,0,58,0,0,0,62,Offer B,22.64,One Year,96.75,1
+2025-JKFWI,0,31,0,0,0,13,None,24.14,Month-to-Month,99.0,1
+2193-SFWQW,0,47,1,1,9,72,None,24.08,Two Year,111.95,0
+4585-HETAI,1,25,1,0,5,4,None,48.48,Month-to-Month,-1.0,1
+4673-KKSLS,1,56,0,0,0,31,None,40.92,Month-to-Month,87.6,0
+3865-YIOTT,0,40,1,1,1,72,None,11.67,One Year,106.1,0
+6077-BDPXA,1,56,0,0,0,3,None,5.63,Month-to-Month,70.15,0
+2725-IWWBA,0,52,1,2,9,46,Offer B,38.45,One Year,56.9,0
+2380-DAMQP,1,63,1,0,10,72,None,40.59,Two Year,115.15,0
+6437-UKHMV,1,31,0,0,0,7,None,28.92,Month-to-Month,79.7,1
+4627-MIHJH,1,72,0,0,0,69,None,23.4,Two Year,110.25,0
+2960-NKRSO,0,60,0,0,0,24,None,9.53,Month-to-Month,85.95,0
+3312-ZWLGF,0,69,1,0,0,29,None,10.55,Month-to-Month,79.3,0
+7346-MEDWM,1,48,0,0,0,59,Offer B,31.23,Month-to-Month,83.25,0
+2404-JIBFC,1,37,1,3,1,55,None,8.39,Two Year,85.1,0
+4795-KTRTH,1,68,1,0,1,5,Offer E,47.28,Month-to-Month,81.0,1
+5914-XRFQB,0,58,1,0,0,72,None,43.12,Two Year,115.8,0
+2164-SOQXL,1,31,1,2,10,20,None,14.79,Month-to-Month,20.05,0
+5055-MGMGF,1,35,1,0,3,65,Offer B,40.71,Month-to-Month,105.05,0
+9873-MNDKV,1,59,0,0,0,11,Offer D,29.16,Month-to-Month,44.65,0
+4548-SDBKE,1,26,0,0,0,5,Offer E,34.49,Month-to-Month,85.2,1
+0347-UBKUZ,1,46,0,0,0,15,None,2.74,Month-to-Month,19.9,0
+3460-TJBWI,0,58,1,3,1,24,None,7.37,Two Year,24.2,0
+5312-UXESG,1,43,0,0,0,41,Offer B,29.19,Month-to-Month,98.05,0
+4429-WYGFR,0,36,0,0,0,26,Offer C,44.11,Month-to-Month,49.15,0
+4835-YSJMR,0,59,0,0,0,39,Offer C,3.93,Two Year,49.8,0
+9107-UKCKY,0,36,1,0,7,61,Offer B,27.88,One Year,79.8,0
+6223-DHJGV,1,56,0,0,0,42,None,23.25,One Year,20.65,0
+7240-FQLHE,1,68,1,0,1,18,None,25.27,Month-to-Month,99.75,1
+0784-ZQJZX,0,22,0,1,0,72,None,31.93,Two Year,19.9,0
+9114-VEPUF,0,19,1,0,4,62,Offer B,30.51,One Year,96.1,0
+1775-KWJKQ,0,41,1,0,5,72,None,26.96,Two Year,89.85,0
+7197-VOJMM,0,59,1,0,0,67,None,47.46,Two Year,69.2,0
+7858-GTZSP,1,33,0,0,0,12,Offer D,18.75,Month-to-Month,86.55,0
+9185-TQCVP,0,27,1,0,1,14,None,21.3,Month-to-Month,85.15,1
+1222-LRYKO,0,21,0,3,0,6,Offer E,38.28,Month-to-Month,26.35,0
+3521-MNKLV,0,25,0,0,0,24,None,38.68,Month-to-Month,49.7,0
+2267-WTPYD,1,77,1,0,1,57,None,23.05,Month-to-Month,94.0,0
+1492-QGCLU,0,51,1,2,5,53,None,26.84,Month-to-Month,85.7,0
+1137-DGOWI,1,53,1,0,7,30,None,17.33,One Year,70.25,0
+8473-VUVJN,0,80,0,0,0,1,None,39.88,Month-to-Month,73.65,1
+6837-HAEVO,0,47,1,2,9,69,Offer A,22.49,Two Year,105.0,0
+3976-BWUCK,1,63,1,0,1,30,None,7.01,Month-to-Month,94.1,1
+4830-FAXFM,0,62,0,2,0,19,Offer D,14.48,Month-to-Month,24.1,0
+9063-ZGTUY,1,22,1,0,3,61,None,46.27,Month-to-Month,19.4,1
+5712-VBOXD,1,53,0,0,0,4,Offer E,1.3,Month-to-Month,20.15,0
+2400-XIWIO,1,30,1,0,2,71,None,22.33,Two Year,90.1,0
+1194-HVAIF,1,21,1,0,1,27,Offer C,18.42,Month-to-Month,95.0,0
+7167-PCEYD,0,31,0,0,0,67,None,4.72,Two Year,19.8,0
+4182-BGSIQ,1,46,1,1,6,10,Offer D,19.05,Month-to-Month,19.8,0
+8234-GSZYK,0,39,0,0,0,43,None,28.9,Two Year,26.45,0
+3070-BDOQC,1,38,0,0,0,60,None,16.81,Two Year,99.65,0
+7225-IILWY,0,36,1,1,10,68,None,26.83,Two Year,25.75,0
+2195-ZRVAX,1,40,1,0,1,47,None,44.26,Month-to-Month,85.3,1
+0434-CSFON,1,34,1,0,3,47,Offer B,38.15,Month-to-Month,100.5,0
+2141-RRYGO,1,51,0,0,0,4,Offer E,10.64,Month-to-Month,68.65,1
+6502-HCJTI,0,78,1,0,0,7,None,9.7,Month-to-Month,94.7,1
+1697-NVVGY,0,71,1,0,1,19,None,30.44,Month-to-Month,66.4,0
+9565-DJPIB,1,64,0,0,0,4,Offer E,36.76,Month-to-Month,89.6,1
+6559-RAKOZ,0,61,1,1,7,49,Offer B,16.02,One Year,97.95,0
+1689-YQBYY,1,43,0,1,0,12,Offer D,26.13,Month-to-Month,76.6,0
+3865-ZFZIB,0,25,0,0,0,19,Offer D,34.68,Two Year,19.65,0
+8559-WNQZS,0,37,0,0,0,1,Offer E,43.82,Two Year,20.45,0
+1409-PHXTF,0,77,1,0,5,54,Offer B,32.56,Two Year,110.45,0
+2722-JMONI,1,73,1,0,1,1,Offer E,24.24,Month-to-Month,49.55,1
+6142-VSJQO,1,27,1,3,0,1,None,40.42,Month-to-Month,44.35,1
+4312-KFRXN,0,61,1,0,2,72,Offer A,34.29,Two Year,25.4,0
+1121-QSIVB,1,39,0,3,0,44,Offer B,5.07,One Year,77.55,0
+9800-ONTFE,1,59,1,3,3,22,Offer D,4.67,Month-to-Month,75.8,0
+5186-EJEGL,0,24,0,0,0,9,None,34.43,Month-to-Month,69.5,0
+7067-KSAZT,1,66,1,0,1,65,None,18.69,One Year,106.25,1
+9029-FEGVJ,1,68,1,0,2,32,Offer C,2.17,Two Year,79.3,0
+0363-QJVFX,0,22,0,0,0,32,Offer C,27.69,Month-to-Month,108.15,1
+9717-QEBGU,0,51,0,0,0,2,Offer E,1.57,Month-to-Month,70.3,0
+6064-PUPMC,0,59,1,2,4,23,None,37.86,One Year,57.2,0
+8760-ZRHKE,1,80,1,1,7,71,None,48.59,One Year,69.2,0
+1455-ESIQH,0,44,0,0,0,1,None,16.06,Month-to-Month,89.1,1
+1206-EHBDD,1,56,1,0,9,56,Offer B,4.24,Two Year,80.3,0
+8313-NDOIA,1,48,0,0,0,24,None,38.79,Month-to-Month,104.15,0
+3186-AJIEK,0,44,0,0,0,66,None,30.96,Two Year,105.65,0
+5855-EIBDE,1,35,1,0,10,49,None,40.67,Two Year,106.65,0
+4597-NUCQV,0,65,0,0,0,24,None,28.98,Month-to-Month,101.25,1
+3521-SYVOR,1,26,0,0,0,37,Offer C,3.27,Month-to-Month,64.75,1
+1833-TCXKK,0,50,1,0,0,45,Offer B,29.81,Month-to-Month,107.75,0
+2982-IHMFT,1,75,0,0,0,1,None,39.61,Month-to-Month,74.45,1
+6582-OIVSP,1,25,0,0,0,1,None,47.36,Month-to-Month,45.3,0
+9774-NRNAU,0,77,1,0,5,27,None,33.57,One Year,84.8,0
+4091-TVOCN,0,51,0,0,0,48,Offer B,2.53,One Year,78.75,0
+5228-EXCET,0,40,0,0,0,13,None,12.54,Month-to-Month,80.85,1
+8835-VSDSE,1,28,1,0,1,2,Offer E,9.76,Month-to-Month,70.7,1
+2342-CKIAO,1,39,0,0,0,2,None,12.68,Month-to-Month,20.3,0
+9259-PACGQ,1,19,1,0,1,34,None,41.32,Month-to-Month,62.65,1
+2017-CCBLH,1,55,0,0,0,8,None,23.46,Two Year,20.0,0
+3701-SFMUH,0,63,1,3,6,7,Offer E,5.17,Month-to-Month,69.7,0
+2927-CVULT,1,64,1,1,1,53,Offer B,28.36,Two Year,104.05,0
+9570-KYEUA,0,38,0,0,0,64,Offer B,36.54,Two Year,99.25,0
+8096-LOIST,1,57,0,0,0,19,Offer D,40.22,Month-to-Month,56.2,0
+5448-VWNAM,1,49,0,3,0,19,Offer D,8.02,Month-to-Month,75.9,0
+4291-SHSBH,0,25,0,0,0,7,Offer E,8.95,Month-to-Month,69.55,0
+8402-OOOHJ,1,53,0,0,0,41,None,31.62,Two Year,20.65,0
+2516-XSJKX,1,20,1,2,1,41,None,32.29,Two Year,78.45,0
+1850-AKQEP,0,61,0,1,0,8,None,14.37,Month-to-Month,20.35,0
+2195-VVRJF,0,74,1,0,6,18,None,5.73,Two Year,59.1,0
+1591-NFNLQ,0,38,0,0,0,51,None,5.62,Month-to-Month,80.0,1
+4806-DXQCE,1,77,1,0,7,70,None,35.39,Two Year,113.65,0
+3890-RTCMS,0,29,0,0,0,16,None,48.45,Month-to-Month,49.45,0
+7096-ZNBZI,1,21,1,0,1,72,Offer A,22.22,Two Year,26.45,0
+3274-NSDWE,1,37,0,0,0,68,None,32.99,Two Year,19.6,0
+7153-OANIO,0,48,0,0,0,1,Offer E,27.58,Month-to-Month,69.95,1
+0219-QAERP,0,33,1,0,2,30,None,9.81,One Year,19.8,0
+3549-ZTMNH,0,56,1,1,0,12,None,26.17,Two Year,24.0,0
+7564-GHCVB,1,27,1,0,5,72,Offer A,7.29,Two Year,79.05,0
+3580-HYCSP,0,44,1,4,10,72,None,33.01,Two Year,110.3,0
+2143-LJULT,1,55,1,0,1,67,None,35.34,Two Year,25.25,0
+6585-WCEWR,0,24,1,1,1,72,None,22.78,Two Year,20.35,0
+7892-POOKP,1,23,1,3,0,28,Offer C,4.89,Month-to-Month,104.8,1
+0868-VJRDR,0,61,1,0,1,64,None,4.76,Two Year,104.05,0
+1724-BQUHA,0,67,0,0,0,5,None,45.72,Month-to-Month,89.5,1
+2272-WUSPA,1,48,1,0,1,72,None,39.74,Two Year,110.75,0
+3627-FHKBK,1,28,0,0,0,1,None,4.13,Month-to-Month,75.3,1
+6362-QHAFM,0,53,1,0,1,42,None,42.45,One Year,108.3,0
+8544-JNBOX,0,31,0,0,0,72,Offer A,23.43,Two Year,20.8,0
+0307-BCOPK,1,62,0,0,0,16,Offer D,41.51,One Year,19.05,0
+7576-JMYWV,1,76,1,1,7,46,Offer B,20.42,Two Year,110.2,0
+2203-GHNWN,1,24,1,0,2,24,None,44.93,Month-to-Month,79.65,0
+8165-ZJRNM,1,62,1,1,7,72,Offer A,21.14,Two Year,23.75,0
+6121-VZNQB,1,35,0,0,0,1,None,34.79,Month-to-Month,19.1,1
+6670-MFRPK,0,53,1,1,5,69,Offer A,21.56,Two Year,79.2,0
+8903-XEBGX,0,22,0,1,0,2,Offer E,43.93,Month-to-Month,55.3,0
+1431-AIDJQ,0,44,1,1,1,33,Offer C,1.62,Two Year,82.1,0
+4487-ZYJZK,1,60,1,2,1,38,None,36.72,One Year,19.6,0
+3230-WYKIR,0,36,0,0,0,18,None,12.5,One Year,82.0,1
+7129-ACFOG,1,56,0,0,0,5,None,49.4,Month-to-Month,53.8,0
+6078-VESFR,0,78,1,0,1,13,None,36.57,Month-to-Month,70.45,0
+5287-QWLKY,0,79,1,0,1,71,None,44.66,Month-to-Month,105.1,1
+4256-ZWTZI,1,22,0,1,0,5,None,40.03,Month-to-Month,51.0,0
+2612-RRIDN,0,25,0,0,0,4,Offer E,21.62,Month-to-Month,81.0,1
+7036-ZZKBD,0,56,1,0,7,31,Offer C,25.3,Month-to-Month,66.4,0
+3243-ZHOHY,1,35,0,0,0,16,Offer D,20.65,One Year,20.1,0
+2178-PMGCJ,0,22,0,0,0,22,Offer D,15.77,Month-to-Month,69.7,0
+1757-TCATG,0,24,1,1,4,35,Offer C,41.02,One Year,20.05,0
+0709-TVGUR,1,70,0,0,0,9,None,17.56,Month-to-Month,74.55,1
+0603-TPMIB,1,40,1,2,0,59,Offer B,42.37,Two Year,25.45,0
+6681-ZSEXG,0,34,1,0,9,56,Offer B,35.55,Two Year,59.5,0
+5461-QKNTN,0,71,1,0,1,43,None,4.59,One Year,94.3,0
+7244-KXYZN,1,25,0,0,0,24,None,5.98,One Year,20.45,0
+5052-PNLOS,0,50,0,0,0,3,Offer E,13.83,Month-to-Month,105.35,1
+6898-RBTLU,1,47,1,1,9,49,Offer B,16.6,Two Year,-2.0,0
+8161-QYMTT,0,55,0,0,0,7,None,7.37,Month-to-Month,94.1,0
+1032-MAELW,1,57,1,3,8,68,None,7.47,One Year,78.45,0
+7025-IWFHT,0,62,0,0,0,41,Offer B,45.22,One Year,89.55,0
+1574-DYCWE,1,60,1,1,10,51,Offer B,14.54,Two Year,19.95,0
+4923-ADWXJ,1,33,0,0,0,25,None,1.22,Month-to-Month,65.8,0
+9150-KPBJQ,1,43,0,0,0,6,None,29.09,Two Year,19.65,0
+0599-XNYDO,1,51,1,0,0,20,None,43.49,Month-to-Month,69.8,0
+3129-AAQOU,1,50,1,2,4,19,Offer D,38.43,Two Year,25.6,0
+9364-YKUVW,0,53,0,0,0,15,None,16.13,Month-to-Month,19.8,0
+7786-WBJYI,1,31,0,0,0,4,None,30.95,Month-to-Month,77.95,1
+6603-YRDCJ,0,19,1,0,3,33,Offer C,15.89,Two Year,61.05,0
+0637-YLETY,1,39,0,0,0,16,Offer D,18.99,Month-to-Month,95.6,1
+3178-FESZO,1,45,0,0,0,1,Offer E,20.23,Month-to-Month,100.25,1
+6161-UUUTA,0,77,0,0,0,3,None,2.98,Month-to-Month,79.9,1
+5702-KVQRD,0,34,1,0,2,71,Offer A,28.21,Two Year,82.55,0
+5214-NLTIT,0,22,1,1,1,72,Offer A,23.7,Two Year,90.8,0
+6568-POCUI,1,51,1,0,3,45,None,48.02,Two Year,95.2,0
+8614-VGMMV,1,33,0,0,0,15,None,9.71,Month-to-Month,49.1,1
+3644-QXEHN,0,60,1,1,1,13,Offer D,44.05,Month-to-Month,97.0,0
+6064-ZATLR,1,44,0,0,0,27,None,10.55,Two Year,52.85,0
+7839-NUIAA,1,27,1,1,1,61,Offer B,26.7,Month-to-Month,59.8,0
+8623-ULFNQ,1,79,0,0,0,26,None,12.09,Two Year,66.05,0
+5089-IFSDP,1,39,1,0,1,58,Offer B,27.99,Two Year,109.45,1
+7825-ECJRF,1,43,0,1,0,19,None,28.35,Month-to-Month,106.6,1
+6352-TWCAU,1,32,0,0,0,35,None,19.07,Month-to-Month,86.45,1
+9812-GHVRI,1,50,0,0,0,40,Offer B,33.66,Month-to-Month,83.85,0
+1644-IRKSF,1,48,1,0,5,33,None,20.02,One Year,93.8,1
+6813-GZQCG,1,21,1,1,5,45,None,37.57,Two Year,24.65,0
+8044-BGWPI,0,50,1,2,8,12,Offer D,33.9,Month-to-Month,21.15,0
+6507-ZJSUR,0,76,1,0,6,23,None,46.82,One Year,90.45,0
+2911-IJORQ,0,42,0,0,0,37,None,44.52,One Year,90.6,0
+9068-FHQHD,1,42,1,3,1,40,None,3.01,Two Year,20.15,0
+0572-ZJKLT,1,32,1,1,10,46,Offer B,49.26,Two Year,99.65,0
+4057-FKCZK,0,40,1,2,1,58,None,29.93,Two Year,82.5,0
+2000-MPKCA,1,51,0,0,0,58,Offer B,46.7,One Year,107.75,0
+4619-EVPHY,1,65,1,0,2,20,None,38.85,One Year,91.0,0
+2085-JVGAD,0,56,1,0,3,37,None,2.15,Month-to-Month,20.35,0
+9489-UTFKA,0,76,1,0,9,8,Offer E,22.4,One Year,60.9,0
+2027-WKXMW,1,49,1,0,10,63,Offer B,20.37,Month-to-Month,108.75,0
+4872-VXRIL,0,22,0,0,0,56,Offer B,48.32,One Year,64.65,0
+1051-GEJLJ,1,19,0,0,0,2,None,27.17,Month-to-Month,19.5,0
+3038-PQIUY,1,39,0,0,0,38,None,20.14,Month-to-Month,66.15,0
+8566-YPRGL,1,57,0,0,0,1,Offer E,33.02,Month-to-Month,19.5,0
+9848-JQJTX,0,52,0,0,0,72,Offer A,24.53,Two Year,100.9,0
+2013-SGDXK,1,27,0,0,0,1,None,1.63,Month-to-Month,84.3,1
+4229-CZMLL,0,49,0,0,0,6,None,6.32,Month-to-Month,74.9,1
+6341-AEVKX,1,37,1,0,5,62,Offer B,44.95,One Year,104.3,0
+3902-MIVLE,0,35,1,0,3,63,Offer B,12.15,Two Year,75.7,0
+6298-QDFNH,0,48,0,0,0,22,None,19.19,Month-to-Month,79.35,1
+7919-ZODZZ,1,32,1,2,1,10,Offer D,42.0,One Year,65.9,0
+0822-QGCXA,1,76,1,0,5,27,Offer C,3.43,Month-to-Month,83.85,0
+0080-OROZO,1,38,0,0,0,35,Offer C,36.42,One Year,99.25,0
+8573-JGCZW,0,27,0,0,0,17,None,47.79,One Year,19.65,0
+6557-BZXLQ,0,66,0,0,0,16,Offer D,22.9,Two Year,69.65,0
+8597-CWYHH,0,50,0,0,0,43,None,41.22,One Year,94.35,0
+3374-TTZTK,0,26,1,0,4,52,None,49.82,Two Year,106.3,0
+4547-KQRTM,1,60,0,0,0,10,None,49.7,Month-to-Month,80.05,1
+6901-GOGZG,0,28,0,1,0,60,Offer B,49.96,Two Year,84.95,0
+1423-BMPBQ,1,62,1,1,1,1,Offer E,28.28,Month-to-Month,19.0,0
+7427-AUFPY,0,27,0,0,0,54,None,25.72,Two Year,19.65,0
+6844-DZKRF,0,61,0,0,0,2,None,6.34,Month-to-Month,50.2,0
+6833-JMZYP,1,54,0,0,0,15,None,15.28,Month-to-Month,94.0,0
+1357-MVDOZ,0,25,1,1,7,11,Offer D,21.14,Month-to-Month,59.65,0
+3669-WHAFY,1,57,1,0,7,71,Offer A,9.44,Two Year,115.15,0
+3027-ZTDHO,0,21,0,0,0,1,Offer E,32.85,Month-to-Month,89.9,1
+7239-HZZCX,0,21,0,0,0,1,None,29.33,Month-to-Month,19.75,1
+0306-JAELE,0,61,0,0,0,5,None,31.09,Month-to-Month,96.1,1
+7228-OMTPN,0,32,0,0,0,4,None,49.14,Month-to-Month,88.45,1
+6516-NKQBO,0,28,1,0,1,38,None,22.05,Two Year,81.0,0
+0377-JBKKT,0,21,1,3,9,22,Offer D,42.58,Month-to-Month,57.95,0
+0708-LGSMF,0,56,1,0,1,13,Offer D,14.32,Month-to-Month,65.85,0
+9953-ZMKSM,0,28,0,0,0,63,Offer B,4.01,Two Year,25.25,0
+0402-CQAJN,1,22,0,0,0,37,None,24.04,Month-to-Month,101.9,1
+1676-MQAOA,0,32,0,0,0,72,Offer A,15.03,Two Year,75.1,0
+9297-FVVDH,1,33,1,0,2,57,Offer B,10.05,Two Year,84.5,0
+8040-MNRTF,1,47,0,0,0,1,None,37.51,Month-to-Month,71.1,0
+6653-CBBOM,1,57,0,0,0,1,Offer E,15.92,Month-to-Month,70.3,1
+6990-YNRIO,0,53,1,0,0,65,None,41.88,Two Year,108.65,1
+1972-XMUWV,1,46,1,0,7,65,None,10.23,Two Year,59.8,0
+1810-BOHSY,0,63,1,0,7,51,Offer B,35.0,One Year,96.4,0
+2842-BCQGE,0,39,0,0,0,43,Offer B,19.66,Month-to-Month,75.35,0
+1131-QQZEB,0,66,1,0,7,71,Offer A,30.72,Two Year,23.95,0
+2862-JVEOY,0,33,0,0,0,6,None,10.54,One Year,19.15,0
+3744-ZBHON,1,64,0,0,0,3,None,31.81,Month-to-Month,20.2,0
+4450-MDZFX,0,50,1,4,9,60,Offer B,38.44,Month-to-Month,74.35,0
+3359-DSRKA,1,48,1,3,9,58,Offer B,11.81,Two Year,19.85,0
+1725-IQNIY,0,34,1,0,1,54,None,42.09,Two Year,109.75,1
+9552-TGUZV,0,57,1,0,8,8,Offer E,20.67,Month-to-Month,75.0,0
+6974-DAFLI,1,54,1,0,8,55,Offer B,3.28,One Year,19.7,0
+2223-GDSHL,0,41,1,1,5,71,Offer A,26.38,Two Year,116.05,0
+3018-TFTSU,0,44,0,0,0,12,Offer D,18.38,Month-to-Month,81.7,1
+1867-BDVFH,0,35,1,0,1,11,Offer D,9.14,Month-to-Month,74.35,1
+9087-EYCPR,1,63,0,0,0,60,Offer B,39.41,Two Year,25.0,0
+4183-WCSEP,0,46,0,0,0,31,None,34.38,Month-to-Month,78.45,1
+9170-GYZJC,1,42,1,3,1,41,None,45.26,Month-to-Month,79.9,1
+3714-XPXBW,1,43,0,0,0,37,None,42.41,Month-to-Month,78.9,0
+3221-CJMSG,0,45,0,0,0,24,None,2.33,Month-to-Month,51.1,0
+6137-NICCO,1,39,1,2,7,6,None,41.29,Month-to-Month,94.05,0
+7519-JTWQH,1,30,0,0,0,69,Offer A,23.92,Two Year,110.5,0
+2460-NGXBJ,0,65,1,1,8,11,None,28.64,One Year,75.2,0
+9251-AWQGT,1,19,1,3,2,48,None,9.77,Two Year,20.0,0
+2252-NKNSI,0,63,0,0,0,52,None,32.02,Two Year,85.15,0
+5828-AVIPD,0,29,1,0,1,19,None,5.93,One Year,100.95,1
+4694-PHWFW,1,26,0,3,0,8,None,45.87,Month-to-Month,19.95,0
+6968-GMKPR,1,39,0,0,0,55,Offer B,22.34,Month-to-Month,81.55,0
+8639-NHQEI,1,26,1,3,9,72,None,11.85,Two Year,95.9,0
+6234-RAAPL,1,60,1,0,7,72,None,23.66,Two Year,99.9,0
+9640-ZSLDC,1,29,1,5,3,53,None,31.99,One Year,60.6,0
+4827-DPADN,1,28,1,3,3,72,None,24.48,Two Year,83.3,0
+9112-WSNPU,1,65,0,0,0,35,None,16.91,Month-to-Month,70.55,0
+3722-WPXTK,0,23,0,0,0,1,None,14.26,Month-to-Month,88.35,1
+9763-PDTKK,1,59,0,0,0,4,Offer E,39.68,Month-to-Month,94.4,1
+8792-AOROI,1,23,1,0,1,8,Offer E,23.68,Two Year,65.5,0
+2984-MIIZL,0,51,0,0,0,4,None,7.26,Month-to-Month,74.8,1
+8699-ASUFO,0,72,1,0,1,7,None,8.92,Month-to-Month,74.4,1
+6350-XFYGW,0,80,0,0,0,4,None,19.0,Two Year,94.75,0
+9578-FOMUK,0,53,0,3,0,15,None,32.54,Month-to-Month,24.8,0
+9822-OAOVB,1,63,0,0,0,1,Offer E,6.43,Month-to-Month,55.45,0
+8107-RZLNV,0,22,1,0,10,72,None,15.09,Two Year,106.3,0
+3039-MJSLN,0,36,0,3,0,3,None,18.43,Month-to-Month,20.2,0
+9800-OUIGR,0,61,1,1,4,66,None,7.83,Two Year,20.0,0
+4879-GZLFH,1,33,1,3,10,42,None,17.75,Month-to-Month,92.15,0
+7548-SEPYI,1,62,0,0,0,5,Offer E,32.12,Month-to-Month,96.25,1
+3057-VJJQE,0,64,0,0,0,35,None,20.39,Two Year,55.25,0
+3320-VEOYC,0,65,0,0,0,14,None,37.62,Month-to-Month,95.6,0
+5630-AHZIL,1,51,0,3,0,3,Offer E,39.55,Month-to-Month,64.5,0
+6633-SYEUS,1,23,0,0,0,23,None,19.96,Month-to-Month,83.2,0
+4530-NDRKU,1,31,1,3,4,42,None,34.66,One Year,19.05,0
+5546-QUERU,0,42,0,0,0,13,None,16.35,One Year,19.95,0
+9220-CXRSC,1,56,1,2,10,69,None,39.07,Two Year,61.4,0
+1346-UFHAX,1,59,0,0,0,13,Offer D,33.69,Month-to-Month,80.0,0
+7188-CBBBA,1,59,0,0,0,65,None,27.68,One Year,95.5,0
+0269-XFESX,0,22,1,3,1,23,None,48.02,One Year,24.35,0
+0979-PHULV,0,30,1,0,2,69,Offer A,48.8,Month-to-Month,99.45,1
+8207-VVMYB,1,44,1,0,1,70,None,14.15,Two Year,26.0,0
+5243-SAOTC,0,36,0,0,0,54,Offer B,7.64,Month-to-Month,79.85,0
+1927-QEWMY,1,51,1,0,6,72,Offer A,43.91,Two Year,20.5,0
+3251-YMVWZ,0,34,0,0,0,53,Offer B,39.37,One Year,24.05,0
+1608-GMEWB,0,76,0,0,0,45,Offer B,15.65,Two Year,93.9,0
+5998-DZLYR,1,55,1,0,1,61,Offer B,25.14,Two Year,94.35,0
+1448-CYWKC,1,61,1,3,2,58,None,43.01,One Year,105.2,0
+6963-EZQEE,0,69,1,0,4,70,None,40.94,Two Year,88.55,0
+9481-SFCQY,1,44,0,1,0,14,Offer D,44.14,Month-to-Month,59.8,0
+3967-KXAPS,0,42,1,0,5,72,Offer A,13.59,Two Year,92.3,0
+0096-FCPUF,0,58,0,0,0,30,None,2.64,Month-to-Month,64.5,0
+8182-PNAGI,0,50,0,0,0,12,None,46.58,Month-to-Month,50.25,1
+2604-XVDAM,1,54,0,0,0,12,Offer D,6.56,Month-to-Month,43.8,0
+3161-ONRWK,0,35,1,0,4,60,Offer B,43.57,One Year,65.85,0
+3612-YUNGG,0,53,1,1,1,64,None,13.73,Two Year,109.2,0
+4881-GQJTW,0,64,0,0,0,14,Offer D,8.54,Month-to-Month,19.6,0
+7997-EASSD,1,56,1,0,1,63,Offer B,38.85,One Year,81.2,0
+4640-UHDOS,1,60,1,0,3,13,Offer D,19.05,Month-to-Month,55.95,1
+8707-HOEDG,1,26,1,3,4,70,None,5.51,Two Year,110.2,0
+5196-SGOAK,1,39,0,0,0,1,Offer E,9.05,Month-to-Month,75.7,1
+7663-YJHSN,1,33,1,0,10,72,Offer A,44.27,Two Year,103.95,0
+8200-LGKSR,0,47,1,0,6,71,None,35.09,Two Year,83.2,0
+9824-QCJPK,0,47,1,0,7,36,None,21.77,One Year,20.0,0
+3511-APPBJ,0,21,0,0,0,23,None,41.94,One Year,99.95,0
+5299-RULOA,1,62,1,2,1,10,None,24.48,Month-to-Month,100.25,1
+1228-ZLNBX,0,25,0,0,0,21,None,3.26,Month-to-Month,75.3,0
+4220-TINQT,1,41,1,0,3,61,None,27.63,Month-to-Month,106.35,0
+5858-EAFCZ,0,45,0,0,0,1,None,23.34,Month-to-Month,44.45,0
+0750-EKNGL,0,44,0,0,0,7,Offer E,47.19,Month-to-Month,20.75,0
+1656-DRSMG,1,40,0,0,0,63,Offer B,19.01,Month-to-Month,109.85,0
+3716-UVSPD,0,54,0,0,0,1,None,14.97,Month-to-Month,-1.0,0
+3137-LUPIX,1,58,0,0,0,4,None,1.1,Month-to-Month,64.4,0
+6284-KMNUF,1,33,1,0,10,56,Offer B,37.5,One Year,98.0,0
+0129-KPTWJ,0,39,1,0,9,72,None,33.22,Month-to-Month,94.65,0
+3717-OEAUQ,0,37,0,0,0,2,Offer E,2.72,Month-to-Month,-1.0,0
+5334-JLAXU,1,44,1,0,8,60,Offer B,15.54,Month-to-Month,94.1,0
+1403-GYAFU,0,47,1,2,5,70,Offer A,48.57,Two Year,20.05,0
+3230-JCNZS,1,43,1,2,4,71,Offer A,15.73,Two Year,99.0,0
+8099-MZPUJ,0,49,1,2,10,48,None,12.57,Two Year,111.8,0
+4190-MFLUW,1,21,1,0,6,10,None,9.41,Month-to-Month,55.2,1
+3137-NYQQI,0,32,1,0,2,17,Offer D,45.35,One Year,64.8,0
+1474-JUWSM,1,24,1,0,8,58,None,26.99,One Year,68.4,0
+1928-BXYIV,0,47,0,0,0,1,Offer E,17.07,Month-to-Month,61.15,0
+9507-EXLTT,1,30,1,0,2,1,Offer E,23.63,Month-to-Month,79.35,1
+6479-OAUSD,0,41,0,0,0,25,Offer C,7.17,One Year,19.9,0
+2900-PHPLN,1,73,1,0,2,70,Offer A,15.9,Two Year,19.55,0
+9512-UIBFX,0,52,1,0,6,18,None,1.51,Month-to-Month,95.15,1
+2176-LVPNX,1,69,0,0,0,71,Offer A,37.39,Two Year,89.85,0
+9092-GDZKO,0,49,0,0,0,22,Offer D,22.97,Month-to-Month,24.85,0
+5376-PCKNB,0,35,1,1,5,72,Offer A,17.49,One Year,104.45,0
+9508-ILZDG,1,79,0,0,0,34,None,14.23,Two Year,96.35,0
+2344-JMOGN,0,54,1,0,1,9,None,17.47,Month-to-Month,94.85,1
+9715-SBVSU,0,20,1,1,3,14,None,10.74,Two Year,61.4,0
+7943-RQCHR,1,34,0,0,0,9,Offer E,10.07,Month-to-Month,94.75,1
+2851-MMUTZ,1,29,0,0,0,27,None,1.31,Month-to-Month,56.15,0
+9588-YRFHY,0,19,0,0,0,49,Offer B,6.26,Two Year,19.9,0
+8782-NUUOL,0,62,0,0,0,60,None,35.13,One Year,79.0,0
+3030-YZADT,0,57,0,0,0,9,Offer E,2.88,Month-to-Month,44.95,1
+3945-GFWQL,1,33,0,1,0,12,None,5.16,Month-to-Month,44.55,1
+2428-HYUNX,0,74,1,0,4,44,None,1.89,Two Year,19.35,0
+2931-SVLTV,0,59,1,3,6,40,Offer B,11.5,Month-to-Month,110.1,0
+8129-GMVGI,1,58,1,3,10,56,None,35.38,Two Year,20.05,0
+6891-JPYFF,1,57,1,3,1,48,Offer B,30.41,Month-to-Month,105.25,0
+0707-HOVVN,1,79,0,0,0,70,Offer A,47.27,Two Year,75.5,0
+1830-IPXVJ,1,44,1,2,6,61,Offer B,25.4,Two Year,19.75,0
+5219-YIPTK,1,46,1,0,1,33,None,11.32,Month-to-Month,104.4,1
+2654-VBVPB,1,22,0,0,0,1,None,11.83,Month-to-Month,19.9,0
+9926-PJHDQ,1,45,1,0,5,72,Offer A,43.47,Two Year,76.8,0
+7663-CUXZB,0,34,1,0,9,59,Offer B,14.98,Two Year,113.75,0
+0380-NEAVX,0,72,0,0,0,34,None,35.0,One Year,99.85,0
+3090-HAWSU,0,44,0,0,0,61,None,7.82,Two Year,111.6,1
+6319-QSUSR,1,57,0,1,0,11,Offer D,44.88,Month-to-Month,19.7,0
+8292-ITGYJ,1,48,1,1,7,45,Offer B,20.11,Two Year,24.65,0
+5357-TZHPP,0,67,0,0,0,9,None,30.8,Month-to-Month,84.4,1
+8630-FJLIB,1,35,0,0,0,18,Offer D,34.12,Month-to-Month,69.8,0
+5760-IFJOZ,0,57,0,0,0,3,None,47.5,Month-to-Month,107.95,0
+7876-DNYAP,1,29,1,2,7,69,Offer A,8.39,Two Year,19.8,0
+6214-EDAKZ,1,32,1,1,1,22,None,5.26,Month-to-Month,55.15,1
+0722-SVSFK,1,45,0,0,0,7,None,39.02,Month-to-Month,100.4,0
+2843-CQMEG,0,21,0,0,0,24,Offer C,3.72,Month-to-Month,49.7,0
+0111-KLBQG,0,71,1,1,9,32,Offer C,31.86,One Year,93.95,0
+6176-YJWAS,0,43,1,0,1,72,Offer A,38.3,Two Year,97.95,0
+2576-HXMPA,1,30,0,0,0,1,None,8.23,Month-to-Month,19.55,0
+3071-VBYPO,0,38,1,2,1,3,Offer E,33.3,Month-to-Month,89.85,0
+1910-FMXJM,1,59,1,0,8,36,None,49.33,Month-to-Month,80.4,0
+6656-GULJQ,0,25,1,2,4,72,None,21.21,Two Year,83.55,0
+1686-STUHN,0,55,0,0,0,42,None,38.74,One Year,19.8,0
+6030-REHUX,1,76,1,0,6,28,Offer C,45.67,One Year,110.85,0
+4884-ZTHVF,1,80,0,0,0,8,None,39.01,Month-to-Month,87.1,0
+6572-ADKRS,1,19,0,0,0,46,Offer B,42.44,Month-to-Month,74.8,0
+5542-NKVRU,1,24,0,0,0,42,Offer B,18.31,Two Year,20.75,0
+6513-EECDB,0,75,1,0,0,1,None,36.92,Month-to-Month,73.55,1
+7044-YAACC,0,70,1,0,5,4,None,6.03,Two Year,70.2,0
+3213-VVOLG,0,22,1,2,3,10,None,36.37,Two Year,25.35,0
+6876-ADESB,0,22,0,2,0,1,None,34.4,Month-to-Month,48.95,1
+6330-JKLPC,0,42,1,0,3,11,Offer D,11.5,Month-to-Month,80.5,1
+1260-TTRXI,0,64,0,0,0,4,Offer E,40.15,Month-to-Month,54.3,1
+2097-YVPKN,0,56,0,0,0,65,None,4.9,Two Year,25.75,0
+7569-NMZYQ,1,33,1,3,1,72,None,41.14,Two Year,118.75,0
+3927-NLNRY,0,48,1,0,1,53,Offer B,15.77,One Year,94.25,1
+3426-NIYYL,0,47,0,0,0,15,Offer D,3.15,Month-to-Month,51.55,1
+7928-VJYAB,0,44,1,1,9,11,Offer D,38.48,Month-to-Month,90.6,0
+3413-DHLPB,0,57,1,1,1,60,Offer B,2.83,Month-to-Month,103.75,0
+1871-MOWRM,0,57,1,0,3,12,None,18.26,Month-to-Month,80.85,1
+5027-QPKTE,0,39,1,0,1,7,Offer E,14.75,Month-to-Month,69.35,1
+8012-SOUDQ,1,65,0,0,0,43,Offer B,12.58,One Year,90.25,0
+9412-GHEEC,0,55,0,0,0,40,None,35.58,Month-to-Month,104.8,1
+2302-OUZXB,0,62,1,0,5,72,Offer A,22.01,Two Year,82.15,0
+9509-MPYOD,1,34,0,0,0,35,Offer C,35.5,One Year,20.75,0
+8125-QPFJD,1,36,1,0,7,72,None,1.34,Two Year,84.9,0
+6447-EGDIV,1,23,0,0,0,31,None,31.79,One Year,20.95,0
+6896-SRVYQ,0,69,0,0,0,44,Offer B,47.06,One Year,73.85,0
+9453-PATOS,1,24,1,0,7,72,Offer A,20.54,Two Year,85.1,0
+7602-MVRMB,1,62,1,1,9,72,None,46.63,Two Year,110.45,0
+3452-FLHYD,0,47,1,0,3,25,None,25.08,One Year,20.95,0
+9921-QFQUL,1,33,1,0,2,23,Offer D,22.17,Month-to-Month,90.15,0
+1970-KKFWL,1,38,0,0,0,35,None,6.52,Two Year,23.3,0
+4958-GZWIY,0,61,1,0,1,7,None,5.13,Month-to-Month,-4.0,1
+2466-NEJOJ,0,58,1,3,6,8,Offer E,26.17,Month-to-Month,19.65,0
+1140-UKVZG,1,64,0,0,0,17,Offer D,9.84,Month-to-Month,24.8,0
+6693-FRIRW,0,61,0,0,0,18,None,7.56,Month-to-Month,101.3,0
+8219-VYBVI,0,52,0,3,0,39,None,49.95,Two Year,25.0,0
+6897-UUBNU,0,39,0,0,0,29,None,12.92,Month-to-Month,89.65,0
+3177-LASXD,1,43,0,0,0,1,None,40.4,Month-to-Month,71.35,1
+0820-FNRNX,0,48,1,3,1,17,Offer D,29.87,Month-to-Month,66.7,0
+0641-EVBOJ,0,61,0,0,0,3,None,44.97,Month-to-Month,82.3,0
+7103-IPXPJ,0,44,1,0,7,50,Offer B,26.06,One Year,99.4,0
+3898-GUYTS,1,71,0,0,0,45,None,12.67,Two Year,97.05,0
+2968-SSGAA,1,41,0,0,0,10,None,45.21,Month-to-Month,100.6,1
+4077-CROMM,1,51,1,0,4,31,None,3.73,Month-to-Month,104.2,1
+5949-HGVJL,1,35,1,0,7,26,None,23.31,Month-to-Month,73.05,0
+6827-IEAUQ,1,46,1,0,5,27,None,40.21,One Year,66.15,0
+9504-YAZWB,1,28,0,0,0,53,None,28.46,Two Year,20.25,0
+7402-PWYJJ,1,21,1,0,2,53,Offer B,42.18,One Year,91.15,0
+7472-EQOAV,0,76,1,2,5,71,Offer A,30.16,One Year,86.7,0
+5365-LLFYV,1,43,0,0,0,2,Offer E,5.47,Month-to-Month,45.85,0
+9787-XVQIU,0,38,0,0,0,1,Offer E,39.44,Month-to-Month,75.3,1
+7639-SUPCW,1,32,0,0,0,22,None,3.95,Month-to-Month,48.8,1
+2955-BJZHG,0,41,1,0,1,17,None,16.61,Month-to-Month,80.85,1
+3161-GETRM,0,61,1,3,10,34,Offer C,20.05,Month-to-Month,90.05,0
+6196-HBOBZ,0,31,1,0,9,65,None,30.44,Two Year,99.35,0
+5854-KSRBJ,0,31,1,1,10,70,Offer A,9.33,Two Year,25.4,0
+3886-CERTZ,1,57,1,0,1,72,None,31.13,One Year,109.25,1
+2523-EWWZL,1,26,1,0,0,27,Offer C,39.67,Month-to-Month,76.1,0
+2239-CGBUZ,1,56,1,0,4,51,Offer B,47.18,One Year,60.5,0
+5996-EBTKM,1,46,1,1,1,67,Offer A,14.83,Two Year,69.9,0
+1345-ZUKID,0,24,0,0,0,14,Offer D,26.02,One Year,19.35,0
+1702-CCFNJ,0,39,1,0,3,52,None,44.65,Month-to-Month,61.35,0
+4829-ZLJTK,1,80,1,0,5,72,Offer A,15.23,Two Year,112.4,0
+6551-VLJMV,0,44,1,0,6,34,Offer C,4.42,Two Year,20.05,0
+9224-VTYID,0,30,1,3,10,47,Offer B,11.74,Two Year,90.5,0
+4468-YDOVK,0,57,0,2,0,5,None,13.54,Month-to-Month,48.65,0
+6067-NGCEU,1,50,0,0,0,65,None,41.78,Month-to-Month,-3.0,0
+4231-LZUYM,1,37,1,0,4,72,None,12.58,Two Year,25.65,0
+3419-SNJJD,1,78,1,0,3,65,Offer B,18.39,Month-to-Month,105.25,1
+6339-YPSAH,0,54,0,0,0,9,None,1.85,Month-to-Month,73.8,0
+0988-AADSA,1,40,1,2,5,72,Offer A,9.72,Two Year,80.85,0
+6807-SIWJI,0,47,0,0,0,38,Offer C,4.34,One Year,104.85,0
+7080-TNUWP,0,48,1,0,5,70,None,31.13,One Year,95.0,0
+5989-PGKJB,1,40,0,0,0,16,Offer D,22.3,Month-to-Month,86.25,0
+2379-GYFLQ,0,31,0,0,0,46,None,22.13,One Year,94.9,0
+3584-WKTTW,0,23,1,0,2,51,Offer B,39.32,One Year,111.55,0
+4486-EFAEB,0,56,0,0,0,13,None,46.92,Month-to-Month,20.4,0
+0895-DQHEW,0,47,1,0,1,54,None,35.46,Month-to-Month,104.3,1
+2153-MREFK,1,55,1,0,1,37,None,30.16,One Year,99.2,1
+7905-NJMXS,0,68,1,0,2,7,None,3.19,Two Year,64.2,0
+9184-GALIL,1,26,1,2,6,38,None,2.86,Month-to-Month,20.45,0
+5372-FBKBN,1,38,0,2,0,21,Offer D,8.68,Month-to-Month,20.75,0
+2685-SREOM,1,36,1,0,1,25,None,23.24,Month-to-Month,89.1,1
+5934-TSSAU,1,51,1,3,6,23,Offer D,48.73,Month-to-Month,75.3,0
+2957-JIRMN,1,69,0,0,0,62,None,19.52,One Year,84.45,0
+6711-VTNRE,1,42,0,0,0,36,None,27.72,Month-to-Month,87.55,1
+1009-IRMNA,1,27,0,0,0,7,Offer E,16.04,Month-to-Month,20.0,1
+6288-LBEAR,1,22,0,0,0,23,None,15.18,Month-to-Month,79.1,0
+4075-WKNIU,1,25,1,3,6,10,Offer E,5.59,Two Year,73.35,0
+3712-PKXZA,0,22,1,0,3,61,None,19.27,One Year,20.55,0
+4102-OQUPX,0,67,1,0,1,1,None,17.36,Month-to-Month,74.4,1
+9174-IHETN,1,45,0,2,0,50,Offer B,36.11,Two Year,70.35,0
+4566-NECEV,0,40,0,0,0,5,None,39.13,Month-to-Month,96.55,0
+0141-YEAYS,1,77,0,0,0,27,None,2.97,Two Year,86.45,0
+4718-WXBGI,0,21,1,1,1,72,Offer A,27.1,Two Year,91.95,0
+6647-ZEDXT,1,19,0,0,0,30,None,13.16,One Year,110.45,0
+3393-FMZPV,1,59,0,0,0,25,None,36.24,Month-to-Month,100.25,1
+2122-SZZZD,0,60,0,0,0,44,None,18.14,One Year,19.5,0
+7665-VIGUD,0,40,0,0,0,10,None,17.4,One Year,20.35,0
+3055-OYMSE,1,75,0,0,0,53,None,16.74,Month-to-Month,73.8,0
+0031-PVLZI,1,34,1,0,0,4,Offer E,12.43,Month-to-Month,20.35,1
+1074-WVEVG,1,29,1,0,6,59,None,31.43,One Year,20.35,0
+9225-BZLNZ,0,64,1,0,9,72,None,16.58,Two Year,85.25,0
+8731-WBBMB,1,26,1,0,7,26,None,11.23,Month-to-Month,81.9,0
+3115-CZMZD,0,24,0,0,0,10,None,13.16,Two Year,20.25,0
+4174-LPGTI,1,49,1,0,1,41,None,32.02,One Year,66.5,1
+1047-NNCBF,0,56,0,0,0,20,None,3.8,Month-to-Month,70.55,0
+5515-IDEJJ,0,46,1,1,4,1,Offer E,45.77,Month-to-Month,19.9,1
+0002-ORFBO,1,37,1,0,2,9,None,42.39,One Year,65.6,0
+7279-BUYWN,1,66,0,0,0,41,None,27.95,Month-to-Month,113.2,1
+4301-VVZKA,0,25,1,0,1,16,None,25.83,Month-to-Month,75.4,0
+7789-HKSBS,1,79,1,0,2,42,None,35.38,One Year,105.2,0
+8541-QVFKM,1,22,0,0,0,8,None,17.3,Month-to-Month,73.5,0
+1343-EHPYB,0,61,1,0,2,63,None,48.95,Month-to-Month,103.4,1
+6082-OQFBA,0,62,1,0,2,23,Offer D,24.88,One Year,19.65,0
+8100-HZZLJ,1,26,0,1,0,43,None,5.6,Month-to-Month,63.95,0
+7609-YBPXG,0,60,0,0,0,54,None,18.54,Two Year,87.1,0
+0107-WESLM,0,32,0,0,0,1,Offer E,31.77,Month-to-Month,19.85,1
+0388-EOPEX,1,28,1,0,1,2,None,9.79,Month-to-Month,74.4,1
+8515-OCTJS,1,61,0,0,0,25,Offer C,19.75,Two Year,24.75,1
+1834-ABKHQ,1,59,1,2,2,52,Offer B,10.03,One Year,50.95,0
+7606-BPHHN,0,39,0,0,0,72,Offer A,30.44,Two Year,19.8,0
+5423-BHIXO,1,42,0,0,0,32,None,32.02,Month-to-Month,54.2,0
+5140-FOMCQ,1,52,1,0,7,59,Offer B,40.47,One Year,109.15,0
+7785-RDVIG,1,53,1,2,5,3,None,10.13,Month-to-Month,19.3,0
+3707-LRWZD,1,44,0,0,0,32,None,40.26,One Year,84.05,1
+2277-BKJKN,1,70,1,0,6,71,None,22.0,Two Year,99.2,0
+3401-URHDA,0,59,0,0,0,51,None,9.85,One Year,59.9,0
+0557-ASKVU,1,43,1,0,2,18,Offer D,44.97,One Year,54.4,0
+5671-RQRLP,1,72,1,0,4,70,Offer A,16.87,Two Year,75.65,0
+6439-PKTRR,1,50,1,2,6,70,Offer A,4.11,Two Year,80.7,0
+4431-EDMIQ,1,47,1,3,8,7,None,16.22,Month-to-Month,75.7,0
+4021-RQSNY,0,75,1,0,1,29,None,25.78,Month-to-Month,98.5,1
+0404-SWRVG,0,21,0,2,0,3,Offer E,14.6,Month-to-Month,74.4,1
+8357-EQXFO,1,46,0,0,0,7,Offer E,48.36,Month-to-Month,95.35,1
+0504-HHAPI,1,72,0,0,0,27,None,16.94,Month-to-Month,88.3,1
+8039-ACLPL,1,29,1,0,6,72,Offer A,12.32,Two Year,68.75,0
+9444-JTXHZ,0,53,1,0,1,1,None,35.15,Month-to-Month,76.2,1
+4203-QGNZA,1,27,0,3,0,28,None,26.09,Month-to-Month,20.25,0
+2903-YYTBW,0,48,1,2,1,1,None,41.1,Month-to-Month,44.55,0
+0670-KDOMA,1,42,0,0,0,1,Offer E,28.18,Month-to-Month,20.25,0
+0581-BXBUB,1,76,0,0,0,4,None,35.67,Two Year,72.75,0
+4446-BZKHU,0,44,1,0,1,61,None,45.7,Month-to-Month,105.55,1
+0774-IFUVM,0,19,1,2,7,11,None,16.71,Month-to-Month,65.15,0
+6218-KNUBD,0,58,0,0,0,6,None,10.88,Month-to-Month,59.45,0
+0329-GTIAJ,1,40,0,0,0,3,None,30.18,Month-to-Month,97.9,1
+5678-VFNEQ,1,19,1,0,8,71,Offer A,4.39,One Year,104.1,0
+5982-FPVQN,1,40,1,1,2,37,None,41.03,Month-to-Month,95.15,0
+5020-ZSTTY,1,70,0,0,0,54,Offer B,12.08,One Year,82.45,1
+6508-NJYRO,0,36,1,0,5,15,None,14.27,One Year,18.8,0
+6171-ZTVYB,0,42,1,0,1,43,None,26.1,Month-to-Month,66.25,0
+5846-QFDFI,1,21,1,1,6,33,Offer C,11.01,Month-to-Month,88.6,0
+1666-JZPZT,0,61,0,0,0,27,None,2.69,Month-to-Month,49.0,0
+9959-WOFKT,0,61,0,0,0,71,None,14.67,Two Year,106.7,0
+0665-XHDJU,0,21,1,0,7,72,None,34.95,Two Year,99.4,0
+7394-LWLYN,1,57,0,0,0,2,None,33.75,Month-to-Month,70.15,0
+2103-ZRXFN,0,19,0,0,0,1,None,24.66,Month-to-Month,50.75,0
+3292-PBZEJ,0,75,0,0,0,11,None,2.63,Two Year,111.4,0
+2995-YWTCD,1,20,1,1,1,19,None,31.58,Two Year,24.9,0
+1223-UNPKS,0,55,1,1,4,20,None,3.87,Two Year,20.05,0
+9780-FKVVF,0,60,0,0,0,6,Offer E,20.11,Month-to-Month,59.15,0
+7181-BQYBV,1,52,1,0,1,1,None,25.88,Month-to-Month,102.45,1
+2740-TVLFN,0,42,0,0,0,1,Offer E,39.87,Month-to-Month,50.15,0
+5206-HPJKM,0,64,0,0,0,17,None,33.68,Month-to-Month,55.5,0
+9927-DSWDF,0,53,1,0,1,22,Offer D,49.66,Month-to-Month,104.6,0
+7516-GMHUV,0,77,1,0,1,50,None,40.9,Two Year,105.05,0
+3910-MRQOY,1,28,1,0,8,72,None,12.87,Two Year,19.4,0
+5692-FPTAH,1,32,0,0,0,1,None,38.31,Month-to-Month,45.4,1
+1450-GALXR,1,33,0,0,0,10,None,14.53,Month-to-Month,98.5,1
+2882-WDTBA,0,64,1,0,4,69,Offer A,44.33,Two Year,75.75,0
+5923-GXUOC,0,37,0,0,0,10,None,8.38,Month-to-Month,104.4,1
+3877-JRJIP,0,50,0,0,0,1,None,22.05,Month-to-Month,59.85,1
+3374-PZLXD,0,31,0,0,0,34,Offer C,36.52,Month-to-Month,19.7,0
+8957-THMOA,1,40,0,3,0,50,None,18.95,Two Year,20.15,0
+2387-KDZQY,0,46,0,0,0,17,None,31.6,One Year,20.1,0
+6982-UQZLY,1,80,1,0,1,1,Offer E,22.86,Month-to-Month,20.85,1
+4432-ADRLB,0,46,0,0,0,2,None,24.9,Month-to-Month,44.65,1
+7180-PISOG,0,41,1,0,0,1,None,36.44,Month-to-Month,74.5,1
+3721-CNZHX,0,49,0,0,0,15,None,5.54,One Year,19.8,0
+2640-LYMOV,0,59,0,0,0,2,Offer E,9.61,Month-to-Month,19.65,0
+2205-LPVGL,0,71,1,1,1,58,Offer B,18.43,One Year,89.85,0
+4523-WXCEF,1,21,1,0,4,59,Offer B,9.23,Month-to-Month,101.1,1
+8393-DLHGA,0,55,0,0,0,25,None,5.27,Month-to-Month,95.9,1
+3570-YUEKJ,1,40,0,0,0,42,None,8.71,Month-to-Month,49.55,0
+8947-YRTDV,0,42,1,3,1,32,None,43.37,One Year,94.8,0
+4452-QIIEB,0,41,0,0,0,7,Offer E,30.04,Month-to-Month,43.9,0
+2691-NZETQ,0,28,0,0,0,9,Offer E,49.14,Month-to-Month,85.35,1
+2483-XSSMZ,1,22,0,0,0,39,None,25.33,One Year,47.85,0
+8651-ENBZX,1,68,0,0,0,60,None,34.39,One Year,106.0,1
+5076-YVXCM,0,55,0,0,0,51,Offer B,45.92,Month-to-Month,83.4,0
+0816-TSPHQ,0,35,0,0,0,2,None,27.67,Month-to-Month,20.75,0
+7243-LCGGZ,1,28,0,0,0,1,None,10.21,Month-to-Month,20.9,0
+5469-NUJUR,0,58,0,0,0,19,None,19.1,Two Year,19.95,0
+5377-NDTOU,1,26,1,0,3,71,Offer A,9.5,Two Year,91.05,0
+5458-CQJTA,0,56,1,0,1,65,Offer B,40.47,Two Year,74.8,1
+8265-HKSOW,1,35,1,2,1,72,None,17.89,Two Year,107.45,0
+5515-AKOAJ,1,38,0,0,0,54,None,41.83,Month-to-Month,100.1,1
+1143-NMNQJ,1,39,0,0,0,2,None,14.07,Month-to-Month,85.7,1
+3777-XROBG,1,52,1,2,4,58,None,43.52,Two Year,19.55,0
+1891-FZYSA,0,65,1,0,1,69,None,16.34,Month-to-Month,89.95,1
+9153-BTBVV,1,61,1,0,1,71,Offer A,48.01,Two Year,25.0,0
+0280-XJGEX,0,38,0,1,0,49,None,44.33,Month-to-Month,103.7,1
+0207-MDKNV,1,54,0,0,0,15,None,22.39,Month-to-Month,105.1,1
+3334-CTHOL,1,51,0,0,0,1,None,43.49,Month-to-Month,49.95,1
+1097-FSPVW,1,42,0,0,0,42,Offer B,32.16,Month-to-Month,54.55,0
+1991-VOPLL,1,45,0,0,0,9,Offer E,31.28,Month-to-Month,19.05,0
+1371-OJCEK,1,25,0,0,0,48,None,13.67,One Year,24.35,0
+8914-RBTSB,0,62,1,0,1,31,None,2.12,Month-to-Month,93.8,1
+2256-YLYLP,0,45,1,1,4,68,None,34.13,Two Year,72.95,0
+7379-FNIUJ,0,49,0,0,0,2,Offer E,22.56,Month-to-Month,100.2,0
+1734-ZMNTZ,1,50,1,2,1,11,None,15.04,Two Year,25.0,0
+1629-DQQVB,1,19,0,0,0,14,None,36.22,Month-to-Month,50.1,0
+7872-RDDLZ,1,68,0,0,0,67,None,48.43,Month-to-Month,54.9,0
+6506-EYCNH,1,27,1,3,9,28,None,15.85,Month-to-Month,19.55,0
+0702-PGIBZ,0,28,0,0,0,4,Offer E,26.16,Month-to-Month,101.7,1
+6595-COKXZ,1,63,0,0,0,1,Offer E,48.31,Month-to-Month,44.45,1
+9415-ZNBSX,1,30,1,1,3,70,None,33.24,Two Year,89.0,0
+6368-NWMCE,1,61,0,0,0,38,None,21.19,Month-to-Month,68.15,0
+9846-GKXAS,1,53,0,0,0,9,Offer E,1.34,Month-to-Month,90.8,1
+4612-SSVHJ,1,74,0,0,0,20,Offer D,23.18,One Year,81.45,0
+6474-FVJLC,0,61,0,0,0,2,Offer E,43.47,Month-to-Month,86.0,1
+0485-ZBSLN,0,52,1,2,4,65,None,36.5,Two Year,24.75,0
+6734-JDTTV,0,55,1,1,5,65,Offer B,33.47,Two Year,19.85,0
+7607-QKKTJ,0,25,1,2,6,45,None,33.45,One Year,95.0,0
+5889-JTMUL,1,67,1,0,1,50,Offer B,31.56,Month-to-Month,95.05,1
+1262-OPMFY,1,46,1,0,1,9,Offer E,31.75,Month-to-Month,75.75,1
+2189-UXTKY,1,27,1,0,1,22,None,13.11,Month-to-Month,79.2,1
+8417-GSODA,0,37,1,3,1,28,None,13.19,One Year,92.2,0
+2575-GFSOE,1,25,1,0,1,7,Offer E,8.95,Month-to-Month,69.0,1
+7343-EOBEU,0,19,1,0,9,3,Offer E,14.1,Month-to-Month,23.6,0
+4505-EXZHB,1,75,0,0,0,6,Offer E,8.91,Month-to-Month,74.4,1
+5348-CAGXB,0,60,0,0,0,12,Offer D,33.36,Month-to-Month,89.55,0
+7771-CFQRQ,1,32,1,3,0,47,None,30.06,Two Year,63.8,0
+1245-HARPS,1,46,1,0,0,14,None,14.61,Two Year,20.4,0
+4488-PSYCG,0,24,0,0,0,16,Offer D,21.04,Month-to-Month,20.25,1
+6308-CQRBU,1,32,1,0,7,71,None,29.78,Two Year,109.25,0
+2122-YWVYA,1,44,0,0,0,18,Offer D,15.01,Month-to-Month,75.4,0
+3870-MQAMG,1,21,1,0,1,54,Offer B,2.18,One Year,110.35,1
+0691-JVSYA,1,24,1,0,5,53,None,40.62,One Year,94.85,1
+7164-BPTUT,0,55,0,2,0,57,Offer B,9.36,Two Year,89.55,0
+0386-CWRGM,1,61,1,1,9,46,None,47.5,Two Year,19.4,0
+9617-UDPEU,1,50,0,0,0,22,None,35.4,One Year,19.25,0
+2480-JZOSN,1,64,1,0,8,1,None,35.24,Month-to-Month,20.65,0
+2889-FPWRM,0,31,1,0,1,72,None,34.87,One Year,117.8,1
+9769-TSBZE,1,54,0,3,0,70,None,16.75,Two Year,66.0,0
+7598-UAASY,0,19,1,0,1,2,Offer E,20.5,Month-to-Month,76.4,1
+7277-KAMWT,0,23,0,0,0,13,Offer D,1.61,Two Year,20.0,0
+4760-THGOT,1,33,1,0,9,43,None,49.48,Month-to-Month,94.1,0
+7279-NMVJC,1,38,0,0,0,17,None,25.62,One Year,19.9,0
+4707-YNOQA,1,57,1,1,6,34,None,25.69,One Year,25.6,0
+6048-NJXHX,0,21,1,0,1,41,Offer B,35.46,Two Year,19.75,0
+6712-OAWRH,1,79,0,0,0,26,Offer C,34.69,Month-to-Month,91.25,1
+6184-DYUOB,1,28,1,0,5,3,None,41.9,Month-to-Month,19.6,0
+1178-PZGAB,1,45,0,0,0,19,None,18.57,One Year,20.25,0
+5385-SUIRI,0,69,1,0,0,52,None,37.6,Month-to-Month,104.2,1
+6380-ARCEH,0,19,0,0,0,1,Offer E,41.1,Month-to-Month,20.2,0
+8680-CGLTP,0,35,0,0,0,29,Offer C,8.0,One Year,58.75,0
+4118-CEVPF,1,74,0,0,0,35,None,32.92,One Year,110.8,0
+1112-CUNAO,1,67,0,0,0,15,Offer D,4.28,Month-to-Month,89.85,1
+2172-EJXVF,1,65,0,0,0,71,None,25.61,One Year,105.9,0
+8232-CTLKO,1,58,1,2,9,66,Offer A,8.39,Two Year,59.75,0
+3007-FDPEA,1,28,0,0,0,2,None,13.89,Month-to-Month,20.7,0
+0722-TROQR,1,68,0,0,0,4,None,26.23,Month-to-Month,74.9,1
+9912-GVSEQ,1,73,1,0,1,26,Offer C,9.28,Month-to-Month,93.85,1
+8439-LTUGF,0,51,0,0,0,10,Offer D,19.1,Month-to-Month,20.0,0
+1641-BYBTK,0,38,0,2,0,6,None,16.91,Month-to-Month,20.2,0
+8910-LEDAG,0,72,1,0,2,34,None,12.98,Two Year,71.55,0
+8375-DKEBR,1,72,0,0,0,1,Offer E,34.51,Month-to-Month,69.6,1
+6425-JWTDV,0,43,1,0,5,48,Offer B,15.95,Two Year,19.25,0
+2842-JTCCU,0,27,0,0,0,2,Offer E,29.69,Month-to-Month,46.05,1
+0835-DUUIQ,1,55,0,0,0,24,None,47.31,One Year,21.05,0
+4283-IVYCI,0,40,0,0,0,9,Offer E,27.53,Month-to-Month,64.95,0
+8884-FEEWR,0,22,0,0,0,35,Offer C,42.02,One Year,20.6,0
+7551-DACSP,0,49,1,1,1,6,Offer E,1.86,Month-to-Month,55.3,1
+1760-CAZHT,0,55,0,3,0,25,None,3.07,Month-to-Month,20.8,0
+3865-QBWSJ,0,76,0,2,0,38,None,45.13,Two Year,80.45,0
+6379-RXJRQ,0,42,1,0,1,10,None,22.03,Month-to-Month,70.1,1
+2418-TPEUN,1,58,1,1,2,56,Offer B,48.56,Two Year,19.8,0
+6784-XYJAE,1,38,0,0,0,36,None,46.92,One Year,55.8,0
+6711-FLDFB,1,62,0,0,0,7,Offer E,46.79,Month-to-Month,74.9,1
+4154-AQUGT,0,76,1,0,1,13,Offer D,1.47,Month-to-Month,89.05,1
+9818-XQCUV,1,52,0,0,0,2,None,25.92,Month-to-Month,20.35,0
+3943-KDREE,1,48,0,0,0,26,None,17.53,Month-to-Month,74.95,1
+7089-RKVSZ,0,43,1,0,6,8,None,23.18,One Year,24.4,0
+0112-QAWRZ,0,49,1,2,8,16,Offer D,48.71,Month-to-Month,90.8,0
+6815-ABQFQ,0,53,1,0,1,56,None,14.43,One Year,107.25,0
+0562-HKHML,0,39,1,1,9,71,Offer A,18.99,Two Year,23.9,0
+8812-ZRHFP,1,53,1,3,0,30,Offer C,48.43,One Year,86.45,0
+1866-RZZQS,0,77,0,0,0,41,Offer B,42.06,Month-to-Month,98.4,1
+3424-NMNBO,0,78,1,0,1,58,None,49.38,One Year,108.85,1
+2481-SBOYW,1,62,0,1,0,61,Offer B,32.05,Two Year,25.0,0
+2252-JHJGE,0,24,0,0,0,61,Offer B,45.69,One Year,104.0,0
+9489-DEDVP,1,52,1,0,8,70,None,29.38,Two Year,69.2,0
+5138-WVKYJ,0,51,0,0,0,10,Offer D,27.57,Month-to-Month,98.55,1
+2243-FNMMI,0,20,0,0,0,20,Offer D,31.02,Month-to-Month,19.4,0
+9117-SHLZX,0,36,0,0,0,1,None,10.41,Month-to-Month,45.7,1
+8717-VCTXJ,0,32,0,0,0,42,None,48.41,One Year,19.55,0
+0177-PXBAT,0,78,1,0,7,33,None,25.15,One Year,109.9,0
+2371-JUNGC,0,46,0,0,0,11,Offer D,28.62,Month-to-Month,20.25,0
+7483-IQWIB,0,33,1,1,1,37,Offer C,38.89,Month-to-Month,92.95,0
+1154-HYWWO,0,55,0,0,0,38,Offer C,42.24,One Year,70.6,0
+7242-EDTYC,0,48,0,2,0,44,Offer B,14.37,Two Year,19.55,0
+8374-XGEJJ,0,68,1,0,8,43,Offer B,31.25,Month-to-Month,101.0,1
+9614-RMGHA,0,29,1,0,0,65,None,36.75,Month-to-Month,91.85,1
+6221-AVQYL,0,37,0,0,0,2,None,2.96,Month-to-Month,73.25,1
+3063-QFSZL,1,37,0,0,0,1,Offer E,13.01,Month-to-Month,55.4,1
+9054-FOWNV,0,53,1,3,1,22,Offer D,11.39,Month-to-Month,88.75,0
+3565-UNOCC,1,65,1,0,1,29,None,22.33,Month-to-Month,99.05,1
+3500-RMZLT,1,76,0,0,0,15,None,19.11,Month-to-Month,96.3,1
+3935-TBRZZ,0,54,1,0,10,44,Offer B,15.33,One Year,25.7,0
+3316-UWXUY,0,64,0,0,0,50,Offer B,40.83,Month-to-Month,93.5,0
+6175-IRFIT,0,32,0,0,0,5,None,32.91,Month-to-Month,78.75,0
+8690-UPCZI,0,26,1,2,5,29,Offer C,36.7,One Year,69.05,0
+9337-SRRNI,0,64,0,3,0,66,Offer A,23.81,Two Year,25.3,0
+4549-ZDQYY,1,35,0,0,0,52,None,33.84,One Year,57.95,0
+8173-RXAYP,1,51,1,1,8,24,None,30.41,Two Year,19.7,0
+7730-IUTDZ,0,63,0,0,0,43,None,34.0,Month-to-Month,75.2,1
+6376-GAHQE,0,48,0,0,0,4,Offer E,42.8,Month-to-Month,77.85,1
+4597-ELFTS,0,57,0,0,0,56,None,2.58,One Year,24.9,1
+3318-NMQXL,0,58,0,0,0,3,Offer E,15.6,Month-to-Month,92.0,0
+1960-UYCNN,0,35,0,0,0,10,None,26.43,Month-to-Month,-7.0,0
+6147-CBCRA,1,34,1,0,5,33,None,4.15,Month-to-Month,20.05,0
+4396-KLSEH,0,26,0,0,0,4,Offer E,6.88,Month-to-Month,19.85,0
+1585-MQSSU,0,36,0,0,0,17,Offer D,46.6,Month-to-Month,51.5,1
+4625-LAMOB,0,36,0,0,0,44,None,1.4,Two Year,20.4,0
+7542-CYDDM,0,61,0,0,0,18,None,22.97,Month-to-Month,20.05,0
+5961-VUSRV,1,53,0,0,0,12,Offer D,16.72,One Year,19.35,0
+1565-RHDJD,1,21,0,0,0,4,None,41.72,Month-to-Month,84.05,1
+7729-JTEEC,0,33,1,1,2,2,None,30.87,Month-to-Month,44.5,0
+0308-GIQJT,0,80,0,0,0,71,None,6.1,One Year,105.75,0
+1088-CNNKB,0,34,1,0,9,63,None,34.02,One Year,80.0,0
+2954-PIBKO,1,64,1,0,7,69,None,39.88,Two Year,64.15,0
+0650-BWOZN,1,71,0,0,0,18,None,7.51,Two Year,73.55,0
+1981-INRFU,1,44,0,0,0,2,None,8.32,Month-to-Month,79.75,1
+4201-JMNGR,1,66,0,0,0,1,Offer E,26.22,Month-to-Month,55.8,1
+4612-THJBS,1,68,0,0,0,56,None,34.58,One Year,104.75,1
+5863-OOKCL,1,60,0,0,0,10,Offer D,41.04,Month-to-Month,18.85,0
+5468-BPMMO,0,59,1,0,3,46,None,16.07,Month-to-Month,19.6,0
+1642-HMARX,1,45,1,0,10,68,Offer A,15.65,Two Year,91.7,0
+0221-WMXNQ,0,66,0,0,0,4,Offer E,36.4,One Year,75.35,0
+8755-IWJHN,0,73,1,0,5,69,None,49.91,Two Year,95.35,0
+6664-FPDAC,1,77,0,0,0,56,Offer B,19.46,One Year,111.95,1
+2068-WWXQZ,0,61,0,0,0,46,Offer B,30.25,Two Year,20.05,0
+5701-SVCWR,1,45,0,1,0,1,Offer E,32.95,Month-to-Month,24.0,0
+7811-JIVPF,1,44,0,0,0,23,None,42.26,Month-to-Month,49.7,0
+8993-IZEUX,0,54,0,0,0,7,None,21.12,Month-to-Month,69.15,0
+8276-MQBYC,0,70,0,0,0,51,Offer B,19.49,Month-to-Month,97.8,1
+5383-MMTWC,1,75,1,0,1,8,None,46.05,Month-to-Month,84.0,1
+7410-OIEDU,0,29,0,0,0,10,None,48.38,Month-to-Month,79.85,0
+9350-VLHMB,0,38,1,3,4,67,Offer A,6.15,Month-to-Month,89.55,0
+1265-ZFOSD,1,33,1,0,6,64,None,16.61,Two Year,81.3,0
+2528-HFYZX,0,66,1,0,2,17,None,1.05,Month-to-Month,76.45,1
+4570-QHXHL,1,48,0,0,0,9,None,40.73,Month-to-Month,43.75,0
+6719-FGEDO,1,27,1,0,1,72,Offer A,38.79,Two Year,97.0,0
+1304-BCCFO,0,24,1,0,2,9,None,14.91,Month-to-Month,70.05,0
+3450-WXOAT,0,36,0,0,0,46,Offer B,24.13,Month-to-Month,45.2,0
+5939-XAIXZ,1,54,0,0,0,19,Offer D,36.88,Month-to-Month,56.1,0
+0607-DAAHE,0,62,0,0,0,53,Offer B,26.21,Two Year,19.75,1
+0701-RFGFI,1,56,1,6,6,49,Offer B,8.18,Month-to-Month,95.4,0
+6872-HXFNF,1,27,1,0,1,64,Offer B,40.28,One Year,58.35,0
+9764-REAFF,1,60,1,0,9,59,Offer B,26.99,Two Year,18.4,0
+6828-HMKWP,0,24,1,1,3,12,None,49.7,Two Year,21.05,0
+8079-XRJRS,0,39,1,0,5,65,Offer B,49.33,One Year,89.75,1
+1043-UXOVO,1,25,0,0,0,71,Offer A,28.4,Two Year,113.15,0
+0362-RAOQO,1,48,0,0,0,40,None,26.03,Two Year,19.65,0
+6510-UPNKS,1,21,0,0,0,23,None,43.77,One Year,24.8,0
+2920-RNCEZ,0,46,1,1,10,1,None,11.45,Month-to-Month,69.95,0
+0248-IPDFW,1,19,0,0,0,1,None,29.13,Month-to-Month,50.1,0
+3799-ISUZQ,0,49,1,0,9,7,None,35.42,Month-to-Month,69.95,1
+9624-EGDEQ,1,49,0,0,0,37,None,41.99,Two Year,19.8,0
+3571-DPYUH,0,30,1,3,1,58,Offer B,43.75,One Year,94.7,0
+9631-RXVJM,0,33,0,0,0,35,Offer C,4.24,Two Year,19.25,0
+7460-ITWWP,1,67,1,0,5,45,None,40.85,One Year,86.1,0
+3865-ZYKAD,0,77,1,0,7,69,None,14.76,Month-to-Month,84.9,0
+6620-JDYNW,1,64,0,0,0,18,Offer D,10.97,Month-to-Month,60.6,0
+1513-XNPPH,1,36,0,0,0,12,Offer D,17.46,Month-to-Month,89.4,1
+0123-CRBRT,1,62,1,0,1,61,Offer B,47.19,Two Year,88.1,0
+5393-HJZSM,1,54,1,1,1,32,Offer C,32.43,Month-to-Month,76.3,0
+3022-BEXHZ,0,19,1,1,6,67,None,40.96,Two Year,111.2,0
+2696-NARTR,0,40,0,0,0,11,None,44.94,Month-to-Month,73.85,1
+4367-NUYAO,0,39,1,1,5,10,None,22.83,Two Year,25.75,0
+4560-WQAQW,1,62,0,0,0,59,Offer B,28.32,One Year,68.7,0
+0396-HUJBP,1,34,0,0,0,2,None,49.91,Month-to-Month,19.3,0
+2607-DHDAK,0,54,1,2,10,72,None,38.84,Two Year,19.8,0
+0315-LVCRK,0,54,0,0,0,11,None,30.57,Month-to-Month,84.8,0
+5006-MXVRN,1,23,0,0,0,39,None,29.79,Two Year,-10.0,0
+6963-KQYQB,1,24,1,2,4,70,Offer A,4.27,Two Year,24.05,0
+8183-ONMXC,1,41,0,0,0,2,None,5.11,Month-to-Month,-1.0,1
+2886-KEFUM,1,50,1,0,1,63,None,1.93,One Year,107.5,1
+9605-WGJVW,1,69,0,0,0,1,None,22.34,Month-to-Month,70.2,0
+7169-YWAMK,0,52,1,1,7,72,None,15.96,Two Year,68.4,0
+6322-HRPFA,0,42,1,2,3,49,Offer B,5.29,Month-to-Month,59.6,0
+5879-SESNB,1,34,0,0,0,11,Offer D,33.79,Month-to-Month,75.25,0
+7931-PXHFC,0,46,0,0,0,38,None,46.21,One Year,62.3,1
+4291-YZODP,1,56,0,3,0,7,Offer E,49.66,One Year,20.05,0
+1157-BQCUW,0,59,0,0,0,1,Offer E,30.07,Month-to-Month,74.95,1
+7908-QCBCA,1,47,1,0,1,1,Offer E,33.46,Month-to-Month,69.4,1
+6121-TNHBO,1,71,0,0,0,63,Offer B,15.62,One Year,83.0,0
+1268-ASBGA,1,66,1,0,1,16,Offer D,9.93,Month-to-Month,85.35,1
+1567-DSCIC,0,59,0,0,0,8,None,23.89,Month-to-Month,94.0,1
+8612-GXIDD,0,55,1,3,8,12,Offer D,44.12,Two Year,25.4,0
+1429-UYJSV,1,57,0,0,0,12,Offer D,36.65,One Year,19.7,0
+2511-MORQY,0,46,1,0,4,50,Offer B,10.33,One Year,54.9,0
+7869-ZYDST,0,33,1,0,0,31,None,28.72,Month-to-Month,59.05,0
+5310-NOOVA,0,51,0,0,0,46,None,13.42,Two Year,19.95,0
+4078-SAYYN,1,45,0,0,0,11,None,48.64,Month-to-Month,100.75,1
+6814-ZPWFQ,0,67,0,0,0,51,None,3.11,One Year,25.0,0
+9555-SAHUZ,1,30,1,3,5,38,None,46.27,Month-to-Month,54.5,0
+6877-TJMBR,0,21,1,0,1,1,Offer E,37.83,Month-to-Month,84.8,1
+5546-BYZSM,1,52,0,0,0,41,Offer B,15.48,Month-to-Month,20.45,0
+5655-JSMZM,0,66,0,0,0,49,Offer B,32.36,Month-to-Month,96.2,1
+7873-CVMAW,0,61,0,0,0,72,None,46.1,Two Year,88.55,0
+5149-TGWDZ,1,48,0,0,0,21,None,36.31,One Year,104.55,0
+6941-KXRRV,1,65,1,0,10,48,None,34.43,One Year,58.95,0
+8399-YNDCH,0,80,0,0,0,21,None,34.62,Month-to-Month,60.05,1
+3597-MVHJT,1,49,0,0,0,27,None,35.17,Month-to-Month,95.6,0
+2632-UCGVD,0,71,1,0,6,66,None,49.85,Month-to-Month,100.05,1
+7599-FKVXZ,0,54,1,0,1,42,None,2.41,Month-to-Month,106.15,1
+5628-FCGYG,0,46,0,0,0,21,None,49.05,Month-to-Month,84.1,0
+5482-NUPNA,1,28,0,0,0,4,None,18.03,Month-to-Month,60.4,1
+1236-WFCDV,0,74,0,0,0,14,None,11.31,Month-to-Month,90.45,1
+2236-HILPA,0,55,1,2,9,62,Offer B,11.15,Two Year,20.65,0
+1541-ETJZO,0,58,0,0,0,1,Offer E,47.83,Month-to-Month,62.05,1
+9231-ZJYAM,1,65,0,0,0,4,None,36.93,Month-to-Month,78.85,1
+1254-IZEYF,1,74,0,0,0,31,None,39.36,Month-to-Month,99.95,1
+6486-LHTMA,1,67,1,0,1,31,None,44.26,One Year,90.7,0
+9121-PHQSR,0,69,1,0,6,16,Offer D,48.41,Two Year,85.05,0
+9097-ZUBYC,0,39,1,0,4,14,Offer D,21.34,Month-to-Month,48.8,0
+3452-ABWRL,0,70,0,0,0,47,None,44.08,One Year,86.05,0
+0961-ZWLVI,0,35,0,3,0,49,None,4.76,One Year,109.2,0
+2737-YNGYW,1,29,0,0,0,2,Offer E,33.89,Month-to-Month,80.55,1
+1732-FEKLD,1,30,0,0,0,54,Offer B,37.65,One Year,94.75,0
+9199-PWQVC,1,38,1,0,1,63,Offer B,49.08,One Year,79.7,0
+6729-FZWSY,0,45,0,0,0,67,Offer A,9.05,One Year,19.45,0
+6928-ONTRW,1,53,1,1,9,72,None,48.04,Two Year,19.7,0
+1207-BLKSA,1,42,1,2,1,52,None,19.21,Two Year,23.05,0
+8400-WZICQ,1,49,1,2,9,55,Offer B,36.41,Month-to-Month,55.7,0
+6311-UEUME,1,37,0,0,0,29,None,44.33,Month-to-Month,78.9,1
+2276-YDAVZ,1,63,0,0,0,3,Offer E,26.52,Month-to-Month,75.1,1
+2817-LVCPP,1,36,0,0,0,50,None,12.62,Two Year,19.4,0
+4957-TREIR,0,37,0,0,0,3,None,38.05,Month-to-Month,64.4,0
+5781-BKHOP,1,48,1,0,10,72,Offer A,41.68,Two Year,100.65,0
+9526-JAWYF,0,49,0,0,0,26,Offer C,6.24,Month-to-Month,89.8,1
+0734-OXWBT,0,44,0,1,0,3,Offer E,25.04,Month-to-Month,70.7,0
+3530-VWVGU,1,27,1,2,2,22,Offer D,49.51,Month-to-Month,19.9,0
+7677-SJJJK,0,26,1,0,5,8,Offer E,48.39,One Year,19.9,0
+8999-BOHSE,1,68,0,0,0,11,None,3.96,Month-to-Month,89.7,1
+5716-LIBJC,1,29,0,2,0,13,Offer D,11.99,One Year,104.15,0
+7026-YMSBE,0,62,0,0,0,30,None,24.57,One Year,19.7,0
+4767-HZZHQ,0,32,1,3,5,30,Offer C,6.19,Month-to-Month,82.05,0
+9065-ZCPQX,0,24,1,0,2,72,Offer A,39.61,Two Year,78.85,0
+7083-YNSKY,1,22,0,0,0,15,Offer D,45.84,Month-to-Month,25.4,1
+7966-YOTQW,0,29,0,0,0,10,None,33.98,Month-to-Month,54.5,0
+0787-LHDYT,0,36,0,0,0,16,Offer D,33.44,Month-to-Month,20.6,0
+1853-UDXBW,0,38,1,0,1,1,None,38.8,Month-to-Month,70.0,1
+5288-AHOUP,0,71,0,0,0,11,None,41.58,Two Year,78.5,0
+7563-BIUPC,0,30,0,0,0,5,Offer E,5.78,Month-to-Month,80.6,1
+0829-XXPLX,1,48,0,0,0,20,None,30.52,Month-to-Month,89.4,0
+0022-TCJCI,0,79,0,0,0,45,None,10.67,One Year,62.7,1
+2616-FLVQC,0,42,0,0,0,64,None,38.96,Two Year,19.55,0
+9208-OLGAQ,1,70,0,0,0,18,None,25.7,Two Year,84.95,0
+7964-VEXDG,0,61,0,2,0,21,Offer D,13.39,Month-to-Month,80.35,0
+4353-HYOJD,1,37,1,5,5,27,Offer C,19.32,Month-to-Month,49.85,0
+4389-UEFCZ,1,25,1,0,0,72,None,21.96,Two Year,105.5,0
+2788-CJQAQ,0,39,0,0,0,13,Offer D,22.31,One Year,19.45,0
+5198-EFNBM,0,66,1,0,10,57,None,46.62,One Year,90.65,0
+5857-XRECV,1,44,0,3,0,2,None,31.01,One Year,20.5,0
+5306-BVTKJ,0,20,1,1,1,48,Offer B,38.3,One Year,55.8,0
+8999-EXMNO,1,48,1,3,1,19,Offer D,31.85,Two Year,20.15,0
+4973-RLZVI,1,52,0,0,0,30,None,4.22,One Year,74.65,0
+2081-VEYEH,0,42,0,0,0,3,Offer E,12.66,Month-to-Month,107.95,0
+8740-CRYFY,0,62,0,0,0,1,Offer E,23.96,Month-to-Month,78.95,1
+6734-FQAJX,0,65,0,0,0,67,None,34.23,Two Year,105.05,0
+8816-VXNZD,1,36,0,0,0,1,None,5.94,Month-to-Month,75.1,1
+0015-UOCOJ,1,68,0,0,0,7,Offer E,10.53,Two Year,48.2,0
+7408-OFWXJ,1,23,1,0,3,72,None,44.92,Two Year,89.8,0
+5203-XEHAX,1,55,0,0,0,34,None,45.56,One Year,64.35,0
+8592-PLTMQ,1,53,0,0,0,64,Offer B,4.03,One Year,24.7,0
+9210-IAHGH,1,57,0,0,0,7,Offer E,23.35,Month-to-Month,70.75,1
+4227-OJHAL,1,47,1,2,8,68,None,20.15,One Year,73.0,0
+3675-YDUPJ,0,29,0,0,0,10,Offer D,1.98,Month-to-Month,19.85,0
+1915-IOFGU,1,53,0,0,0,1,None,41.39,Month-to-Month,70.5,1
+3407-JMJQQ,1,22,1,1,2,71,None,1.84,Two Year,109.0,0
+7921-BEPCI,1,40,0,0,0,72,None,12.63,Two Year,59.75,0
+0224-HJAPT,0,25,0,0,0,5,None,22.01,Month-to-Month,47.15,1
+5044-XDPYX,1,59,1,0,7,51,None,20.47,Two Year,25.5,0
+8885-QSQBX,1,45,0,0,0,1,None,10.83,Month-to-Month,49.55,0
+8931-GJJIQ,1,46,0,0,0,9,None,29.7,Month-to-Month,83.3,1
+1557-EMYVT,1,25,0,0,0,43,Offer B,24.85,Two Year,115.05,0
+9362-MWODR,1,63,0,1,0,40,None,20.13,Month-to-Month,64.1,0
+8780-IXSTS,1,53,0,0,0,6,None,1.15,Month-to-Month,90.1,1
+0310-MVLET,1,63,1,0,1,61,None,49.33,Month-to-Month,99.15,1
+5049-GLYVG,0,56,0,0,0,1,Offer E,47.26,Month-to-Month,20.6,1
+4311-QTTAI,1,63,0,0,0,16,None,40.95,One Year,19.35,0
+1996-DBMUS,1,72,1,0,10,48,None,12.6,One Year,70.65,0
+5529-GIBVH,1,57,0,0,0,47,None,3.49,Two Year,20.15,0
+6894-LFHLY,0,79,0,0,0,1,None,8.35,Month-to-Month,75.75,1
+3646-ITDGM,1,42,0,0,0,56,Offer B,32.88,Two Year,19.7,0
+2931-XIQBR,1,41,1,3,7,50,None,47.48,One Year,103.05,0
+0945-TSONX,1,22,1,0,6,47,Offer B,29.15,Two Year,85.3,0
+4086-ATNFV,1,34,1,1,7,34,Offer C,49.58,One Year,60.8,0
+7973-DZRKH,1,20,0,1,0,66,Offer A,27.09,Two Year,90.95,0
+9089-UOWJG,1,51,1,3,2,12,None,7.97,Month-to-Month,58.35,0
+0618-XWMSS,0,60,0,0,0,28,Offer C,44.28,Month-to-Month,74.9,1
+3387-PLKUI,1,27,1,1,6,13,Offer D,16.74,Month-to-Month,18.8,0
+1895-QTKDO,1,38,0,0,0,1,None,45.59,Month-to-Month,43.95,0
+1226-IENZN,0,68,0,0,0,16,Offer D,39.52,Month-to-Month,78.75,0
+5136-GFPMB,0,44,0,0,0,54,Offer B,35.32,Month-to-Month,89.4,0
+0129-QMPDR,0,64,1,0,1,44,None,27.4,One Year,20.5,0
+0513-RBGPE,0,57,1,0,6,37,None,4.5,Two Year,62.8,0
+6910-HADCM,1,63,0,0,0,1,None,7.26,Month-to-Month,76.35,1
+2070-FNEXE,1,77,0,2,0,7,Offer E,26.95,Month-to-Month,76.45,1
+1393-IMKZG,1,50,0,0,0,1,None,2.7,Month-to-Month,95.85,0
+7853-WNZSY,0,58,0,0,0,1,Offer E,1.61,Month-to-Month,19.75,0
+5605-IYGFG,1,61,0,0,0,7,None,27.46,Month-to-Month,69.85,0
+1015-OWJKI,0,46,0,0,0,1,None,5.02,Month-to-Month,19.05,0
+2272-JKMSI,1,42,1,3,5,62,Offer B,13.25,One Year,110.8,0
+8652-YHIYU,1,30,0,3,0,16,Offer D,27.23,One Year,79.5,0
+8017-LXHFA,1,77,0,0,0,23,Offer D,31.17,Month-to-Month,94.75,1
+3258-ZKPAI,0,26,1,1,7,72,None,21.29,Two Year,116.6,0
+8189-HBVRW,1,50,0,0,0,53,None,2.51,Month-to-Month,90.8,0
+9804-ICWBG,0,56,0,0,0,1,None,45.5,Month-to-Month,69.9,1
+2039-JONDJ,0,50,0,0,0,27,None,20.29,One Year,55.45,0
+8837-VVWLQ,1,35,0,0,0,8,None,32.31,Month-to-Month,84.95,1
+8777-PVYGU,1,36,1,0,0,52,Offer B,4.22,One Year,64.3,0
+5067-XJQFU,0,77,1,0,3,66,None,21.79,One Year,108.45,0
+2890-WFBHU,1,26,0,0,0,59,Offer B,1.94,One Year,79.85,0
+0191-ZHSKZ,0,80,0,0,0,30,None,38.61,One Year,74.75,0
+1166-PQLGG,1,58,1,1,6,72,None,17.33,Two Year,19.55,0
+1492-KGETH,0,25,1,1,2,70,Offer A,35.9,One Year,78.35,0
+7587-AOVVU,0,39,1,1,0,27,None,14.07,Month-to-Month,100.75,0
+7609-NRNCA,1,21,0,0,0,17,None,42.42,One Year,19.55,0
+1402-PTHGN,1,22,1,2,7,18,Offer D,40.36,One Year,61.5,0
+0068-FIGTF,1,20,0,0,0,27,Offer C,48.91,One Year,78.2,0
+0431-APWVY,1,37,1,0,1,28,None,18.31,One Year,90.1,1
+5294-IMHHT,0,44,1,0,6,53,None,32.94,One Year,97.75,0
+1338-CECEE,0,28,1,0,4,41,None,13.58,One Year,68.5,0
+2027-DNKIV,0,28,1,3,1,37,None,35.67,One Year,58.75,0
+1580-BMCMR,0,66,0,0,0,19,None,29.8,Month-to-Month,87.3,0
+6156-UZDLF,1,19,0,0,0,26,Offer C,45.09,One Year,87.15,0
+6997-UVGOX,0,35,1,3,9,71,Offer A,22.83,Two Year,85.45,0
+4489-SNOJF,1,28,1,2,1,35,None,25.27,Month-to-Month,72.25,1
+2080-GKCWQ,0,54,0,0,0,2,None,3.76,Month-to-Month,74.95,0
+5382-SOYZL,0,39,0,0,0,22,None,11.15,Month-to-Month,95.1,0
+0810-DHDBD,1,31,0,0,0,52,None,21.38,One Year,74.0,0
+3071-MVJCD,0,40,1,0,10,72,Offer A,48.44,Two Year,82.3,0
+2568-BRGYX,0,43,0,0,0,4,None,13.02,Month-to-Month,70.2,1
+8966-OIQHG,1,49,1,2,8,22,None,45.35,One Year,20.75,0
+9432-VOFYX,0,26,0,0,0,17,Offer D,35.88,Month-to-Month,70.8,0
+9397-TZSHA,1,24,0,0,0,69,Offer A,36.5,Two Year,24.6,0
+2250-IVBWA,0,47,1,2,4,64,None,49.49,Month-to-Month,81.05,0
+9194-GFVOI,1,25,1,0,4,42,None,9.84,Two Year,84.35,0
+0835-JKADZ,1,29,0,0,0,71,None,41.92,Two Year,111.25,0
+5663-QBGIS,0,65,1,0,0,72,None,44.61,Two Year,98.35,0
+7521-YXVZY,0,38,0,3,0,3,Offer E,5.15,Month-to-Month,19.95,0
+7982-VCELR,1,20,0,0,0,36,None,19.64,Month-to-Month,94.8,0
+5119-KEPFY,0,50,1,0,3,36,None,5.99,Month-to-Month,95.0,0
+7706-YLMQA,1,30,0,0,0,70,None,10.0,One Year,19.7,0
+3733-LSYCE,1,22,1,0,6,15,None,30.09,Month-to-Month,75.35,0
+1839-FBNFR,1,35,1,1,3,39,None,32.57,Two Year,19.85,0
+3108-PCCGG,0,75,1,0,3,72,Offer A,16.72,Two Year,84.45,0
+5734-EJKXG,1,25,0,0,0,61,Offer B,38.78,One Year,118.6,0
+0480-BIXDE,1,58,1,0,9,19,Offer D,10.68,Month-to-Month,96.8,0
+0454-OKRCT,0,32,0,0,0,33,Offer C,34.85,Two Year,80.6,0
+1839-UMACK,0,20,0,0,0,42,None,27.64,One Year,25.05,0
+7622-FWGEW,0,71,1,0,8,56,None,31.68,Two Year,85.65,0
+1591-XWLGB,1,44,1,0,10,71,None,18.41,Two Year,19.85,0
+9637-EIHEQ,1,20,0,0,0,1,None,22.82,Month-to-Month,50.8,1
+0196-VULGZ,1,78,1,0,1,6,None,28.71,Month-to-Month,84.35,1
+9351-LZYGF,1,56,1,0,4,42,None,36.35,Month-to-Month,66.4,0
+5084-OOVCJ,1,25,1,3,1,17,None,20.23,Month-to-Month,55.35,0
+1703-MGIAB,1,53,0,0,0,17,None,5.49,Month-to-Month,69.0,0
+6603-QWSPR,1,20,0,0,0,46,Offer B,5.86,Two Year,104.4,0
+3640-PHQXK,1,54,0,0,0,31,None,6.33,Month-to-Month,89.9,1
+6818-WOBHJ,1,70,1,0,1,68,Offer A,24.13,Month-to-Month,89.6,1
+2171-UDMFD,0,22,1,3,5,32,Offer C,35.05,Month-to-Month,19.45,0
+5216-WASFJ,1,68,1,0,4,31,Offer C,5.3,Two Year,84.85,0
+2088-IEBAU,1,63,0,0,0,68,None,21.82,Two Year,88.15,0
+7401-RUBNK,1,25,1,0,1,18,Offer D,43.29,Month-to-Month,74.8,0
+9732-EQMWY,1,20,1,0,1,49,None,12.39,Month-to-Month,99.4,0
+6635-MYYYZ,1,59,0,0,0,30,None,43.01,One Year,85.35,1
+2207-NHRJK,0,58,0,0,0,1,Offer E,1.28,Month-to-Month,50.8,1
+9530-GRMJG,0,63,1,3,4,70,None,38.83,Two Year,84.1,0
+9746-UGFAC,1,50,0,0,0,22,Offer D,10.25,One Year,20.85,0
+8701-DGLVH,0,36,0,0,0,51,None,47.43,Two Year,20.45,0
+3594-IVHJZ,1,31,0,0,0,2,None,47.19,Month-to-Month,20.45,0
+8229-TNIQA,1,36,0,0,0,4,Offer E,39.9,Month-to-Month,45.3,1
+2054-PJOCK,1,32,0,0,0,60,None,16.11,One Year,80.55,0
+5108-ADXWO,0,30,0,0,0,11,None,38.88,Month-to-Month,73.5,1
+8763-KIAFH,1,37,1,0,10,27,None,20.96,One Year,20.55,0
+0607-MVMGC,0,33,1,0,3,45,None,39.82,One Year,78.75,0
+2452-MRMZF,1,70,1,0,9,72,None,8.48,Two Year,25.7,0
+3847-BAERP,1,27,0,0,0,10,None,12.39,Month-to-Month,20.9,0
+5370-IIVVL,0,26,0,0,0,37,Offer C,38.72,One Year,104.5,0
+2402-TAIRZ,1,48,0,0,0,37,None,9.61,One Year,80.05,0
+8166-ORCHU,0,73,1,0,10,33,None,44.54,One Year,93.55,0
+0635-WKOLD,0,33,1,0,0,40,Offer B,23.74,One Year,70.75,0
+8006-PYCSW,1,60,0,0,0,2,None,35.5,Month-to-Month,20.1,0
+0577-WHMEV,1,19,1,0,2,16,Offer D,27.83,Month-to-Month,90.7,0
+3486-NPGST,1,47,0,0,0,36,None,41.33,One Year,19.55,0
+1131-ALZWV,1,58,0,0,0,24,Offer C,42.66,One Year,24.6,0
+7547-EKNFS,0,37,1,0,1,42,Offer B,18.26,Month-to-Month,95.25,1
+5446-DKWYW,1,74,1,1,9,61,Offer B,39.31,One Year,65.2,0
+4361-FEBGN,0,41,0,0,0,48,None,33.68,Two Year,20.15,0
+3249-ZPQRG,0,28,0,0,0,4,Offer E,42.06,Month-to-Month,78.45,1
+5949-EBSQK,0,44,1,1,4,4,None,27.24,Month-to-Month,61.45,1
+3850-OKINF,0,42,1,3,0,71,Offer A,37.03,One Year,66.2,0
+2074-GKOWZ,0,49,1,0,1,2,Offer E,8.86,Month-to-Month,89.55,1
+1163-VIPRI,1,22,1,2,4,65,Offer B,13.25,Two Year,109.3,0
+9308-ANMVE,0,52,0,2,0,47,Offer B,25.25,Month-to-Month,55.3,0
+5909-ECHUI,1,49,0,0,0,1,None,26.14,Month-to-Month,56.25,1
+4685-ERGHK,0,45,0,0,0,57,Offer B,36.08,One Year,86.9,0
+0864-FVJNJ,1,63,1,1,1,64,Offer B,6.83,One Year,113.35,0
+1767-TGTKO,1,30,1,2,0,8,Offer E,5.09,Month-to-Month,45.45,0
+9374-YOLBJ,1,29,1,5,9,1,Offer E,25.1,Month-to-Month,19.25,0
+7162-WPHPM,0,44,1,3,1,58,None,40.57,Two Year,71.6,0
+8314-HTWVE,1,38,1,1,2,7,Offer E,35.26,Two Year,19.85,0
+0537-QYZZN,0,66,1,2,6,24,Offer C,4.06,Two Year,79.85,0
+1453-RZFON,1,39,0,3,0,1,Offer E,9.0,Month-to-Month,49.9,0
+0218-QNVAS,0,22,1,1,1,71,Offer A,28.34,One Year,100.55,0
+6440-DKQGE,0,52,0,0,0,30,Offer C,27.88,One Year,64.5,0
+3981-QSVQI,0,28,0,0,0,8,Offer E,22.15,Month-to-Month,19.7,0
+9863-JZAIC,0,60,0,0,0,35,None,48.93,Month-to-Month,55.0,1
+1670-SVOWZ,1,57,1,0,1,14,Offer D,7.62,Month-to-Month,89.65,1
+4672-FOTSD,0,54,0,0,0,12,Offer D,45.8,Month-to-Month,67.25,0
+2675-IJRGJ,0,62,0,0,0,53,None,23.17,Two Year,19.65,0
+8984-HPEMB,1,58,0,0,0,71,Offer A,17.9,Two Year,118.65,0
+9317-WZPGV,1,74,0,0,0,2,Offer E,39.63,Month-to-Month,79.75,1
+1635-NZATJ,0,80,1,0,3,71,Offer A,37.25,Two Year,25.45,0
+9786-IJYDL,1,49,0,0,0,35,None,30.5,Two Year,113.2,0
+0285-INHLN,0,54,1,6,5,27,None,36.19,Month-to-Month,54.75,0
+9114-DPSIA,0,22,1,3,8,72,None,2.73,Two Year,81.0,0
+0533-UCAAU,0,72,1,0,2,57,None,48.16,One Year,71.1,0
+5568-DMXZS,1,36,0,0,0,8,Offer E,37.37,Month-to-Month,65.45,0
+8645-KOMJQ,0,20,1,2,1,69,Offer A,49.16,Two Year,81.95,0
+4043-MKDTV,0,54,1,0,10,71,Offer A,37.69,Two Year,105.25,0
+0324-BRPCJ,1,74,1,0,1,68,None,21.33,Month-to-Month,100.2,1
+8883-GRDWQ,0,68,0,0,0,20,None,22.31,One Year,54.0,0
+5442-BHQNG,1,32,0,0,0,2,None,44.77,Month-to-Month,70.35,0
+0946-CLJTI,0,67,1,0,1,58,Offer B,3.18,Month-to-Month,98.7,1
+0942-KOWSM,1,24,1,0,4,30,Offer C,15.94,Two Year,80.8,0
+3120-FAZKD,0,19,1,2,7,54,Offer B,41.58,Two Year,24.05,0
+4778-IZARL,0,46,1,0,8,63,None,3.18,Two Year,110.1,0
+1471-GIQKQ,1,37,0,0,0,1,None,44.98,Month-to-Month,49.95,0
+2865-TCHJW,1,74,0,0,0,4,None,48.35,Month-to-Month,89.2,1
+9620-ENEJV,1,52,0,0,0,6,Offer E,30.54,Month-to-Month,70.55,0
+0266-GMEAO,0,43,1,1,1,72,None,15.94,Two Year,114.3,0
+4983-CLMLV,1,30,1,0,0,52,None,44.34,Month-to-Month,102.7,0
+0023-XUOPT,1,26,1,0,1,13,None,43.56,Month-to-Month,94.1,1
+2931-VUVJN,1,71,1,0,0,59,None,19.14,One Year,94.05,0
+6108-OQZDQ,1,21,1,0,4,4,Offer E,9.98,Month-to-Month,97.95,1
+9253-QXKBE,0,73,1,0,1,29,None,6.25,Month-to-Month,94.45,1
+7321-KKSDU,0,38,0,2,0,32,None,16.94,Two Year,20.5,0
+9586-JGQKH,1,61,1,0,8,64,Offer B,49.26,Two Year,105.4,0
+4644-PIZRT,0,36,1,3,5,17,None,33.24,One Year,70.35,0
+5832-EXGTT,0,28,1,3,9,29,None,1.41,Month-to-Month,60.2,0
+5236-PERKL,1,38,0,0,0,57,None,48.86,Two Year,112.95,1
+4741-WWJQZ,1,49,1,0,0,2,Offer E,26.58,Month-to-Month,80.15,0
+7903-CMPEY,0,78,1,0,1,1,None,17.51,Month-to-Month,80.3,1
+1658-TJVOA,1,65,0,0,0,6,None,12.67,Two Year,74.1,0
+4500-HKANN,0,33,1,0,6,23,None,13.79,Two Year,59.7,0
+5522-JBWMO,0,62,0,2,0,1,None,15.66,Month-to-Month,44.0,0
+5003-OKNNK,1,44,1,3,10,15,Offer D,46.64,One Year,20.35,0
+6278-FEPBZ,1,57,0,0,0,9,Offer E,2.6,Month-to-Month,20.25,0
+6478-HRRCZ,0,47,1,0,7,32,None,44.45,One Year,70.5,0
+7969-FFOWG,0,30,1,0,2,65,Offer B,18.07,Two Year,19.9,0
+7576-OYWBN,0,71,0,0,0,3,None,30.25,Month-to-Month,76.05,1
+8309-PPCED,1,33,1,0,1,72,None,46.23,Two Year,110.45,0
+3588-WSTTJ,1,78,0,0,0,35,Offer C,31.64,Month-to-Month,99.05,0
+5993-JSUWV,1,25,0,0,0,66,None,21.37,Two Year,61.15,0
+2157-MXBJS,0,20,1,0,1,13,Offer D,41.22,One Year,75.3,1
+8565-CLBZW,0,23,0,0,0,24,None,27.97,Month-to-Month,89.85,1
+3594-UVONA,1,27,0,0,0,35,Offer C,8.8,One Year,85.95,1
+4039-HEUNW,0,77,1,0,1,36,None,16.61,Month-to-Month,96.5,1
+1456-TWCGB,0,34,0,0,0,4,None,38.01,Month-to-Month,49.25,0
+4804-NCPET,0,32,1,3,3,19,None,31.7,Two Year,20.2,0
+0133-BMFZO,1,40,0,0,0,2,None,36.81,Month-to-Month,86.25,1
+3092-IGHWF,0,34,1,0,1,67,Offer A,28.4,One Year,87.4,1
+7718-RXDGG,0,54,1,0,9,15,Offer D,24.17,Month-to-Month,68.6,0
+1336-EZFZY,1,33,0,0,0,4,None,25.8,Month-to-Month,20.05,0
+1794-SWWKL,0,22,1,2,6,15,Offer D,24.36,Month-to-Month,59.65,0
+1092-WPIVQ,1,33,1,1,2,18,Offer D,39.56,Two Year,25.1,0
+8896-RAZCR,1,42,0,0,0,44,Offer B,13.45,Two Year,19.9,0
+7216-KAOID,0,27,1,1,8,41,Offer B,39.53,One Year,19.5,0
+3372-KWFBM,0,76,0,0,0,16,None,19.18,Month-to-Month,86.6,1
+4322-RCYMT,0,63,1,0,1,68,Offer A,29.18,One Year,75.8,1
+9389-ACWBI,1,47,1,2,1,5,None,1.38,Month-to-Month,69.95,0
+7048-GXDAY,0,55,0,0,0,39,Offer C,17.17,Month-to-Month,106.4,0
+7602-DBTOU,1,46,1,0,2,71,None,37.83,Two Year,19.6,0
+1697-BCSHV,1,44,1,1,2,58,Offer B,44.1,Month-to-Month,66.8,0
+0411-EZJZE,1,62,0,0,0,3,None,20.1,Month-to-Month,60.25,0
+8620-RJPZN,1,27,0,0,0,1,None,45.86,Month-to-Month,20.7,0
+2273-QCKXA,0,39,0,0,0,1,None,25.77,Month-to-Month,49.05,0
+4462-CYWMH,0,65,1,0,7,62,Offer B,27.49,Month-to-Month,89.8,0
+6248-TKCQV,1,37,1,0,5,70,None,43.81,Two Year,80.6,0
+6345-FZOQH,0,40,1,0,3,69,Offer A,30.86,Two Year,19.9,0
+0784-GTUUK,0,26,1,0,6,62,None,32.28,One Year,23.75,0
+1478-VPOAD,1,39,0,0,0,1,Offer E,37.5,Month-to-Month,43.8,0
+1038-ZAGBI,1,59,1,0,1,12,None,37.65,One Year,19.8,1
+5597-GLBUC,1,48,0,0,0,1,Offer E,22.97,Month-to-Month,85.45,1
+0270-THENM,0,62,1,2,1,72,None,28.37,Two Year,69.85,0
+6582-PLFUU,0,40,1,1,1,51,Offer B,28.96,Two Year,19.55,0
+4847-QNOKA,1,30,0,0,0,1,Offer E,41.78,Month-to-Month,44.9,1
+3882-IYOIJ,1,41,1,1,1,60,Offer B,43.33,Two Year,-9.0,0
+0731-EBJQB,1,24,1,0,3,52,Offer B,5.65,One Year,20.4,0
+9391-TTOYH,1,33,0,0,0,23,Offer D,13.98,Month-to-Month,19.5,0
+9359-UGBTK,1,63,0,0,0,67,None,5.39,One Year,72.35,0
+4713-LZDRV,1,80,0,0,0,2,Offer E,31.91,Month-to-Month,79.6,1
+5924-SNGKP,1,39,0,0,0,41,None,6.61,One Year,20.25,0
+4484-GLZOU,1,20,1,0,6,52,None,10.59,Month-to-Month,105.05,1
+9227-UAQFT,0,40,0,0,0,16,Offer D,40.17,Two Year,19.75,0
+2651-ZCBXV,0,49,0,0,0,54,Offer B,17.76,Two Year,108.0,0
+2474-BRUCM,0,76,1,0,1,40,None,2.85,Month-to-Month,101.85,1
+2400-FEQME,0,57,1,3,1,55,Offer B,40.94,Two Year,20.5,0
+8404-FYDIB,0,19,0,0,0,26,Offer C,49.87,Month-to-Month,86.65,0
+4607-CHPCA,0,63,1,0,1,25,None,35.27,One Year,90.4,1
+7061-OVMIM,1,57,1,0,1,30,None,21.14,One Year,19.55,0
+0195-IESCP,0,26,1,0,1,10,Offer D,2.02,Month-to-Month,85.25,1
+2898-MRKPI,0,36,1,1,10,68,Offer A,34.62,One Year,101.05,0
+5651-YLPRD,1,45,1,3,7,32,None,26.66,Month-to-Month,86.1,0
+3727-OVPRY,0,32,1,3,3,66,Offer A,42.84,One Year,25.7,0
+1666-JXLKU,1,64,0,0,0,37,Offer C,17.46,Month-to-Month,100.05,0
+2362-IBOOY,0,22,0,0,0,36,Offer C,43.97,Month-to-Month,84.75,1
+7766-CLTIC,1,58,0,0,0,10,None,8.35,Month-to-Month,60.95,0
+6999-CHVCF,0,40,0,0,0,68,None,49.42,Two Year,102.1,0
+8840-DQLGN,1,65,1,0,1,35,None,15.98,Month-to-Month,100.5,1
+8080-DDEMJ,0,71,0,0,0,1,Offer E,15.28,Month-to-Month,45.1,1
+1689-MRZQR,0,36,1,0,1,34,None,13.45,Month-to-Month,78.3,1
+1724-IQWNM,0,37,0,1,0,1,Offer E,8.66,Month-to-Month,19.3,0
+5159-YFPKQ,1,37,0,0,0,2,Offer E,24.31,Month-to-Month,75.8,1
+1110-KYLGQ,1,46,0,0,0,63,None,5.17,Month-to-Month,108.25,0
+2347-WKKAE,0,52,1,0,9,42,None,41.16,Month-to-Month,94.4,0
+7534-BFESC,0,69,0,0,0,24,Offer C,30.87,Month-to-Month,76.1,1
+9626-VFRGG,1,33,0,2,0,41,None,18.72,Month-to-Month,88.5,0
+3977-QCRSL,1,30,0,0,0,5,Offer E,3.37,Month-to-Month,20.15,0
+3680-CTHUH,0,22,0,0,0,60,None,44.24,One Year,116.6,0
+1624-NALOJ,0,75,0,0,0,5,None,36.36,Month-to-Month,89.8,1
+0793-TWELN,1,27,0,0,0,4,Offer E,6.5,Month-to-Month,80.15,0
+7739-LAXOG,1,51,1,0,1,32,None,46.92,Month-to-Month,91.05,1
+6734-PSBAW,0,46,1,0,1,72,Offer A,1.86,Two Year,23.55,0
+0516-WJVXC,1,21,0,0,0,5,None,3.61,Month-to-Month,54.2,1
+6543-JXSOO,1,30,1,0,5,23,Offer D,12.88,One Year,57.75,0
+2351-BKRZW,1,30,1,1,10,43,None,29.98,Two Year,75.2,0
+0602-DDUML,1,21,0,0,0,57,None,36.14,Two Year,69.75,0
+9253-VIFJQ,0,50,1,0,6,65,Offer B,39.49,One Year,67.05,0
+1575-KRZZE,1,64,0,0,0,4,Offer E,7.49,Month-to-Month,55.2,0
+4701-LKOZD,1,64,0,0,0,70,None,29.53,Two Year,89.75,0
+2829-HYVZP,0,42,0,0,0,29,None,46.12,One Year,19.8,0
+5956-VKDTT,1,72,1,0,4,5,Offer E,45.76,Month-to-Month,74.35,1
+2621-UDNLU,1,35,1,0,9,3,None,11.77,Month-to-Month,20.85,0
+0118-JPNOY,1,71,0,0,0,26,None,33.74,Month-to-Month,85.8,0
+6000-APYLU,0,39,0,0,0,9,None,20.34,Month-to-Month,80.8,1
+1354-YZFNB,0,53,1,3,0,4,Offer E,29.09,Two Year,19.55,0
+3957-HHLMR,1,50,1,0,1,70,Offer A,29.72,One Year,65.2,0
+9565-JSNFM,0,39,0,0,0,38,None,33.71,One Year,70.45,1
+0259-GBZSH,0,22,0,0,0,2,Offer E,40.43,Month-to-Month,85.65,1
+4849-PYRLQ,1,80,0,0,0,56,None,37.3,Two Year,73.25,0
+9402-ORRAH,1,80,0,0,0,15,None,39.57,Two Year,91.5,0
+1389-CXMLU,0,65,0,0,0,3,Offer E,26.32,Month-to-Month,91.05,1
+2867-UIMSS,0,24,0,0,0,1,None,35.77,Month-to-Month,80.5,1
+1984-FCOWB,1,21,1,0,1,70,Offer A,41.88,One Year,109.5,1
+0379-DJQHR,0,60,1,0,1,67,None,45.25,Two Year,81.35,0
+3688-FTHLT,1,56,0,0,0,16,None,42.73,Month-to-Month,63.05,0
+1752-OZXFY,0,39,1,0,6,60,Offer B,15.24,One Year,59.8,0
+2928-HLDBA,1,31,0,0,0,6,Offer E,7.72,Month-to-Month,20.7,0
+7445-WMRBW,1,49,0,0,0,48,Offer B,21.39,One Year,73.85,0
+3541-ZNUHK,1,51,1,2,5,55,None,20.1,Month-to-Month,85.1,0
+0983-TATYJ,1,42,1,0,7,33,None,48.09,One Year,51.45,0
+9102-OXKFY,0,35,0,0,0,59,Offer B,49.48,Two Year,54.15,0
+5940-NFXKV,0,59,1,0,1,19,None,14.09,Month-to-Month,83.65,1
+4770-QAZXN,1,42,0,0,0,13,Offer D,46.3,Month-to-Month,19.45,0
+2921-XWDJH,1,76,1,0,0,38,None,3.42,Two Year,83.45,0
+3552-CTCYF,0,42,1,3,4,63,Offer B,40.73,Two Year,104.8,0
+9650-VBUOG,0,44,1,1,9,38,Offer C,33.1,Two Year,25.05,0
+9465-RWMXL,0,62,1,0,1,32,Offer C,22.57,Month-to-Month,78.9,1
+3194-ORPIK,1,59,1,0,1,50,None,35.33,Month-to-Month,84.4,1
+7254-IQWOZ,0,30,0,0,0,1,Offer E,28.7,Month-to-Month,69.65,1
+5857-TYBCJ,0,72,1,0,6,44,Offer B,14.65,Two Year,89.2,0
+8535-SFUTN,0,21,0,0,0,61,Offer B,36.05,Month-to-Month,106.45,0
+3521-HTQTV,0,54,0,0,0,34,None,20.47,Two Year,26.1,0
+7964-YESJC,1,21,1,0,6,24,None,9.3,Month-to-Month,66.3,0
+4194-FJARJ,1,22,1,3,6,54,None,8.53,Two Year,60.0,0
+7434-SHXLS,1,21,0,0,0,1,Offer E,15.73,Month-to-Month,20.9,1
+2368-GAKKQ,1,28,0,0,0,70,Offer A,17.32,Two Year,113.65,0
+9978-HYCIN,0,72,1,1,1,47,None,42.29,One Year,84.95,0
+0568-ONFPC,0,34,1,1,1,5,Offer E,40.05,Month-to-Month,25.9,1
+8601-QACRS,1,54,0,0,0,5,Offer E,37.1,Month-to-Month,50.6,1
+6356-ELRKD,1,29,0,0,0,1,None,6.67,Month-to-Month,95.6,1
+8784-CGILN,1,34,0,0,0,18,None,36.49,Month-to-Month,99.85,1
+9593-CVZKR,1,20,1,2,2,56,Offer B,31.53,Two Year,24.45,0
+2869-ADAWR,1,41,0,0,0,45,Offer B,14.12,Month-to-Month,89.3,1
+6599-GZWCM,1,39,0,0,0,13,None,42.62,One Year,74.65,0
+4822-RVYBB,0,75,0,0,0,8,Offer E,40.45,Month-to-Month,100.6,1
+6727-IOTLZ,0,48,1,0,3,14,Offer D,5.17,Two Year,81.95,0
+0201-OAMXR,1,30,0,0,0,70,Offer A,10.21,One Year,115.55,1
+2207-RYYRL,0,34,1,1,6,52,Offer B,29.55,Two Year,24.55,0
+8003-EWNDZ,1,52,0,0,0,10,None,10.46,Month-to-Month,21.2,0
+1428-GTBJJ,0,20,0,0,0,11,None,5.4,Month-to-Month,74.55,1
+2982-VPSGI,1,64,1,0,1,11,Offer D,25.67,Month-to-Month,94.0,1
+5906-CVLHP,1,60,1,0,1,45,None,42.04,One Year,54.15,1
+0506-YLVKJ,0,54,1,1,1,46,None,45.92,Two Year,20.2,0
+5569-OUICF,1,67,1,0,1,28,Offer C,16.43,Month-to-Month,101.3,1
+2439-QKJUL,0,31,0,0,0,5,None,7.83,Month-to-Month,20.25,0
+5035-BVCXS,0,20,0,0,0,11,None,13.55,Month-to-Month,75.9,0
+2882-DDZPG,1,27,0,0,0,12,None,35.81,Month-to-Month,19.45,0
+5680-LQOGP,1,21,0,0,0,68,Offer A,14.86,Two Year,82.45,0
+1427-VERSM,1,62,1,0,3,56,Offer B,7.0,Month-to-Month,98.7,0
+5447-WZAFP,1,22,0,0,0,53,Offer B,8.33,One Year,100.3,0
+9644-UMGQA,0,48,1,3,1,6,Offer E,34.7,Month-to-Month,49.15,0
+0570-BFQHT,1,38,0,0,0,9,None,32.57,Month-to-Month,80.55,0
+6457-GIRWB,0,57,0,0,0,1,None,22.03,Month-to-Month,69.35,1
+4237-CLSMM,0,45,1,0,10,2,None,34.38,Month-to-Month,20.0,0
+9738-QLWTP,0,47,0,0,0,39,None,35.13,One Year,81.9,0
+5955-ERIHD,0,53,1,0,1,18,Offer D,31.49,Month-to-Month,94.7,1
+7746-QYVCO,0,57,1,0,1,16,Offer D,21.04,One Year,55.85,0
+3106-ULWFW,1,32,1,0,0,8,Offer E,26.41,Month-to-Month,85.2,1
+2388-LAESQ,1,74,1,0,3,72,Offer A,28.72,Two Year,114.85,0
+0581-MDMPW,1,63,0,0,0,24,Offer C,44.09,Month-to-Month,88.95,0
+3834-XUIFC,0,23,0,0,0,7,Offer E,18.83,Month-to-Month,85.2,1
+2703-AMTUL,0,40,1,1,2,36,None,8.0,One Year,53.65,0
+4495-LHSSK,1,25,0,2,0,18,Offer D,17.51,Month-to-Month,57.65,0
+8896-BQTTI,0,41,0,0,0,1,Offer E,3.39,Month-to-Month,25.0,0
+1550-EENBN,1,23,0,0,0,31,None,45.71,Month-to-Month,104.35,0
+9548-LIGTA,0,26,1,0,2,61,None,20.34,Two Year,81.05,0
+2805-AUFQN,1,42,0,0,0,25,Offer C,13.93,Two Year,19.8,0
+2257-BOVXD,0,48,1,0,3,14,None,22.14,Month-to-Month,66.6,0
+4513-CXYIX,1,73,1,0,4,71,Offer A,43.99,Two Year,80.7,0
+7318-EIVKO,0,38,0,0,0,8,Offer E,48.2,Month-to-Month,59.25,0
+8160-HOWOX,1,30,0,0,0,7,None,48.16,Month-to-Month,66.85,0
+1841-YSJGV,0,58,1,0,9,72,Offer A,40.78,Two Year,109.95,0
+8659-HDIYE,1,68,0,0,0,64,None,27.7,Two Year,74.65,0
+3097-FQTVJ,1,23,0,0,0,41,Offer B,10.09,Two Year,20.0,0
+1159-WFSGR,1,59,1,2,3,16,Offer D,45.54,Month-to-Month,20.4,0
+4803-AXVYP,1,75,0,0,0,38,Offer C,47.39,Month-to-Month,99.55,1
+5619-PTMIK,1,25,1,0,1,46,Offer B,44.74,Month-to-Month,53.1,0
+5129-JLPIS,0,27,0,0,0,25,None,10.4,Month-to-Month,105.5,0
+6204-IEUXJ,1,30,0,0,0,3,Offer E,40.67,Month-to-Month,80.1,1
+0083-PIVIK,0,25,0,0,0,64,None,5.49,One Year,81.25,0
+5624-BQSSA,1,19,0,0,0,1,None,40.48,Month-to-Month,20.95,1
+3407-QGWLG,0,23,0,1,0,3,None,37.85,Month-to-Month,20.05,0
+0178-SZBHO,0,54,1,1,7,47,None,1.09,Month-to-Month,87.2,0
+1013-QCWAM,1,73,1,0,0,66,Offer A,28.06,Two Year,100.8,0
+3005-TYFRD,1,54,1,0,4,55,Offer B,33.66,Month-to-Month,103.65,0
+5968-VXZLG,0,45,0,0,0,2,None,1.87,Month-to-Month,46.6,0
+4927-WWOOZ,0,39,1,0,0,2,None,49.41,Month-to-Month,91.45,0
+8597-CTXVJ,0,31,0,1,0,70,None,26.62,One Year,64.95,0
+1986-PHGZF,0,73,0,0,0,18,Offer D,47.34,Two Year,58.4,0
+8019-ENHXU,0,50,1,0,1,42,Offer B,34.65,Month-to-Month,99.45,1
+0997-YTLNY,1,59,0,2,0,19,Offer D,4.03,Month-to-Month,48.8,0
+0562-FGDCR,1,61,1,3,9,72,None,21.84,Two Year,74.55,0
+2674-MLXMN,1,73,0,0,0,71,Offer A,34.36,Two Year,99.65,0
+6202-DYYFX,1,64,0,0,0,22,Offer D,19.72,One Year,-5.0,0
+2565-JSLRY,0,21,0,0,0,1,None,20.26,Month-to-Month,24.05,1
+9702-AIUJO,0,22,1,2,10,50,None,36.61,One Year,44.8,0
+1852-QSWCD,0,62,1,1,1,64,None,35.25,Two Year,24.8,0
+4853-RULSV,0,25,0,0,0,70,Offer A,12.19,Two Year,104.0,1
+9451-LPGOO,0,22,0,0,0,7,Offer E,30.61,Month-to-Month,86.8,1
+1043-YCUTE,0,19,1,0,1,56,Offer B,13.2,Two Year,25.15,1
+3724-BSCVH,0,37,1,1,0,10,Offer D,37.59,One Year,20.45,0
+4013-GUXND,0,37,0,0,0,1,Offer E,48.14,Month-to-Month,20.8,0
+4821-WQOYN,1,25,1,2,6,72,None,22.05,Two Year,20.1,0
+9798-DRYDS,1,52,1,0,6,17,None,47.59,One Year,61.95,0
+5148-ORICT,1,23,1,0,2,64,None,18.03,Two Year,74.35,0
+0442-TDYUO,0,44,1,0,4,48,None,33.06,Two Year,20.05,0
+4913-EHYUI,0,80,1,0,0,56,Offer B,48.8,One Year,104.55,1
+9450-TRJUU,0,52,0,0,0,35,None,41.21,Month-to-Month,83.15,0
+8348-JLBUG,0,77,1,0,5,64,None,14.87,One Year,80.3,0
+6769-DYBQN,0,77,0,0,0,46,None,36.78,Month-to-Month,85.0,1
+4550-EVXNY,1,52,0,0,0,1,Offer E,49.24,Month-to-Month,69.65,1
+7530-HDYDS,1,26,0,0,0,38,None,17.66,Month-to-Month,84.25,1
+8401-EMUWF,0,64,1,1,10,42,Offer B,16.67,Month-to-Month,69.4,0
+7760-OYPDY,1,32,0,2,0,2,None,5.85,Month-to-Month,80.65,1
+0104-PPXDV,0,61,1,0,10,58,None,18.37,One Year,50.3,0
+7639-LIAYI,0,23,0,0,0,52,Offer B,29.16,Two Year,79.75,0
+8380-PEFPE,0,60,0,0,0,1,None,17.54,Month-to-Month,71.65,1
+1173-NOEYG,1,25,1,0,1,27,None,18.74,Month-to-Month,90.15,0
+5947-SGKCL,1,19,1,3,6,15,Offer D,4.19,Month-to-Month,105.35,0
+1379-FRVEB,0,31,0,1,0,15,Offer D,30.22,Month-to-Month,91.0,0
+4080-OGPJL,1,53,0,0,0,8,Offer E,48.14,Month-to-Month,71.15,1
+9134-CEQMF,0,75,1,0,1,7,Offer E,13.63,Month-to-Month,89.5,1
+3585-YNADK,1,25,1,0,2,57,None,6.63,One Year,74.6,0
+1498-DQNRX,1,46,1,0,0,29,None,5.69,Month-to-Month,19.85,0
+5442-PPTJY,0,44,1,3,7,12,Offer D,4.71,Two Year,19.7,0
+7938-OUHIO,0,28,0,0,0,3,Offer E,32.76,Month-to-Month,98.7,1
+0201-MIBOL,1,68,0,0,0,66,None,10.45,Two Year,102.4,0
+3717-FDJFU,0,19,0,1,0,5,Offer E,29.15,Two Year,20.45,0
+2952-QAYZF,0,30,0,0,0,5,None,36.52,Month-to-Month,85.3,1
+6821-JPCDC,1,29,1,0,4,48,None,47.64,One Year,97.05,0
+4184-TJFAN,1,68,1,0,1,3,Offer E,25.77,Month-to-Month,88.3,1
+2592-HODOV,0,44,0,0,0,13,Offer D,45.03,One Year,19.3,0
+1597-FZREH,1,39,0,0,0,2,Offer E,41.64,Month-to-Month,76.4,1
+2806-MLNTI,0,79,1,0,4,52,None,29.15,One Year,105.1,0
+1626-ERCMM,0,75,1,0,7,20,None,5.31,Month-to-Month,94.55,1
+3946-JEWRQ,0,21,1,0,1,47,None,20.93,One Year,95.2,0
+8413-VONUO,0,34,0,0,0,2,None,16.76,Month-to-Month,95.65,1
+6275-YDUVO,1,62,0,0,0,2,Offer E,24.05,Month-to-Month,-5.0,1
+6691-CCIHA,1,46,1,0,1,62,Offer B,4.7,Two Year,84.95,0
+9909-DFRJA,1,60,0,0,0,26,Offer C,40.14,One Year,95.85,0
+8573-CGOCC,0,48,0,0,0,16,None,24.79,Month-to-Month,19.75,0
+6551-GNYDG,1,33,1,1,7,14,None,40.22,Month-to-Month,80.9,0
+4277-PVRAN,1,34,0,0,0,8,None,36.39,Month-to-Month,80.1,1
+0363-SVHYR,0,28,1,3,10,71,Offer A,10.11,Two Year,86.85,0
+8735-SDUFN,1,65,1,0,5,72,Offer A,8.68,Two Year,24.3,0
+0219-YTZUE,0,26,1,0,5,4,Offer E,28.77,Month-to-Month,84.8,1
+6797-UCJHZ,1,74,1,0,7,66,Offer A,25.51,One Year,104.6,0
+2108-YKQTY,1,42,0,0,0,4,None,9.81,Month-to-Month,50.7,1
+9931-KGHOA,1,48,1,0,9,46,None,13.05,Month-to-Month,55.0,0
+7469-LKBCI,0,21,0,0,0,16,Offer D,32.62,Two Year,18.95,0
+3855-ONCAR,1,35,1,3,9,4,None,41.93,Month-to-Month,78.9,0
+0853-TWRVK,0,59,1,0,5,72,None,6.15,Two Year,105.6,0
+7696-AMHOD,1,23,1,1,10,49,None,9.07,One Year,78.0,0
+6303-KFWSL,1,28,0,0,0,29,None,39.35,One Year,55.25,0
+5092-STPKP,1,45,0,0,0,24,None,30.18,Month-to-Month,56.35,0
+7130-VTEWQ,1,74,0,0,0,8,None,13.8,Month-to-Month,75.75,1
+2479-BRAMR,0,74,1,0,1,41,Offer B,45.84,Month-to-Month,83.75,1
+7184-LRUUR,1,22,0,0,0,22,None,1.74,One Year,65.25,0
+7586-ZATGZ,0,59,0,0,0,40,None,17.83,Month-to-Month,84.9,0
+0326-VDYXE,1,21,1,0,9,70,Offer A,16.66,One Year,97.65,0
+1452-VOQCH,0,61,0,0,0,1,None,4.53,Month-to-Month,75.1,0
+8519-IMDHU,0,74,1,0,1,15,None,45.25,Month-to-Month,85.6,1
+1937-OTUKY,1,32,1,0,1,72,None,25.48,Two Year,98.2,0
+2293-IJWPS,1,39,1,0,5,57,Offer B,3.72,One Year,100.75,0
+5419-JPRRN,0,32,0,0,0,1,None,10.38,Month-to-Month,101.45,1
+5916-QEWPT,1,61,1,0,1,2,Offer E,27.41,Month-to-Month,69.0,0
+6122-LJADA,0,31,1,1,7,70,None,2.5,Two Year,90.15,0
+3146-JTQHR,0,23,1,0,3,10,Offer D,39.35,One Year,19.6,0
+3546-GHEAE,0,29,0,0,0,7,None,9.43,Two Year,19.45,0
+3533-UVMOM,0,56,1,0,4,68,None,11.94,Two Year,70.95,0
+0181-RITDD,0,42,1,3,2,62,None,1.76,Two Year,108.15,0
+0634-SZPQA,1,64,0,0,0,23,None,3.55,Month-to-Month,90.05,1
+3365-SAIGS,1,60,0,0,0,17,None,22.61,Month-to-Month,83.55,0
+9375-MHRRS,0,37,0,0,0,6,Offer E,23.01,Month-to-Month,50.05,0
+6461-PPAXN,1,20,1,0,5,35,None,42.18,One Year,54.95,0
+7252-NTGSS,1,43,0,0,0,1,None,42.34,Month-to-Month,45.15,0
+8033-VCZGH,0,27,1,0,0,50,None,23.28,One Year,103.95,0
+2930-UOTMB,1,29,0,0,0,31,Offer C,31.14,Month-to-Month,65.25,1
+4188-PCPIG,1,32,1,0,1,57,Offer B,48.0,Two Year,70.35,0
+6616-AALSR,1,23,1,1,5,65,None,13.17,Two Year,104.3,0
+3097-NQYSN,0,73,1,0,3,2,None,4.19,Month-to-Month,86.85,1
+3086-RUCRN,1,33,0,0,0,66,Offer A,43.14,Month-to-Month,103.1,0
+1785-BPHTP,0,64,1,2,6,28,None,3.18,Month-to-Month,85.45,0
+1442-OKRJE,0,40,1,2,7,66,None,39.45,One Year,103.15,0
+9073-ZZIAY,0,51,1,0,2,62,None,43.2,Two Year,86.1,0
+3987-KQDDU,0,58,0,0,0,9,None,21.11,Month-to-Month,75.6,0
+0674-DGMAQ,0,78,1,0,9,32,Offer C,43.54,Two Year,93.5,0
+0848-ZGQIJ,1,56,1,0,3,16,Offer D,10.5,Month-to-Month,94.65,0
+7114-AEOZE,1,53,0,0,0,60,Offer B,31.12,Two Year,19.85,0
+7375-WMVMT,0,75,1,0,2,71,None,1.23,Two Year,95.5,0
+4395-PZMSN,0,67,0,0,0,5,Offer E,18.38,Two Year,85.55,0
+2808-CHTDM,1,47,1,2,4,23,None,35.86,Two Year,25.1,0
+7073-QETQY,0,59,1,0,9,66,Offer A,45.03,One Year,20.35,0
+8404-GFGCZ,0,49,1,0,7,4,Offer E,10.13,Month-to-Month,65.6,0
+8917-FAEMR,1,28,0,0,0,37,None,26.49,Two Year,19.85,0
+7924-GJZFI,1,75,1,0,7,25,None,38.59,Two Year,69.3,0
+0628-CNQRM,0,49,1,0,1,22,None,19.8,One Year,67.5,1
+5081-NWSUP,1,54,0,0,0,10,Offer D,37.45,One Year,64.9,0
+6326-MTTXK,0,56,0,0,0,8,Offer E,3.27,Month-to-Month,100.85,1
